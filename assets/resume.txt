@@ -1,0 +1,153 @@
+john@hjsoft.com 27 Oakgrove Ln Millersville PA 17551 717.808.0917
+
+-   CONTRACTOR, November 2014–Present. e&e Consulting Services /
+    PennState Hershey Medical Center. Hershey, PA.
+
+    -   Updated, maintained, and replaced legacy Java web applications
+        for identity management with modern Grails applications.
+
+    -   Replaced an old batch identity management system based on Perl
+        and Java with a new system based on Groovy frameworks and script
+        applications running on Windows and Solaris.
+
+    -   Introduced automated testing using Spock, Geb, Webdriver,
+        Gradle, and Jenkins for web applications and batch jobs based on
+        Java, Groovy, Grails, and LDAP.
+
+    -   Mentored team members on best practices in test-driven design
+        for command-line and web environments.
+
+    -   Lead the transition to an Agile/Scrum development process using
+        JIRA and served as a scrum master for 2 development teams.
+
+-   SOFTWARE ENGINEER, May 2012–October 2014. Learning Sciences
+    International, Mount Joy, PA.
+
+    -   Introduced automated tests for our hosted web application based
+        on Grails, Spock, Geb, Webdriver, Bamboo, Jenkins.
+
+    -   Mentored and lead a scrum team in Groovy, Grails, test-driven
+        design, and executable documentation.
+
+    -   Developing new features, fixing bugs in Groovy/Grails, and
+        Spring web applications backed by MongoDB and PostgreSQL.
+
+    -   Assisted to automate management and deployment of applications
+        in Linux/AWS.
+
+    -   Built load tests for our web applications with JMeter and custom
+        Geb/Webdriver scripts.
+
+    -   Built a data warehouse on PostgreSQL with ETL from MongoDB for
+        reporting with Pentaho and custom solutions.
+
+-   QA AUTOMATION ENGINEER, July 2010–May 2012. eBay Enterprise / GSI
+    Commerce, King of Prussia, PA.
+
+    -   Wrote functional tests and browser automation in Java, TestNG,
+        Selenium WebDriver, Groovy, and Geb to test mobile e-commerce
+        web applications (for smart phone, feature phone, and keitai).
+
+    -   Enhanced an existing functional test framework to support
+        desktop and mobile web applications.
+
+    -   Determined new approaches for automated testing web applications
+        for mobile.
+
+-   SENIOR SOFTWARE ENGINEER, July 2007–May 2010. AOL MapQuest,
+    Lancaster, PA.
+
+    -   Implemented corridor search and refined other spatial searches
+        in SOLR and Lucene full-text search engines.
+
+    -   Extended and redesigned the XML middle tier service to integrate
+        search engines, mapping components and enhanced data sources to
+        provide a complete set of search capabilities needed by
+        MapQuest.com website and mobile products built on Tomcat,
+        XStream, Java, and Linux.
+
+    -   Introduced and refined the test-driven development process using
+        continuous integration servers running unit tests in JUnit, and
+        producing test coverage and performance metrics with Cobertura
+        and JMeter.
+
+    -   Worked closely with QA team members to build powerful automated
+        tools based on Fitnesse, Groovy, Grails, and HttpClient to test
+        our XML-based, middle-tier software.
+
+    -   Mentored and trained team members in test-driven design,
+        refactoring, maintaining object-oriented software, and agile
+        project structure through pair programming, code reviews, and
+        documentation.
+
+    -   Developed system for merging business data from multiple sources
+        and loading it into various search engines using Bash scripting,
+        Java, Ruby, Groovy, JPA, Hibernate, and MySQL.
+
+    -   Managed source control (branching and merging) across multiple
+        projects and code releases with Subversion.
+
+-   JAVA PROGRAMMER, February 2003–July 2007. Administrative Offices of
+    Pennsylvania Courts, Mechanicsburg, PA.
+
+    -   Redesigned and extended the Java middle tier of the Pennsylvania
+        Court of Common Pleas court management system based on XML,
+        JDBC, T-SQL, and EJB running on Sybase EAServer connecting to
+        Sybase SQL Servers on Solaris.
+
+    -   Increased long-term maintainability by extensive refactoring
+        into reusable frameworks and introducing a common build system
+        based on Ant.
+
+    -   Introduced concurrent, message-based processing to the system
+        that transforms data from legacy court systems into the current
+        state systems using Java, message-driven EJB (MDB), and T-SQL.
+
+    -   Trained and mentored team members on new frameworks, unit
+        testing, and test-driven design.
+
+    -   Supported production logging and alerts using Solaris shell
+        scripting, Perl, and HP OpenView.
+
+-   SENIOR PROGRAMMER/ANALYST, May 2000–February 2003. Educators Mutual
+    Life & IBSi, Lancaster, PA.
+
+    -   Designed and built a CRM portal for insurance brokers based on
+        J2EE.
+
+    -   Built a desktop application to manage insurance claims using
+        Java, Swing, and DB2 (on AS/400).
+
+    -   Trained team members in J2EE, object-oriented design, and CVS
+        source control.
+
+-   STUDENT UNIX ADMINISTRATOR AND NETWORK ANALYST, March 1997–May 2000.
+    Millersville University, Millersville, PA.
+
+    -   Maintained Solaris, HP-UX, and Linux workstations and servers
+        for the Computer Science and Networking/Computer Services
+        Departments of Millersville University.
+
+    -   Installed network hardware and built monitoring tools.
+
+-   VOLUNTEER FIRE FIGHTER, April 1991–May 2000. Yorkana Community
+    Volunteer Fire Company, Yorkana, PA.
+
+    -   Custom reporting software, emergency service, fundraising.
+
+-   MILLERSVILLE UNIVERSITY. Bachelor of Science in Computer Science.
+    May 2000.
+
+-   Ross, Paul, R. Webster, T. Bailey, S. Conrad, M. Fiorill, J.
+    Flinchbaugh, E. Velkly, “Controlling a Pepsi Vending Machine over
+    the World Wide Web Using Java,” _Proceedings of the International
+    AACE WebNet98 Conference_, Orlando, Florida, November 7–12, 1998.
+
+-   Webster, Roger, P. Ross, T. Bailey, S. Conrad, M. Fiorill, J.
+    Flinchbaugh, E. Velkly, “Controlling a Java Enabled Pepsi Vending
+    Machine over the World Wide Web”, _Proceedings of the 25th Annual
+    Conference of the IEEE Industrial Electronics Society IECON ’99
+    Conference_, San Jose, California, November 30–Dec. 4, 1999, Vol. 1,
+    pps. 86–90.
+
+

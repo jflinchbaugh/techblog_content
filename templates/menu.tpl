@@ -35,13 +35,13 @@ div(class: 'navbar navbar-default navbar-fixed-top', role: 'navigation') {
                     ul(class: 'dropdown-menu') {
                         li {
                             a(
-                                href: 'http://www.hjsoft.com/~john/resume.txt',
+                                href: "${content.rootpath}resume.txt",
                                 'TXT'
                             )
                         }
                         li {
                             a(
-                                href: 'http://www.hjsoft.com/~john/resume.PDF',
+                                href: "${content.rootpath}resume.pdf",
                                 'PDF'
                             )
                         }
