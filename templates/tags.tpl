@@ -9,7 +9,7 @@ layout(
             a(href: '#all', 'All the posts...')
         }
         tag_posts.take(4).each { post ->
-            a(href: post.uri) {
+            a(href: "${content.rootpath}${post.uri}") {
                 h2(post.title)
             }
             p(
