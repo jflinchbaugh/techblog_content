@@ -1,0 +1,18 @@
+title=Split the Blogs
+date=2017-04-06
+type=post
+status=published
+tags=Blog,Photography
+~~~~~~
+Since the beginning when I rebuilt
+my blog with JBake,
+I intended to split and restyle
+the photography work from the tech work.
+
+The photo work just disappeared from here,
+so now it can be found at
+http://blog.johnflinchbaugh.com/[John Flinchbaugh Photography].
+
+Both sites are rebuilt
+whenever new content is pushed
+to their respective git repositories.
