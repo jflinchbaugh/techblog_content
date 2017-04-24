@@ -1,0 +1,33 @@
+title=Too Many MacVims Installed
+date=2017-04-24
+type=post
+status=published
+tags=Mac,Work
+~~~~~~
+I have https://github.com/macvim-dev/macvim[MacVim] installed
+by https://brew.sh/[Homebrew],
+but MacVim still pops up sometimes to suggest an update,
+and `brew` updates it as well.
+After a year or 2 of this,
+my "Open with..." menu
+was littered with about 7 different versions
+of MacVim dating back to version 7.4.
+
+I figured I'd try to uninstall it,
+`brew uninstall macvim`,
+and see how many version I'm left.
+The simple uninstall
+confirmed that quite a few versions
+of MacVim were installed,
+and suggested the `--force` option
+to remove them all, so I did.
+That left `mvim` no longer working in the shell,
+and fortunately,
+*all* the MacVims had disappeared
+from the "Open with..." menu as well.
+
+Reinstalling it with `brew install macvim`
+leaves me nicely with only one MacVim now.
+I'll have to see if they multiply again,
+but now I'll have this note to myself
+on how to fix it.
