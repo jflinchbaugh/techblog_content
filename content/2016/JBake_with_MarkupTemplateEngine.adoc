@@ -2,7 +2,7 @@ title=JBake with MarkupTemplateEngine
 date=2016-11-03
 type=post
 status=published
-tags=Blog, Blog Code
+tags=Blog, Blog Code, Groovy
 ~~~~~~
 JBake 2.5.0 got support for the MarkupTemplateEngine,
 so I wanted to give it a try, since structured code will be nicer
