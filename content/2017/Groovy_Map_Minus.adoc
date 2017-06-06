@@ -1,0 +1,42 @@
+title=Groovy Map Minus
+date=2017-06-06
+type=post
+status=published
+tags=Code, Groovy, Work
+~~~~~~
+Groovy is relatively intuitive for me:
+I can usually guess
+a method or operator
+and find it works
+as I had guessed.
+
+Removing a key/value by the key
+from a Map conveniently
+eludes me though.
+I always guess that I should be able
+to _minus_ a key from a Map
+to produce a new Map
+with that entry /value removed.
+That doesn't work,
+so I needed to invent my own.
+I still not sure how to _practically_
+apply it everywhere though,
+or if it's even worthwhile.
+
+----
+@Category(Map)
+class MapMinus {
+    Map minus(Collection keys) {
+        this.findAll { k, v -> ! (k in keys) }
+    }
+    Map minus(Object key) {
+        this - [key]
+    }
+}
+
+use (MapMinus) {
+    assert [b: 2, c: 3,] == [a: 1, b: 2, c: 3,] - 'a'
+    assert [b: 2, c: 3,] == [a: 1, b: 2, c: 3,] - ['a']
+
+}
+----
