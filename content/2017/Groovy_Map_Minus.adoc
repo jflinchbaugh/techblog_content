@@ -22,6 +22,8 @@ so I needed to invent my own.
 I still not sure how to _practically_
 apply it everywhere though,
 or if it's even worthwhile.
+In practice,
+I always end up writing the `findAll` inline.
 
 ----
 @Category(Map)
