@@ -1,0 +1,48 @@
+title=Refiltering Mail
+date=2017-06-07
+type=post
+status=published
+tags=Linux
+~~~~~~
+Spamassassin daemon
+on my server
+had apparently shutdown,
+and I hadn't noticed
+until I logged in
+to check email and found thousands
+of emails in my inbox,
+instead of having been properly filtered
+for spam.
+I cleaned up about 100 messages by hand,
+but I quickly realized I didn't want to do this anymore.
+I found a
+https://unix.stackexchange.com/questions/41971/how-can-i-apply-my-procmail-filters-to-my-maildir-inbox[tip at the Unix StackExchange]
+suggesting that `procmail`
+could be run again
+on each message file
+as it sits in the `Maildir`,
+and each would be processed
+through spamassassin normally
+and redelivered
+to the correct mailbox.
+
+To be safe,
+I moved all the new mail files
+(`~/Maildir/new/\*`)
+to `/tmp/mail`,
+fired up `mutt` to see them all gone,
+and then piped each file into
+`procmail` again:
+----
+for x in /tmp/mail/\*; do echo $x; procmail < $x; done
+----
+
+Back in `mutt`,
+I could see mail starting
+to appear again in my inbox
+and in my spam folders.
+
+When the loop was done,
+and I was sure my inbox looked good,
+I removed `/tmp/mail`,
+and I was back in business.
