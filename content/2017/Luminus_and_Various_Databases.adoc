@@ -1,0 +1,12 @@
+title=Luminus and Various Databases
+date=2017-08-24
+type=post
+status=draft
+tags=Code,Clojure
+~~~~~~
+https://unix.stackexchange.com/questions/41971/how-can-i-apply-my-procmail-filters-to-my-maildir-inbox[tip at the Unix StackExchange]
+`procmail` again:
+----
+for x in /tmp/mail/\*; do echo $x; procmail < $x; done
+----
+
