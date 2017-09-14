@@ -1,0 +1,41 @@
+title=Alternate Constructors in Groovy
+date=2017-09-14
+type=post
+status=published
+tags=Code,Groovy
+~~~~~~
+There are a variety of ways to construct objects in Groovy.
+We were looking for something more dynamic
+where we could parameterize the object
+to be constructed.
+
+We found a couple different things that worked
+to instantiate an object:
+
+----
+
+import groovy.transform.*
+
+@ToString
+class MyClass {
+    String first
+    String last
+}
+
+def map = [first: 'f', last: 'l']
+
+// instantiate from literal class reference
+println new MyClass(map)
+println MyClass.newInstance(map)
+println (map as MyClass)
+println map.asType(MyClass)
+
+// instantiate from a variable reference the class
+def clazz = MyClass
+
+println map.asType(clazz)
+// println (map as clazz) // 'as' operator doesn't like 'clazz' variable
+println clazz.newInstance(map)
+
+----
+
