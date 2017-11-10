@@ -1,0 +1,72 @@
+title=Lifecycles of Test Data
+date=2017-11-10
+type=post
+status=published
+tags=Code,Testing
+~~~~~~
+
+Managing data created
+by tests
+can be a bit
+of work.
+The environments and frameworks
+we allow ourselves
+can help us
+or sometimes hinder
+our efforts.
+
+Building test data
+from scratch every time
+in isolated storage is best.
+That's why unit testing
+with mocks and data in memory
+is so great,
+and why it's worth the trouble
+to use a fresh new database
+for every test run.
+Grails helps us by using
+an in-memory H2 database.
+
+If you must share test data,
+confirm its expected state
+before testing with it
+and NEVER modify it.
+Race conditions between threads
+changing data are bad,
+and races between developers
+or build servers changing data
+are especially bad as well,
+even with only 2 builds.
+It's embarrassing and limiting
+to have a project that can be built
+by only one person (or build server) at a time,
+and having any more would cause failures.
+
+For the tests that must modify data that is shared,
+create that data in a random fashion,
+and only make changes to the data created by the test.
+Try to clean it up at the end,
+but if you don't that's mostly OK,
+because you'll never try to reuse it again.
+Regardless if you try to clean up or not,
+you'll still need to write the tests
+to assume there's unexpected data
+in case a cleanup failed,
+or another test suite is being run concurrently.
+This provides opportunity
+for the tests to be clearer
+about what they really want to say.
+Instead of saying,
+"There are 2 records, the first is  'Joe' and the second is 'Bob'",
+maybe the test should say,
+"There's at least 1 record,
+I see the 'Bob64524' record I just added
+somewhere in the list,
+and all the other records meet my search criteria."
+
+Extra time spent being careful about your
+test data pays back in the end
+when you're trying to work fast,
+rely on your tests,
+and won't have time to deal
+with undue sporadic failures.
