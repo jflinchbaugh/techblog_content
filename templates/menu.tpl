@@ -93,6 +93,12 @@ div(class: 'navbar navbar-default navbar-fixed-top', role: 'navigation') {
             ul(class: 'nav navbar-nav navbar-right') {
                 li {
                     a(
+                        href: 'https://github.com/jflinchbaugh',
+                        'Github'
+                    )
+                }
+                li {
+                    a(
                         href: "${content.rootpath}${config.feed_file}",
                         'Subscribe'
                     )
