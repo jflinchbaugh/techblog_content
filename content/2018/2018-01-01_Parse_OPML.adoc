@@ -1,0 +1,16 @@
+title=2018-01-01 Parse OPML
+date=2018-01-01
+type=post
+status=published
+tags=Code,Clojure,Make365
+~~~~~~
+To kick off the Make365,
+I took a little time
+to start writing some Clojure code
+for a task
+that I could easily do in Groovy:
+parse and display a summary
+of my long list of podcasts.
+
+https://github.com/jflinchbaugh/clojure-scratch/pull/1/files?diff=unified[See the code.]
+
