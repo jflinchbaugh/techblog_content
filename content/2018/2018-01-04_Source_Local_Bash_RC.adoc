@@ -1,0 +1,13 @@
+title=2018-01-04 Source Local Bash RC
+date=2018-01-04
+type=post
+status=published
+tags=Code,Mac,Linux,Work,Make365
+~~~~~~
+Today, I'm knocking something off the TODO list:
+Ensuring a way to have local, non-shared shell
+initialization across workstations,
+while still sharing most the code.
+
+https://github.com/jflinchbaugh/rc/pull/1/files[See the code.]
+
