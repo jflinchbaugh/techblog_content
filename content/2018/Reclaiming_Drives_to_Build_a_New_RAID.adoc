@@ -1,0 +1,67 @@
+title=Reclaiming Drives to Build a New RAID
+date=2018-01-07
+type=post
+status=published
+tags=Linux,Computers
+~~~~~~
+Since a couple years ago,
+I replaced my old spinner drives
+with matching SSDs.
+I left the old drives mounted
+but unplugged.
+I've been watching my photo collection grow
+and consume about half my live storage,
+so I figured it was time to bring
+those slower spinning drives
+back online,
+so I can move my archive
+of old photos off my fast drives
+and get a little extra room.
+
+I plugged in the first drive,
+and observed that it fortunately did not try
+to join the existing RAID arrays.
+`lsblk` showed me a list of drives and partitions
+and how they were currently used,
+so I could confidently `cfdisk /dev/sda`
+to wipe and recreate 1 primary partition on the drive
+as type `fd (Linux raid autodetect)`.
+I rebooted to see the new partition table,
+and then installed and did the second drive
+(`/dev/sdb` in my case).
+
+I setup the new drives in a mirror:
+----
+# create a new RAID1 mirror out of those new partitions:
+mdadm --create /dev/md2 --level 1 --raid-devices=2 /dev/sda1 /dev/sdb1
+
+# to ensure it's still called md2, and not md127 on reboot
+update-initramfs -u
+
+# create a filesystem
+mkfs -t ext4 /dev/md2
+
+# mount it to copy
+mkdir /mnt/new
+mount /dev/md2 /mnt/new
+
+# migrate all my photos
+rsync -av /home/john/Photos/ /mnt/new
+----
+
+After the initial migration, I tested it:
+
+* Rebooted
+* Checked that the array is there with the same name: `cat /proc/mdstat`
+  (It initially had not kept the name,
+  and that's when I learned
+  to `update-initramfs` above.)
+* Mounted the new array as `/home/john/Photos`,
+* Checked that Digikam still works.
+
+That looked good, so it's time to make it permanent:
+
+* Unmounted the new filesystem
+* Deleted all the old contents of `/home/john/Photos`
+* Added the new array to the `/etc/fstab` to mount it automatically
+* Rebooted!
