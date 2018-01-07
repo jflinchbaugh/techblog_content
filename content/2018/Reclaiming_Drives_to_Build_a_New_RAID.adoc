@@ -4,11 +4,11 @@ type=post
 status=published
 tags=Linux,Computers
 ~~~~~~
-Since a couple years ago,
+A couple years ago,
 I replaced my old spinner drives
 with matching SSDs.
 I left the old drives mounted
-but unplugged.
+but disconnected the cables.
 I've been watching my photo collection grow
 and consume about half my live storage,
 so I figured it was time to bring
