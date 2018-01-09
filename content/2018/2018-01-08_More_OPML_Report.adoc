@@ -1,0 +1,10 @@
+title=2018-01-08 More OPML Report
+date=2018-01-08
+type=post
+status=published
+tags=Code,Clojure,Make365
+~~~~~~
+I got the XML parsing looking a little better,
+but I'm still not super-happy with it.
+
+https://github.com/jflinchbaugh/clojure-scratch/commit/b270ad613be4454e5387ac10e4aa6b48a6b3a390[See the commit].
