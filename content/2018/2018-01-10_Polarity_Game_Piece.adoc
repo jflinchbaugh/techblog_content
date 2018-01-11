@@ -33,5 +33,17 @@ I had just printed the sleeve
 for the puck-shaped Ruuvi Tag,
 and that design would be pretty close
 to a game piece with a disc magnet inserted.
+I had already purchased magnets,
+so I'll print a bunch of these pieces,
+paint the circle on a piece of canvas,
+and I'll have my game.
+
+I'll likely make some variations
+in the future,
+such as rendering some pieces
+as some polygons
+instead of circles,
+so you can have a limited number of them
+that will be really good for tight situations.
 
 https://github.com/jflinchbaugh/objects/blob/master/polarity_piece.scad[The OpenSCAD code].
