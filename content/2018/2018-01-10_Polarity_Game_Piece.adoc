@@ -34,4 +34,4 @@ for the puck-shaped Ruuvi Tag,
 and that design would be pretty close
 to a game piece with a disc magnet inserted.
 
-https://github.com/jflinchbaugh/objects/blob/master/ruuvi_sleeve.scad[The OpenSCAD code].
+https://github.com/jflinchbaugh/objects/blob/master/polarity_piece.scad[The OpenSCAD code].
