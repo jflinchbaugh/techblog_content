@@ -1,0 +1,37 @@
+title=2018-01-10 Polarity Game Piece
+date=2018-01-10
+type=post
+status=published
+tags=3D-Printing,Make365
+~~~~~~
+
+Polarity is a cool little game
+where 2 players face off
+taking turns
+placing all their disc magnets
+on a canvas field
+until they've placed them all.
+Each magnet must _lean_
+on the magnetic field
+of other pieces that
+the player has placed
+on the playing field.
+If a player disturbs
+magnets that are already placed,
+and they snap together,
+then the player needs
+to remove the pieces from the field
+and return them to their hand.
+
+The game fell out of pubilcation
+and got hard to acquire,
+so I was out of luck
+when I wanted to stop boring
+a friend's copy and have my own.
+
+I had just printed the sleeve
+for the puck-shaped Ruuvi Tag,
+and that design would be pretty close
+to a game piece with a disc magnet inserted.
+
+https://github.com/jflinchbaugh/objects/blob/master/ruuvi_sleeve.scad[The OpenSCAD code].
