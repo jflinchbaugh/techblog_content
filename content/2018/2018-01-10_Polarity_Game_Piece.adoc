@@ -46,4 +46,4 @@ instead of circles,
 so you can have a limited number of them
 that will be really good for tight situations.
 
-https://github.com/jflinchbaugh/objects/blob/master/polarity_piece.scad[The OpenSCAD code].
+https://github.com/jflinchbaugh/objects/blob/5edf950bc91abf5907c265dc0ad62fcb04f62e75/polarity_piece.scad[The OpenSCAD code].
