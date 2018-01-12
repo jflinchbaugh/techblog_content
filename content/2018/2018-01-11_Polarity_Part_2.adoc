@@ -6,7 +6,7 @@ tags=3D-Printing,Make365
 ~~~~~~
 
 I've put some finishing touches
-on the Polarity game pieces
+on the Polarity game pieces,
 and it's time to print some of them.
 They seem to work as intended.
 
