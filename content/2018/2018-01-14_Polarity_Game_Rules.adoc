@@ -1,0 +1,66 @@
+title=2018-01-14 Polarity Game Rules
+date=2018-01-14
+type=post
+status=published
+tags=Games,Make365,3D-Printing,Polarity
+~~~~~~
+
+https://en.wikipedia.org/wiki/Polarity\_(game)[Polarity]
+is a game of placing magnetic discs
+so that they lean
+on the magnetic fields of others.
+It went out of print
+a while ago,
+so I wanted to make
+a scaled-down version
+of my own.
+
+The rules had always been a bit confusing,
+so I'll try to distill a set of my own rules here.
+
+.Objective
+* Be the first to play all discs in your supply.
+* Collect the most discs in towers.
+
+.Setup
+* Roll out the playing mat flat
+  on a stable surface.
+* Give each player half the discs for their supply:
+  19 to each player.
+* Players take turns placing
+  foundation discs flat
+  on the mat,
+  touching no others,
+  until each player has placed 4 foundations.
+
+.Game Play
+* Take turns leaning discs from your supply
+  on magnetic fields of your discs on the mat.
+* Play only on the mat.
+* Play only on your own discs
+  with your color facing up,
+  not on your opponent's discs.
+* A turn ends by successfully placing a disc or by causing a fault.
+* Faults occur 2 ways:
+** A leaning disc falls flat.
+** 2 or more discs touch each other.
+* If a fault involves the disc being placed,
+  the player removes the fallen or touching discs
+  and returns them to their supply.
+* If a fault doesn't involve the disc being played,
+  the opponent retrieves the tower,
+  and places it anywhere on the mat.
+* While retrieving or placing the tower,
+  the tower is treated like a disc being placed,
+  so causing a fault should be resolved the same way
+  as when placing a piece.
+* A player can intentionally cause a fault
+  to make new foundations,
+  but only by acting on their own discs,
+  and the fault still ends their turn.
+
+.Scoring
+* The game ends when one player depletes
+  their supply.
+* Each disc in a tower is worth +1 point.
+* Each disc in the supply is worth -1 point.
