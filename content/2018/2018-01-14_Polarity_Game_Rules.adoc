@@ -73,8 +73,9 @@ so I'll try to distill a set of my own rules here.
 .End of Game
 * The game ends when one player depletes
   their supply.
-* A player no longer has any towers or foundations
- left on the board.
+* A player no longer has any discs
+  with their color showing
+  left on the board.
 
 .Scoring
 * Each disc in a tower is worth +1 point.
