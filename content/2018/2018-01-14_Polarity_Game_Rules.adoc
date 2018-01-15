@@ -65,10 +65,14 @@ so I'll try to distill a set of my own rules here.
   the tower is treated like a disc being placed,
   so causing a fault should be resolved the same way
   as when placing a piece.
+** If a disc just fell, but stayed the same color (a conversion),
+  it stays where it is, but the turn ends.
 ** If a fault flips one disc from one color to the other,
   without otherwise touching other discs,
   the opponent can choose to retrieve the disc
   and place it anywhere on the mat.
+* A player is responsible for any faults after a move
+  until the opponents hand approaches the mat.
 
 .End of Game
 * The game ends when one player depletes
