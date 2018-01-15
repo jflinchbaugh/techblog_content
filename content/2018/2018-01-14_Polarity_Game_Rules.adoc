@@ -41,7 +41,7 @@ so I'll try to distill a set of my own rules here.
   with your color facing up,
   not on your opponent's discs.
 * A turn ends by successfully placing a disc or by causing a fault.
-* Faults occur 3 ways:
+* Faults occur 4 ways:
 ** A leaning disc falls flat.
 ** 2 or more discs touch each other.
 ** Moving a tower or foundation disc
