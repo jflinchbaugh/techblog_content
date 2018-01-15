@@ -20,7 +20,7 @@ so I'll try to distill a set of my own rules here.
 
 .Objective
 * Be the first to play all discs in your supply.
-* Collect the most discs in towers.
+* Collect the most discs in towers, stacks of discs.
 
 .Setup
 * Roll out the playing mat flat
@@ -41,26 +41,41 @@ so I'll try to distill a set of my own rules here.
   with your color facing up,
   not on your opponent's discs.
 * A turn ends by successfully placing a disc or by causing a fault.
-* Faults occur 2 ways:
+* Faults occur 3 ways:
 ** A leaning disc falls flat.
 ** 2 or more discs touch each other.
-* If a fault involves the disc being placed,
-  the player removes the fallen or touching discs
+** Moving a tower or foundation disc
+  more than its diameter.
+** Knocking a disc off the mat.
+* A player can intentionally cause a fault
+  to convert a leaning disc into a new foundation.
+** A player can only convert their own discs.
+** The fault still ends their turn.
+* Faults are resolved by:
+** If discs snap to the disc being placed
+  while still in the hand,
+  the player removes the touching discs
   and returns them to their supply.
-* If a fault doesn't involve the disc being played,
-  the opponent retrieves the tower,
+** If discs on the board are touching,
+  the opponent carefully retrieves the discs
+  allowing them to snap the rest
+  of the way to form a tower,
   and places it anywhere on the mat.
-* While retrieving or placing the tower,
+** While retrieving or placing a tower,
   the tower is treated like a disc being placed,
   so causing a fault should be resolved the same way
   as when placing a piece.
-* A player can intentionally cause a fault
-  to make new foundations,
-  but only by acting on their own discs,
-  and the fault still ends their turn.
+** If a fault flips one disc from one color to the other,
+  without otherwise touching other discs,
+  the opponent can choose to retrieve the disc
+  and place it anywhere on the mat.
 
-.Scoring
+.End of Game
 * The game ends when one player depletes
   their supply.
+* A player no longer has any towers or foundations
+ left on the board.
+
+.Scoring
 * Each disc in a tower is worth +1 point.
 * Each disc in the supply is worth -1 point.
