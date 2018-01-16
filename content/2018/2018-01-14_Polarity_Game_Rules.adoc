@@ -13,7 +13,10 @@ It went out of print
 a while ago,
 so I wanted to make
 a scaled-down version
-of my own.
+of my own
+with some 3D-printed pieces.
+I left out some aspects
+of the original game.
 
 The rules had always been a bit confusing,
 so I'll try to distill a set of my own rules here.
