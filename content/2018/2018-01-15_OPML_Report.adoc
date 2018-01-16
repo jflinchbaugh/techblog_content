@@ -1,0 +1,18 @@
+title=2018-01-15 OPML Report
+date=2018-01-15
+type=post
+status=published
+tags=Code,Clojure,Make365
+~~~~~~
+I got some much-needed help from the
+https://www.meetup.com/Vancouver-Clojure/[Vancouver Clojure Meetup]
+on a remote Clojure(Script) hack night.
+They helped me clean up my code a bit,
+and they pointed out some next steps,
+like a generic method for accessing
+nodes in the XML.
+I really appreciate the help,
+since I don't even know
+how good Clojure code looks.
+
+https://github.com/jflinchbaugh/clojure-exercises/blob/be67aef3b5134bf71c0b8d08e65584ee9d87207f/opml/opml.clj[Here's the OPML code.]
