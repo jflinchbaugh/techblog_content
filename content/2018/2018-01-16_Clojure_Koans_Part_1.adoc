@@ -11,5 +11,5 @@ I've completed them one previously,
 but I'm sure I didn't understand everything,
 so I'm going through them again.
 Here are my
-https://github.com/functional-koans/clojure-koans/compare/master...jflinchbaugh:2018-01-16?diff=unified&name=2018-01-16[solutions]
-for the first 8 sections.
+https://github.com/jflinchbaugh/clojure-koans/pull/1/files[solutions]
+for the first 7 sections.
