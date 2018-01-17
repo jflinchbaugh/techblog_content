@@ -1,0 +1,15 @@
+title=2018-01-16 Clojure Koans (Part 1)
+date=2018-01-16
+type=post
+status=published
+tags=Code,Clojure,Make365
+~~~~~~
+Clojure Koans is a project of failing assertions
+with blanks that are to be filled
+by the student.
+I've completed them one previously,
+but I'm sure I didn't understand everything,
+so I'm going through them again.
+Here are my
+https://github.com/functional-koans/clojure-koans/compare/master...jflinchbaugh:2018-01-16?diff=unified&name=2018-01-16[solutions]
+for the first 8 sections.
