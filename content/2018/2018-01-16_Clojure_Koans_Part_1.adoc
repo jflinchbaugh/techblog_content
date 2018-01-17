@@ -7,7 +7,7 @@ tags=Code,Clojure,Make365
 Clojure Koans is a project of failing assertions
 with blanks that are to be filled
 by the student.
-I've completed them one previously,
+I've completed them previously,
 but I'm sure I didn't understand everything,
 so I'm going through them again.
 Here are my
