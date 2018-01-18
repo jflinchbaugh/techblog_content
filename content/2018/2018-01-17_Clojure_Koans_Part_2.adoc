@@ -1,0 +1,13 @@
+title=2018-01-17 Clojure Koans (Part 2)
+date=2018-01-17
+type=post
+status=published
+tags=Code,Clojure,Make365
+~~~~~~
+I was back on the koans tonight,
+so I got 7 more done.
+I barely held on through the recursion work.
+
+Find my latest work in the
+https://github.com/jflinchbaugh/clojure-koans/tree/2018-01-16/src/koans[github branch]
+
