@@ -1,0 +1,9 @@
+title=2018-01-21 Clojure Koans (Part 3)
+date=2018-01-21
+type=post
+status=published
+tags=Code,Clojure,Make365
+~~~~~~
+
+https://github.com/jflinchbaugh/clojure-koans/compare/6f8bc2a...b60f260[Another
+day of Clojure Koans].
