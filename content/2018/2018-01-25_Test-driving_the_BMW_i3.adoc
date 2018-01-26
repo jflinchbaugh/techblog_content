@@ -1,0 +1,51 @@
+title=2018-01-25 Test-driving the BMW i3
+date=2018-01-25
+type=post
+status=published
+tags=Make365,BMW-i3
+~~~~~~
+
+I've let a few friends
+drive my electric i3
+from BMW,
+and I would generally let anyone
+give it a try,
+because it's just so much fun.
+
+Here are the most amusing features to test:
+
+* Electric torque:
+  Kick it into _Comfort_ Mode and floor it!
+* One-foot driving:
+  The car will immediately start regenerating
+  power to nearly bring the car to a stop
+  when you lift your foot off the accelerator.
+* Adaptive Cruise Control:
+  Engage the cruise control in traffic
+  and watch it maintain a distance
+  from the car in front of you.
+  It'll even bring the car to a stop automatically
+  as traffic stops.
+  (It takes a little practice to trust it.)
+* Self-parking:
+  I admit this is a trick
+  that I don't often use
+  in practice,
+  but it's exciting and scary
+  to show off.
+* Check out the cool eDrive displays:
+  It shows energy flow, consumption graphs, etc.
+* It's oh so quiet:
+  Drive down a quiet street
+  with the windows down.
+* Check out the plug:
+  it can do J1772 and CCS/DC.
+* There's no engine in the front!
+* BMW Connected app:
+  It offers remote controls,
+  including heating or cooling.
+* Storage and accessories:
+  there are nice modular ports
+  for cup holders and 3D-printed accessories
+  and nice elastic straps in the back
+  which make it easy to stow gear.
