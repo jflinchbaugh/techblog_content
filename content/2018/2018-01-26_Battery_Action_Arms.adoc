@@ -1,0 +1,12 @@
+title=2018-01-26 Battery Action Arms
+date=2018-01-26
+type=post
+status=published
+tags=Make365,3D-Printing
+~~~~~~
+
+I wanted a little action figure type thing
+based on a battery,
+so I started modeling it.
+So far, here's the
+https://github.com/jflinchbaugh/objects/blob/master/action_battery.scad[code for the arms].
