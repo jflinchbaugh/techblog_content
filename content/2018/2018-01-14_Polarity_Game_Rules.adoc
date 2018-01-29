@@ -43,7 +43,12 @@ so I'll try to distill a set of my own rules here.
 * Play only on your own discs
   with your color facing up,
   not on your opponent's discs.
-* A turn ends by successfully placing a disc or by causing a fault.
+* A turn ends
+  by successfully placing a disc
+  or by causing a fault.
+* Play ends immediately upon causing a fault,
+  so pieces still in the hand
+  are returned to the player's supply.
 * Faults occur 4 ways:
 ** A leaning disc falls flat.
 ** 2 or more discs touch each other.
