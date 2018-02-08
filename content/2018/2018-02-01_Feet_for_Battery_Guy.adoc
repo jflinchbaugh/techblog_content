@@ -1,0 +1,9 @@
+title=2018-02-01 Feet for Battery Guy
+date=2018-02-01
+type=post
+status=published
+tags=Make365,3D-Printing
+~~~~~~
+
+I added a bit of code to battery guy
+https://github.com/jflinchbaugh/objects/commit/55a9739a32c7467401d8b276aa7642cbf441d441[for some feet].
