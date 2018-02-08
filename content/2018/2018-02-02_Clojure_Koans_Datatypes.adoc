@@ -1,0 +1,9 @@
+title=2018-02-02 Clojure Koans Datatypes
+date=2018-02-02
+type=post
+status=published
+tags=Make365,Code,Clojure
+~~~~~~
+
+I learned a bit about Clojure
+https://github.com/jflinchbaugh/clojure-koans/commit/373a6c6d9e8269d149982d1403d2a66428cebbeb[datatypes].
