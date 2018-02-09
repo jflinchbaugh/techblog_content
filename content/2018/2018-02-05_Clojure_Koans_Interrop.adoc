@@ -1,0 +1,9 @@
+title=2018-02-05 Clojure Koans Interrop
+date=2018-02-05
+type=post
+status=published
+tags=Make365,Code,Clojure
+~~~~~~
+
+I learned a bit about Clojure
+https://github.com/jflinchbaugh/clojure-koans/commit/50e8bfb1d5b59bc28e6726afece1fc80634653d4[interrop with Java].
