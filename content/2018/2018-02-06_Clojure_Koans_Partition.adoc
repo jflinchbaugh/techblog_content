@@ -6,4 +6,4 @@ tags=Make365,Code,Clojure
 ~~~~~~
 
 I learned a bit about Clojure
-https://github.com/jflinchbaugh/clojure-koans/commit/50e8bfb1d5b59bc28e6726afece1fc80634653d4[partition functions].
+https://github.com/jflinchbaugh/clojure-koans/commit/a3049a792b969836a4b683c1513872f34074fc12[partition functions].
