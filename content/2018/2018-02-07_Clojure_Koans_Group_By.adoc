@@ -1,0 +1,9 @@
+title=2018-02-07 Clojure Koans Group-By
+date=2018-02-07
+type=post
+status=published
+tags=Make365,Code,Clojure
+~~~~~~
+
+I learned a bit about Clojure
+https://github.com/jflinchbaugh/clojure-koans/commit/bdd99f254fecc549923f09945f77f47828059936[group-by function].
