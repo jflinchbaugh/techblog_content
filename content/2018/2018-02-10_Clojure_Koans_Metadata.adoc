@@ -1,0 +1,9 @@
+title=2018-02-10 Clojure Koans Metadata
+date=2018-02-10
+type=post
+status=published
+tags=Make365,Code,Clojure
+~~~~~~
+
+I learned a bit about Clojure
+https://github.com/jflinchbaugh/clojure-koans/commit/6989a8a72532ae48b7129fa7ef719f5933839f4e[metadata].
