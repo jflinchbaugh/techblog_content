@@ -1,0 +1,13 @@
+title=2018-02-12 Clojure Koans Macros
+date=2018-02-12
+type=post
+status=published
+tags=Make365,Code,Clojure
+~~~~~~
+
+I learned a bit about Clojure
+https://github.com/jflinchbaugh/clojure-koans/commit/91621a8c027e3e1ff3bfc08b9323cbe892a65636[macros],
+and that was the end of the koans.
+I'll have to find something else to practice,
+or even better,
+I can start a proper project.
