@@ -1,0 +1,10 @@
+title=2018-02-22 4Clojure 41
+date=2018-02-22
+type=post
+status=published
+tags=Make365,Code,Clojure
+~~~~~~
+
+Here's a
+https://github.com/jflinchbaugh/clojure-scratch/commit/06d9c36c830b309045913e17912a7cff85a4100e[solution]
+to 4Clojure #41.
