@@ -1,4 +1,4 @@
-title=2018-02-20 Ben's Shotllus360
+title=2018-02-20 Ben's Shot
 date=2018-02-20
 type=post
 status=published
