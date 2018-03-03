@@ -2,7 +2,7 @@ title=2018-02-16 Edge at Tellus360
 date=2018-02-16
 type=post
 status=published
-tags=Make365,Photo,Food
+tags=Make365,Photo
 ~~~~~~
 
 ++++
