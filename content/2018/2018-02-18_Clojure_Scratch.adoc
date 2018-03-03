@@ -1,0 +1,13 @@
+title=2018-02-18 Clojure Scratch
+date=2018-02-18
+type=post
+status=published
+tags=Make365,Code,Clojure
+~~~~~~
+
+I committed my
+https://github.com/jflinchbaugh/clojure-scratch/commit/1deda345df8140f7a6a87d4f0e46edb4e8be4c89[scratch space for February].
+I was trying to figure
+out some https://www.4clojure.com/[4clojure] stuff
+and why I'm bad at simple things
+like the recursive Fibonacci algorithm.
