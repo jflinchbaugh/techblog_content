@@ -1,0 +1,9 @@
+title=2018-02-17 Cleanup in Clojure XML
+date=2018-02-17
+type=post
+status=published
+tags=Make365,Code,Clojure
+~~~~~~
+
+I cleaned up a bit of Clojure code I have for
+https://github.com/jflinchbaugh/clojure-scratch/commit/61047278a0a119621cfa8a534756e07e71519f75[parsing XML].
