@@ -1,0 +1,11 @@
+title=2018-02-19 Clojure Key Destructuring
+date=2018-02-19
+type=post
+status=published
+tags=Make365,Code,Clojure
+~~~~~~
+
+I was practicing
+https://github.com/jflinchbaugh/clojure-scratch/commit/8eb346b6f660f15080c12fad1797e503c766cc64[key
+destructuring]
+from https://www.goodreads.com/book/show/24701168-living-clojure[Living Clojure].
