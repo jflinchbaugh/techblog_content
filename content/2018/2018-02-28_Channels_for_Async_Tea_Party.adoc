@@ -1,4 +1,4 @@
-title=2018-02-28 Channels for Async Tea Party from Living Clojure
+title=2018-02-28 Channels for Async Tea Party
 date=2018-02-28
 type=post
 status=published

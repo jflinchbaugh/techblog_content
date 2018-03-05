@@ -1,4 +1,4 @@
-title=2018-02-27 Serpent Talk from Living Clojure
+title=2018-02-27 Async Tea Party
 date=2018-02-27
 type=post
 status=published
