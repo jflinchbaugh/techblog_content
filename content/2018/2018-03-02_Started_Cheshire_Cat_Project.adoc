@@ -1,0 +1,11 @@
+title=2018-03-02 Started Cheshire Cat Project
+date=2018-03-02
+type=post
+status=published
+tags=Make365,Code,Clojure
+~~~~~~
+
+I started the
+https://github.com/jflinchbaugh/cheshire-cat/commit/1ba4135d48e63da2316f3851652c01c6a4dcb445[cheshire-cat]
+project from
+https://www.goodreads.com/book/show/24701168-living-clojure[Living Clojure].
