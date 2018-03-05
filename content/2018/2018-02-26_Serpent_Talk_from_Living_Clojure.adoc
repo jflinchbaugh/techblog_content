@@ -1,0 +1,10 @@
+title=2018-02-26 Serpent Talk from Living Clojure
+date=2018-02-19
+type=post
+status=published
+tags=Make365,Code,Clojure
+~~~~~~
+
+I was creating basic Clojure apps with lein,
+https://github.com/jflinchbaugh/serpent-talk/blob/master/src/serpent_talk/talk.clj[serpent-talk]
+from https://www.goodreads.com/book/show/24701168-living-clojure[Living Clojure].
