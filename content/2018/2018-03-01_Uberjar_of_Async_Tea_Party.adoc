@@ -1,0 +1,9 @@
+title=2018-03-01 Uberjar of Async Tea Party
+date=2018-03-01
+type=post
+status=published
+tags=Make365,Code,Clojure
+~~~~~~
+
+I completed the async-tea-party with
+https://github.com/jflinchbaugh/async-tea-party/commit/fbc47483eb3f82733cd8fa4b7cb90e6bff1785bb[uberjar support].
