@@ -1,5 +1,5 @@
 title=2018-02-26 Serpent Talk from Living Clojure
-date=2018-02-19
+date=2018-02-26
 type=post
 status=published
 tags=Make365,Code,Clojure
