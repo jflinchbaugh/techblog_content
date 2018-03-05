@@ -1,0 +1,11 @@
+title=2018-02-28 Channels for Async Tea Party from Living Clojure
+date=2018-02-28
+type=post
+status=published
+tags=Make365,Code,Clojure
+~~~~~~
+
+I added the
+https://github.com/jflinchbaugh/async-tea-party/commit/bf7b020f062bf4ce92a01eb036344793729aaf80[channels to the async-tea-party]
+project
+from https://www.goodreads.com/book/show/24701168-living-clojure[Living Clojure].
