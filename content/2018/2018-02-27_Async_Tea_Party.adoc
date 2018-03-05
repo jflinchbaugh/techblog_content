@@ -1,0 +1,11 @@
+title=2018-02-27 Serpent Talk from Living Clojure
+date=2018-02-27
+type=post
+status=published
+tags=Make365,Code,Clojure
+~~~~~~
+
+I made an initial commit of the
+https://github.com/jflinchbaugh/async-tea-party/commit/b543ea312bb229d6936d4c56d9183daf0d561f63[async-tea-party]
+project
+from https://www.goodreads.com/book/show/24701168-living-clojure[Living Clojure].
