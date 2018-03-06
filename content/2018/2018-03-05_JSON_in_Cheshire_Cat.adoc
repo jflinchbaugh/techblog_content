@@ -1,0 +1,9 @@
+title=2018-03-05 JSON in Cheshire Cat
+date=2018-03-05
+type=post
+status=published
+tags=Make365,Code,Clojure
+~~~~~~
+
+I had the cheshire cat project produce a little
+https://github.com/jflinchbaugh/cheshire-cat/commit/5e0716092d1cc4e0429402a03cfb63cd746e897b[JSON].
