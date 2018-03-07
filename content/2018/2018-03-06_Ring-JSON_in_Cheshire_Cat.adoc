@@ -1,0 +1,9 @@
+title=2018-03-06 Ring-JSON in Cheshire Cat
+date=2018-03-06
+type=post
+status=published
+tags=Make365,Code,Clojure
+~~~~~~
+
+I switched the cheshire cat project over to use
+https://github.com/jflinchbaugh/cheshire-cat/commit/37d35623d312315f5d74430388da934913751c66[ring-json].
