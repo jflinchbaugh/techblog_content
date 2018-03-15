@@ -1,0 +1,10 @@
+title=2018-03-08 CLJS HTTP Client in Cheshire
+date=2018-03-08
+type=post
+status=published
+tags=Make365,Code,Clojure
+~~~~~~
+
+I added the
+https://github.com/jflinchbaugh/cheshire-cat/commit/8258fc442f540a6f31b8cce680b88266f7950208[CLJS HTTP client]
+to my example Cheshire Cat project.
