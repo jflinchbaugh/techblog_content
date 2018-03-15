@@ -1,0 +1,12 @@
+title=2018-03-09 Enfocus for Cheshire Cat
+date=2018-03-09
+type=post
+status=published
+tags=Make365,Code,Clojure
+~~~~~~
+
+I added the
+https://github.com/jflinchbaugh/cheshire-cat/commit/5388dac8e50813e94c3617db6386482c13f67231[Enfocus library]
+to my example Cheshire Cat project
+to handle dynamic markup
+on the client.
