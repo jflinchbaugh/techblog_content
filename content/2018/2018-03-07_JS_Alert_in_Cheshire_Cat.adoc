@@ -1,0 +1,10 @@
+title=2018-03-07 JS Alert in Cheshire Cat
+date=2018-03-07
+type=post
+status=published
+tags=Make365,Code,Clojure
+~~~~~~
+
+I added a
+https://github.com/jflinchbaugh/cheshire-cat/commit/7e8a330ce6191d945931521f961b717df935adde[JS/Clojurescript alert]
+to my example Cheshire Cat project.
