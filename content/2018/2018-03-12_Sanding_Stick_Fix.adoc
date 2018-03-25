@@ -1,0 +1,11 @@
+title=2018-03-12 Sanding Stick Fix
+date=2018-03-12
+type=post
+status=published
+tags=Make365,Code,3D-Printing
+~~~~~~
+
+The
+https://github.com/jflinchbaugh/objects/commit/f117543e3ac66207135b2a1c45a1e4ec57b480f2[sanding stick]
+needed a little adjustment
+to be assembled successfully.
