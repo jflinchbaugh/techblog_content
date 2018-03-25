@@ -1,0 +1,12 @@
+title=2018-03-11 Sanding Stick
+date=2018-03-11
+type=post
+status=published
+tags=Make365,Code,3D-Printing
+~~~~~~
+
+I finally modeled a
+https://github.com/jflinchbaugh/objects/commit/dd82f79fdadc85d5665ea4651277364d1e179b60[sanding stick]
+for small sandpaper belts
+I bought a year ago
+to kickstart the project.
