@@ -1,0 +1,11 @@
+title=End of the Make 365
+date=2018-04-29
+type=post
+status=published
+tags=Make365
+~~~~~~
+
+While I fell behind
+and caught up a couple times,
+I caught up one less time,
+so this project is done.
