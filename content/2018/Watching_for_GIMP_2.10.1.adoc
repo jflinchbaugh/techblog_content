@@ -8,7 +8,7 @@ tags=Photography,Code
 I was seeing the new GIMP 2.10.0
 doing bad things
 with multiple gradients
-on a transparentl layer
+on a transparentl layer,
 so I logged
 https://bugzilla.gnome.org/show_bug.cgi?id=795866[Bug 795866].
 They quickly fixed the bug
@@ -16,3 +16,5 @@ within 48 hours,
 but now I'm sitting here
 reloading the https://www.gimp.org/news/[GIMP news] page
 to see if they've cut the newest release.
+
+Update: GIMP 2.10.2 just hit Debian Unstable!
