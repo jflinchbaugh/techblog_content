@@ -1,0 +1,109 @@
+title=2018-07-24 Podcast List
+date=2018-07-24
+type=post
+status=published
+tags=Podcasts,Technology,Photography
+~~~~~~
+
+* Listen 0
+** Hourly News Summary - http://www.npr.org/rss/podcast.php?id=500005
+** Up First - https://www.npr.org/rss/podcast.php?id=510318
+* Listen 1
+** Radiolab from WNYC - http://feeds.wnyc.org/radiolab
+** NPR Programs: Wait Wait... Don't Tell Me! Podcast - http://www.npr.org/rss/podcast.php?id=35
+** PRI Echoes Interviews - http://echoes.org/podcasts/feed
+** Grammar Girl Quick and Dirty Tips for Better Writing - http://www.qdnow.com/grammar.xml
+** NPR How To Do Everything Podcast - http://www.npr.org/rss/podcast.php?id=510303
+** The Candid Frame A Photography Podcast - http://thecandidframe.libsyn.com/rss
+** Photography Tips from the Top Floor - http://feeds.tipsfromthetopfloor.com/tftf
+** All About Android - http://leoville.tv/podcasts/aaa
+** Android App Addicts - http://feeds.feedburner.com/androidappaddicts
+** APM: Garrison Keillor's The Writer's Almanac Podcast feed - http://writersalmanac.publicradio.org/podcast/feed.php
+** Back to Work - http://feeds.5by5.tv/b2w
+** Android App Arena (MP3) - http://feeds.twit.tv/arena.xml
+** LensWork - Photography and the Creative Process - http://lenswork.com/podcast.xml
+** TWiP Talks - http://thisweekinphoto.com/category/interviews/feed/
+** TWiP Street Focus - http://thisweekinphoto.com/category/street-focus/feed/
+** The Digital Photo Experience - http://feeds.feedburner.com/DPExperienceEnhancedPodcast
+** The Photo Brigade Podcast - http://photobrigade.libsyn.com/rss
+** Thoughts on Photography - http://thoughtsonphotography.libsyn.com/rss
+** 99% Invisible - http://feeds.99percentinvisible.org/99percentinvisible
+** Android Police Podcast - http://feeds.feedburner.com/AndroidPolicePodcast
+** TWiP Your Itinerary - http://thisweekinphoto.com/category/your-itinerary/feed/
+** Groovy Podcast - http://groovypodcast.podbean.com/feed/
+** PetaPixel Photography Podcast - http://petapixel.libsyn.com/rss
+** Functional Geekery - http://www.functionalgeekery.com/feed/mp3/
+** Jeff Curto's Camera Position - http://feeds.feedburner.com/cameraposition
+** Acquired - http://www.acquired.fm/episodes?format=rss
+** Hit The Streets with Valerie Jardin - http://valeriejardinphotography.libsyn.com/rss
+** Do By Friday - https://rss.simplecast.com/podcasts/2389/rss
+** Smart Talk - https://features.witf.org/stpodcast/feed/podcast/
+* Listen 2
+** This Week in Tech (MP3) - http://feeds.twit.tv/twit
+** Android Central Podcast - http://feeds.feedburner.com/AndroidCentralPodcast
+** NPR: TED Radio Hour Podcast - http://www.npr.org/rss/podcast.php?id=510298
+** NPR: Car Talk Podcast - http://www.npr.org/rss/podcast.php?id=510208
+** The Moth Podcast - http://feeds.feedburner.com/themothpodcast
+** Triangulation (MP3) - http://feeds.twit.tv/tri
+** APM Marketplace All In One - http://feeds.americanpublicmedia.org/marketplaceallinone
+** FLOSS Weekly (MP3) - http://feeds.twit.tv/floss
+** The Giz Wiz (MP3) - http://feeds.twit.tv/dgw
+** This Week in Law (MP3) - http://feeds.twit.tv/twil
+** Rationally Speaking - http://nycskeptics.org/storage/feeds/rs.xml
+** Tank Riot - http://www.tankriot.com/rss.xml
+** The Digital Story - http://www.thedigitalstory.com/feed/podcast.xml
+** Martin Bailey Photography Podcast MP3 - http://www.martinbaileyphotography.com/podcastmp3.php
+** The Linux Action Show! MP3 - http://feeds.feedburner.com/TheLinuxActionShow
+** Linux For The Rest Of Us - http://feeds.feedburner.com/linuxfortherestofus
+** All Chariot Podcasts - http://chariotsolutions.com/podcasts/show/all-shows/feed/
+** The Cognicast - Cognitect Blog - http://feeds.cognitect.com/cognicast/feed.rss
+** Photofocus - http://feeds.feedburner.com/photofocuspodcast
+** Cory Doctorow's craphound.com » Podcast - http://feeds.feedburner.com/doctorow_podcast
+** Hanselminutes - http://feeds.podtrac.com/9dPm65vdpLL1
+** Android Developers Backstage - http://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage
+** Song Exploder - http://songexploder.libsyn.com/rss
+** Note to Self - http://feeds.wnyc.org/notetoself-podcast
+** Ask Me Another - http://www.npr.org/rss/podcast.php?id=510299
+** The Changelog - http://feeds.5by5.tv/changelog
+** Welcome to Night Vale - http://nightvale.libsyn.com/rss
+** Freakonomics Radio - http://feeds.feedburner.com/freakonomicsradio
+** Alice Isn't Dead - http://aliceisntdead.libsyn.com/rss
+** Oh No Ross and Carrie - http://feeds.feedburner.com/OhNoPodcast
+** WITF Smart Talk - http://feeds.witf.org/witf-smarttalk-podcast
+** StreetPX - A Photography Podcast - http://streetpx.com/feed/podcast/
+** Engineering Culture by InfoQ - http://feeds.soundcloud.com/users/soundcloud:users:258266127/sounds.rss
+** How I Built This - https://www.npr.org/rss/podcast.php?id=510313
+** The Stack Overflow Podcast - http://blog.stackoverflow.com/feed/podcast/
+** Benjamen Walker's Theory of Everything - http://feeds.prx.org/toe
+** defn - http://feeds.soundcloud.com/users/soundcloud:users:220484243/sounds.rss
+** B&H Photography Podcast - http://bhphotopodcast.libsyn.com/rss
+** No Name Photo Show - http://nonamephotoshow.libsyn.com/rss
+** On the Media - http://feeds.wnyc.org/onthemedia
+** 10% Happier with Dan Harris - http://feeds.feedburner.com/abcradio/10percenthappier
+** Voices in AI - https://voicesinai.com/wp-admin/admin-ajax.php?action=go_briefing_feed&feed_type=xml
+** Wrong About Everything - http://wrongabouteverything.libsyn.com/rss
+** CaSE - http://www.case-podcast.org/feed/aac
+** The Picturing Success Podcast - http://picturingsuccess.libsyn.com/rss
+** ZigZag - http://feeds.stableg.com/zigzagpodcast
+** At Liberty - http://feeds.soundcloud.com/users/soundcloud:users:40330678/sounds.rss
+** Everything is Alive - http://feeds.everythingisalive.com/everythingisalive
+* Listen 3
+** This American Life - http://feeds.thisamericanlife.org/talpodcast
+** Security Now (MP3) - http://feeds.twit.tv/sn
+** Hacker Public Radio - http://hackerpublicradio.org/hpr_rss.php
+** the memory palace - http://memorypalace.wm.wizzard.tv/rss
+** Quit - http://feeds.5by5.tv/quit
+** Software Engineering Radio - The Podcast for Professional Software Developers - http://feeds.feedburner.com/se-radio
+** All Songs Considered - http://www.npr.org/rss/podcast.php?id=510019&uid=n1qe4e85742c986fdb81d2d38ffa0d5d53
+** The Allusionist - http://feeds.theallusionist.org/Allusionist
+** The Mortified Podcast - http://feeds.getmortified.com/MortifiedPod
+** You Are Not So Smart - http://feeds.soundcloud.com/users/soundcloud:users:16745745/sounds.rss
+** Process Driven - https://jefferysaddoris.com/processdriven/feed/
+* Music
+** Goldie presents the Metalheadz podcast - http://feeds.feedburner.com/Metalheadz
+* Chrono
+** On Taking Pictures - http://feeds.5by5.tv/otp
+** LambdaCast - http://feeds.soundcloud.com/users/soundcloud:users:239787249/sounds.rss
+** Conversations with People Who Hate Me - http://conversationswithpeoplewhohateme.libsyn.com/rss
+** Meditations, The by AURELIUS, Marcus - https://librivox.org/rss/1095
+
