@@ -15,8 +15,10 @@ and the other for
 https://blog.johnflinchbaugh.com/[johnflinchbaugh.com/www.johnflinchbaugh.com/blog.johnflinchbaugh.com].
 
 On Debian,
-it's best to have `certbot` shutdown `apache2`
-and let it be the temporary web server
+at least when I got started,
+it was recommernded to have `certbot`
+shutdown your `apache2`
+and let it start its own temporary web server
 to verify the LetsEncrypt setup (`--authenticator standalone`).
 The other trick is
 to register multiple domain names
@@ -42,3 +44,8 @@ that this certificate was for a different name:
 
 That's all sorted out now,
 and all my sites should be SSL all the time.
+
+For more information on setup,
+https://certbot.eff.org/[certbot]
+has a great set of guides
+based on your OS and web server.
