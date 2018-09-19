@@ -1,0 +1,44 @@
+title=LetsEncrypt
+date=2018-09-18
+type=post
+status=published
+tags=Linux,Web-Dev
+~~~~~~
+Months ago,
+I started setting up https://letsencrypt.org/[LetsEncrypt]
+using https://certbot.eff.org/[certbot]
+on my Debian https://www.hjsoft.com/[web server].
+It hosts multiple virtual hosts,
+so I setup 2 different sets of certificates:
+one for https://www.hjsoft.com/[hjsoft.com/www.hjsoft.com]
+and the other for
+https://blog.johnflinchbaugh.com/[johnflinchbaugh.com/www.johnflinchbaugh.com/blog.johnflinchbaugh.com].
+
+On Debian,
+it's best to have `certbot` shutdown `apache2`
+and let it be the temporary web server
+to verify the LetsEncrypt setup (`--authenticator standalone`).
+The other trick is
+to register multiple domain names
+for one certificate by repeating the `-d` option.
+I did this with this invocation:
+
+----
+certbot \
+    --pre-hook "systemctl stop apache2" \
+    --post-hook "systemctl start apache2" \
+    --authenticator standalone \
+    --installer apache \
+    -d johnflinchbaugh.com \
+    -d www.johnflinchbaugh.com \
+    -d blog.johnflinchbaugh.com
+----
+
+I got it started a couple months ago,
+but I didn't know how to setup multiple domain names,
+so I was always getting errors
+that this certificate was for a different name:
+`johnflinchbaugh.com` instead of `www.johnflinchbaugh.com`, etc.
+
+That's all sorted out now,
+and all my sites should be SSL all the time.
