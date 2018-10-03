@@ -2,6 +2,11 @@ JOHN M. FLINCHBAUGH
 
 john@hjsoft.com 27 Oakgrove Ln Millersville PA 17551 717.808.0917
 
+
+
+EXPERIENCE
+
+
 -   CONTRACT SOFTWARE ENGINEER, November 2014–Present. e&e Consulting
     Services / PennState Hershey Medical Center. Hershey, PA.
 
@@ -33,7 +38,7 @@ john@hjsoft.com 27 Oakgrove Ln Millersville PA 17551 717.808.0917
     -   Mentored and led a scrum team in Groovy, Grails, test-driven
         development (TDD), and executable documentation.
 
-    -   Developed new features and fixed bugs in Groovy/Grails and
+    -   Developed new features and fixed issues in Groovy/Grails and
         Spring web applications backed by MongoDB and PostgreSQL.
 
     -   Assisted automating management and deployment of applications to
@@ -53,7 +58,7 @@ john@hjsoft.com 27 Oakgrove Ln Millersville PA 17551 717.808.0917
         web applications (for smart phone, feature phone, and keitai).
 
     -   Refactored and enhanced existing functional test frameworks for
-        faster test development and to support testing desktop and
+        streamlining test development and to support testing desktop and
         mobile web applications.
 
     -   Supported an agile team doing mobile web development as a
@@ -124,17 +129,25 @@ john@hjsoft.com 27 Oakgrove Ln Millersville PA 17551 717.808.0917
 
     -   Installed network hardware and built monitoring tools.
 
+
+
+EDUCATION
+
+
 -   MILLERSVILLE UNIVERSITY. Bachelor of Science in Computer Science.
     May 2000.
 
--   Ross, Paul, R. Webster, T. Bailey, S. Conrad, M. Fiorill, J.
-    Flinchbaugh, E. Velkly, “Controlling a Pepsi Vending Machine over
-    the World Wide Web Using Java,” _Proceedings of the International
-    AACE WebNet98 Conference_, Orlando, Florida, November 7–12, 1998.
+-   PUBLICATIONS
 
--   Webster, Roger, P. Ross, T. Bailey, S. Conrad, M. Fiorill, J.
-    Flinchbaugh, E. Velkly, “Controlling a Java Enabled Pepsi Vending
-    Machine over the World Wide Web”, _Proceedings of the 25th Annual
-    Conference of the IEEE Industrial Electronics Society IECON ’99
-    Conference_, San Jose, California, November 30–Dec. 4, 1999, Vol. 1,
-    pps. 86–90.
+    -   Ross, Paul, R. Webster, T. Bailey, S. Conrad, M. Fiorill, J.
+        Flinchbaugh, E. Velkly, “Controlling a Pepsi Vending Machine
+        over the World Wide Web Using Java,” _Proceedings of the
+        International AACE WebNet98 Conference_, Orlando, Florida,
+        November 7–12, 1998.
+
+    -   Webster, Roger, P. Ross, T. Bailey, S. Conrad, M. Fiorill, J.
+        Flinchbaugh, E. Velkly, “Controlling a Java Enabled Pepsi
+        Vending Machine over the World Wide Web”, _Proceedings of the
+        25th Annual Conference of the IEEE Industrial Electronics
+        Society IECON ’99 Conference_, San Jose, California, November
+        30–Dec. 4, 1999, Vol. 1, pps. 86–90.
