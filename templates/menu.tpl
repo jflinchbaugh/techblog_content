@@ -36,12 +36,14 @@ div(class: 'navbar navbar-default navbar-fixed-top', role: 'navigation') {
                         li {
                             a(
                                 href: "${content.rootpath}resume.txt",
+                                target: '_blank',
                                 'TXT'
                             )
                         }
                         li {
                             a(
                                 href: "${content.rootpath}resume.pdf",
+                                target: '_blank',
                                 'PDF'
                             )
                         }
@@ -94,12 +96,14 @@ div(class: 'navbar navbar-default navbar-fixed-top', role: 'navigation') {
                 li {
                     a(
                         href: 'https://github.com/jflinchbaugh',
-                        'Github'
+                        target: '_blank',
+                        'GitHub'
                     )
                 }
                 li {
                     a(
                         href: "${content.rootpath}${config.feed_file}",
+                        target: '_blank',
                         'Subscribe'
                     )
                 }
