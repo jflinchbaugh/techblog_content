@@ -1,0 +1,32 @@
+title=Browser Automation with Geb, Spock, and Groovy
+date=2018-10-22
+type=post
+status=published
+tags=Groovy,Code,Testing
+~~~~~~
+I recently gave a talk
+and demonstration,
+https://jflinchbaugh.github.io/geb-preso/[
+    Browser Automation with Geb, Spock, and Groovy],
+at the
+https://www.meetup.com/CapitalAreaSoftwareEngineers/events/txfzgqyxnblb/[
+    Capital Area Software Engineers]
+group in Harrisburg, PA.
+While explaining the whole stack of software,
+I showed how to:
+
+* Start a project in Gradle
+* Get the Geb and Webdriver dependencies in place
+* Get started in Spock testing framework
+* Start up a browser for testing
+* Interact with the page content
+* Wait for asynchronous content
+* Abstract away page components into Geb Page classes
+
+The slides and all the code are available in my
+https://github.com/jflinchbaugh/geb-preso[geb-preso] repo.
+It includes copies of the code I had prepared,
+the code we wrote live as a group,
+and my little toy
+https://hjsoft.com/~john/poker/[Planning Poker]
+JS app I was testing.
