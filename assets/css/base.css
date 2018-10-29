@@ -42,6 +42,7 @@ body {
 
 #wrap > .container {
   padding-top: 60px;
+  overflow: auto;
 }
 .container .credit {
   margin: 20px 0;
