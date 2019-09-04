@@ -1,0 +1,36 @@
+title=Chili Recipe
+date=2019-09-03
+type=post
+status=published
+tags=Chili, Recipe, Cooking
+~~~~~~
+
+== John's Chili (8 qt)
+
+Since I've not eaten meat for over 4 years,
+and I've been evolving my chili recipe,
+it's probably time to update it.
+
+
+.Ingredients:
+* 58 oz canned plain tomato sauce
+* 93 oz canned dark red kidney beans
+* 46 oz canned black beans
+* 15 oz canned garbanzo beans
+* 1 large onion
+* 2 large tomatoes
+* 1 small green bell pepper
+* 1 small yellow bell pepper
+* 3-4 hot peppers (jalape&ntilde;o, habanero, red chili, etc)
+* 0.25 cup minced garlic
+* 3 tbsp chili powder
+* 2 tbsp crushed red pepper
+* 1 tsp salt
+* 1 tbsp black pepper
+
+.Directions:
+. Dice all the fresh ingredients.
+. Combine fresh ingredients with spices in large pot over medium heat.
+. Add canned sauce and beans to the pot.
+. Adjust heat for slow bubbling, stirring occasionally.
+. Let it cook for 45 minutes or longer.
