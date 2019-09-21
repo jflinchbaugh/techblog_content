@@ -1,0 +1,59 @@
+title=Using Google Calendar Effectively
+date=2019-09-21
+type=post
+status=published
+tags=Android, Family, Google, Home
+~~~~~~
+Google Calendar makes the world go 'round,
+especially for kids who travel between households
+and have lots of school events.
+There are a couple things you can do
+to get the most out of your calendar.
+
+== Set Locations
+Calendar events obviously come with times
+and fixed reminders so many minutes
+before the event.
+It doesn't matter where you are
+or where the event takes place:
+that notification is coming at the same time.
+
+With a location set on each calendar event,
+other software,
+like  https://www.waze.com/[Waze] GPS,
+can continuously watch your current location
+and offer you a more useful notification
+giving you time to travel based on distance
+and current driving conditions along the way.
+
+== Set the Earliest Time
+Most my calendar events have just _one_ start time,
+but my kids' events aren't that simple.
+A marching band performance may be at 7pm,
+but the bus to the stadium leaves at 4pm.
+Since we live by notifications,
+it's important to get those notifications
+at the earliest time at which we need to act.
+The other times
+are likely just extra details that can go
+into the event title
+or event details.
+I can get a notification for 4pm
+and realize I don't need to be there until 7pm,
+but I can't tolerate a 7pm notification
+if I was supposed to be dropping a kid
+at the practice at 4pm.
+
+If I find it's important to see notifications
+for all the potential times of an event,
+then it's probably best to break
+that event into more than one event:
+drop-off, performance, and pick-up.
+
+== Share the Calendar
+This is the first and most useful
+collaboration feature of Google Calendar.
+A personal calendar benefits one person,
+but invite the other participants (the kids),
+and then they can start adding
+and maintaining events and following these rules as well.
