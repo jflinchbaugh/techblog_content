@@ -1,0 +1,28 @@
+title=Missing Classes in IDEA
+date=2019-11-25
+type=post
+status=published
+tags=Code, Java, Work
+~~~~~~
+I use InteliJ IDEA for work when working on Java code.
+When the IDE doesn't work, though,
+it's incredibly distracting.
+
+I had a problem
+where IDEA would not find a few auxiliary classes
+in my application.
+It would highlight them as errors in imports,
+and the search would find the source file,
+but technically not the class definition.
+I'd poke at the problem over a couple weeks,
+but I'd otherwise ignore it most the time
+until it seemed to be losing more and more of my classes,
+some of which I was actively modifying.
+
+Re-importing the project's Maven build didn't fix it;
+re-cloning a brand new project didn't fix it;
+and re-installing IDEA didn't even work.
+Finally, I found 
+https://intellij-support.jetbrains.com/hc/en-us/articles/206544519-Directories-used-by-the-IDE-to-store-settings-caches-plugins-and-logs[IDEA's config directories], and wiped those out to start over,
+and that cleared up the problem: I was able to find all my classes again.
+
