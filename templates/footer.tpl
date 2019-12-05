@@ -7,7 +7,7 @@ div(id: 'footer') {
                 | Mixed with
             """
             a(href: 'http://getbootstrap.com/', 'Bootstrap v3.1.1')
-            yieldUnescaped ' | Baked with '
+            yieldUnescaped " | Baked on ${new Date().format('yyyy-MM-dd')} with "
             a(href: 'http://jbake.org/', "JBake ${version}")
             yieldUnescaped ' | Licensed '
             a(
