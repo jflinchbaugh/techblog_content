@@ -1,0 +1,43 @@
+title=Advent of Code
+date=2019-12-14
+type=post
+status=published
+tags=Code,Clojure
+~~~~~~
+For the second year
+I'm taking part
+in the https://adventofcode.com/2019[Advent of Code]
+with friends and http://www.sonatype.com/[coworkers].
+I'm using https://clojure.org/[Clojure] again this year.
+
+The Advent of Code
+is a story and series
+of puzzles
+released as 2 parts daily.
+There's a https://www.reddit.com/r/adventofcode/[community]
+of people https://adventofcode.com/2019/leaderboard[competing]
+at various levels
+to complete the puzzles
+faster than others.
+I was keeping up fine
+for the first 7 days or so,
+but I eventually fell behind
+like many people.
+Fortunately,
+everyone can continue to work
+at our own pace.
+The puzzles
+from previous years
+continue to be available.
+
+I'm happy
+to find
+that I'm having an easier time
+with Clojure this year,
+and I'm more easily
+able to use it to _describe_
+the algorithms
+instead of struggling
+with the language.
+I publish https://github.com/jflinchbaugh/aoc2019[my code]
+to Github.
