@@ -18,7 +18,8 @@ That Pixel XL was fantastic,
 so I just kept it for nearly 2 years.
 Back in October,
 the Pixel XL got its last OS update,
-and I've now started seeing news of Android 11 previews,
+and I've now started seeing news
+of Android 11 previews,
 so I got the itch to replace the old Pixel XL
 even though it still runs pretty well.
 
@@ -30,7 +31,9 @@ I figured I'd appreciate the higher screen resolution
 and the bit of water resistance.
 This device doesn't seem too much different
 from my old Pixel XL,
-though now I'm buying a couple headphone adapters.
+though now I'm buying a couple headphone adapters,
+and I might just end up using
+my cheap bluetooth headphones more.
 I'm excited to have wireless charging again,
 which I had given up with my
 https://www.gsmarena.com/lg_nexus_4_e960-5048.php[Nexus 4].
@@ -40,6 +43,9 @@ but it's an adjustment
 from the way I used to carry the Pixel XL
 with the single speaker blasting podcasts
 from a pocket as I wander the house.
+It seems that maybe driving
+the extra speaker may drain battery
+a little quicker.
 After a couple days,
 I had to pop into the Developer Options
 to hide the notch.
@@ -47,7 +53,6 @@ It's just a bad idea:
 I have too many notifications
 to allow room for a notch cut out
 between them.
-
 
 The Pixel 3 XL seems pretty well-balanced
 with features I want at a reasonable price
