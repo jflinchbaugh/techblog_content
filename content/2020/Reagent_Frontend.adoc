@@ -18,9 +18,8 @@ to get my next toy application
 put together.
 Each application is a mere
 single-page application
-for doing a single, simple task,
-but the came together much quicker
-than things usually do for me.
+for doing a single, simple task
+on mobile devices,
 It's a lot of fun,
 and this opens the door
 for quickly implementing any toy
