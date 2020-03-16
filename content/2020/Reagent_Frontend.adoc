@@ -1,0 +1,32 @@
+title=Reagent Front-end
+date=2020-03-16
+type=post
+status=published
+tags=Clojure
+~~~~~~
+For the past couple days,
+I've started playing with https://reagent-project.github.io/[Reagent]
+to do a bit of React programming.
+I used the
+https://github.com/reagent-project/reagent-frontend-template[Reagent-frontend]
+template for leiningen to get my start.
+Within a day or two,
+I had managed to string together
+a useful little toy application.
+It only took me a couple hours
+to get my next toy application
+put together.
+Each application is a mere
+single-page application
+for doing a single, simple task,
+but the came together much quicker
+than things usually do for me.
+It's a lot of fun,
+and this opens the door
+for quickly implementing any toy
+I want.
+
+* https://github.com/jflinchbaugh/sum-three[Sum 3]
+  https://www.hjsoft.com/~john/sum3/[(Running)]
+* https://github.com/jflinchbaugh/planning-poker[Planning Poker]
+  https://www.hjsoft.com/~john/poker/[(Running)]
