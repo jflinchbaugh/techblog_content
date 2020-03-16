@@ -19,7 +19,7 @@ put together.
 Each application is a mere
 single-page application
 for doing a single, simple task
-on mobile devices,
+on a mobile device.
 It's a lot of fun,
 and this opens the door
 for quickly implementing any toy
