@@ -1,4 +1,4 @@
-title=Reagent Front-end
+title=Reagent Front End
 date=2020-03-16
 type=post
 status=published
