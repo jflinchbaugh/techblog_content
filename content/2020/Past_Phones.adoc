@@ -1,0 +1,87 @@
+title=Past Phones
+date=2020-04-08
+type=post
+status=published
+tags=Mobile,Android
+~~~~~~
+
+Over the years,
+I've chosen my mobile devices
+pretty carefully.
+I've usually chosen them
+for connectivity options,
+Java capabilities,
+and eventually the quickest Android updates.
+
+* https://www.gsmarena.com/ericsson_s_868-111.php[Ericsson S868]
+  This was my first device: GSM on a small start-up network in Lancaster.
+* https://www.phonescoop.com/phones/phone.php?p=25[Ericsson 289LX]
+  After my old phone carrier let all their cool features
+  (email to SMS) fall into disrepair,
+  I jumped to an older TDMA network
+  on AT&T, but it worked.
+* https://www.phonescoop.com/phones/phone.php?p=84[Siemens S46]
+  This was my second phone on AT&T.
+  This one had a couple colors and a better WAP browser,
+  so I started coding WAP mobile sites for it.
+* https://www.gsmarena.com/sony_ericsson_t68i-325.php[SonyEricsson T68i]
+  A friend gave me this tiny phone with an attachable camera accessory.
+  This was my first phone with Bluetooth data tethering.
+* https://www.phonescoop.com/phones/phone.php?p=275[SonyEricsson T616]
+  Now I had an integrated camera and Java,
+  and I think I likely started coding for J2ME apps and games
+  with the T616.
+* https://www.phonescoop.com/phones/phone.php?p=496[SonyEricsson T637]
+  This was just an update to the T616.
+* https://www.gsmarena.com/sony_ericsson_s710-848.php[SonyEricsson S710]
+  This device had an odd form factor
+  of a large screen and hidden keypad
+  that made it more of a camera that had a phone feature.
+* https://www.gsmarena.com/sony_ericsson_w810-1402.php[SonyEricsson W810]
+  I returned to the tiny, featureful candy-bar phone with this one.
+  Java capabilities and connectivity remained my most important concerns.
+  I was really stretching these little feature phones
+  to do as much as possible, and I believed they continued
+  to have a future.
+  This device was a "Walkman"-branded device,
+  so it had a bit of storage and decent audio capabilities.
+  I think I also flashed a new firmware onto this device
+  to get full email support.
+* https://www.gsmarena.com/nokia_e71-2425.php[Nokia E71]
+  I jumped to a smartphone with Symbian OS with the full keyboard
+  and internet capabiliites.
+  I never coded any S60 apps for this,
+  but it continued to run Java apps well.
+* https://www.gsmarena.com/samsung_google_nexus_s-3620.php[Samsung Nexus S]
+  I finally jumped to Android and a touchscreen,
+  and I had every intention of jumping right
+  to coding Android apps.
+  (Spoiler: With all these Android devices, I _never_ started.)
+  I really stretched this device to a point
+  where I barely had enough memory to run
+  GPS navigation (Waze) and podcasts (BeyondPod) or music
+  at the same time.
+* https://www.gsmarena.com/lg_nexus_4_e960-5048.php[LG Nexus 4]
+  I continued to chase clean Google Android devices.
+  This devices brought NFC and wireless charging
+  that didn't work as well as it should.
+* https://www.gsmarena.com/huawei_nexus_6p-7588.php[Huawei Nexus 6P]
+  This phone was huge, and I never went back to smaller phones,
+  but it lost wireless charging.
+  It lasted long enough for me
+  to need to replace the built-in battery.
+  I started coding some mobile JavaScript for this device.
+* https://www.gsmarena.com/google_pixel_xl-8345.php[Google Pixel XL]
+  The 6P's battery died again,
+  and the latest phones (Pixel 3) were being released in 6 months,
+  so I bought a refurbished Pixel XL
+  to tide me over,
+  but it proved to be an excellent phone,
+  so I hung onto it until it no longer got updates.
+* https://www.gsmarena.com/google_pixel_3_xl-9257.php[Google Pixel 3 XL]
+  I wanted something newer that would get Android 11,
+  so I bought this device refurbished.
+  I had to buy some headphone adapters,
+  but I've been enjoying having good wireless charging.
+  I finally got started with some ClojureScript
+  for mobile web apps on this device.
