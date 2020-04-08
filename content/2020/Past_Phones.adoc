@@ -61,6 +61,7 @@ and eventually the quickest Android updates.
   where I barely had enough memory to run
   GPS navigation (Waze) and podcasts (BeyondPod) or music
   at the same time.
+  I loaded lots of 3rd party Android ROMs on here.
 * https://www.gsmarena.com/lg_nexus_4_e960-5048.php[LG Nexus 4]
   I continued to chase clean Google Android devices.
   This devices brought NFC and wireless charging
