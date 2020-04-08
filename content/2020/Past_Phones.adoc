@@ -14,7 +14,8 @@ Java capabilities,
 and eventually the quickest Android updates.
 
 * https://www.gsmarena.com/ericsson_s_868-111.php[Ericsson S868]
-  This was my first device: GSM on a small start-up network in Lancaster.
+  This was my first device in about 1999:
+  futuristic GSM on a small start-up network in Lancaster.
 * https://www.phonescoop.com/phones/phone.php?p=25[Ericsson 289LX]
   After my old phone carrier let all their cool features
   (email to SMS) fall into disrepair,
