@@ -29,5 +29,5 @@ I want.
   https://www.hjsoft.com/~john/sum3/[(Running)]
 * https://github.com/jflinchbaugh/planning-poker[Planning Poker]
   https://www.hjsoft.com/~john/poker/[(Running)]
-* Added 2020-04-10: https://github.com/jflinchbaugh/bpm-web[BPM]
+* Added 2020-04-10: https://github.com/jflinchbaugh/bpm[BPM]
   https://www.hjsoft.com/~john/bpm/[(Running)]
