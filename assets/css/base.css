@@ -60,3 +60,8 @@ code {
     width: 50%;
     margin: auto;
 }
+
+.post-date {
+    font-style: italic;
+    margin-bottom: 1ex;
+}

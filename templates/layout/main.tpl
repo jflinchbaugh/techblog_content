@@ -4,7 +4,7 @@ html(lang: 'en') {
         include template: 'header.tpl'
     }
     newLine()
-    body(onload: 'prettyPrint();') {
+    body(onload: 'prettyPrint(); targetLinks();') {
         div(id: 'wrap') {
             include template: 'menu.tpl'
             div(class: 'container') {
@@ -19,5 +19,6 @@ html(lang: 'en') {
         script(src: "${content.rootpath}js/jquery-1.11.1.min.js", '') newLine()
         script(src: "${content.rootpath}js/bootstrap.min.js", '') newLine()
         script(src: "${content.rootpath}js/prettify.js", '') newLine()
+        script(src: "${content.rootpath}js/links.js", '') newLine()
     }
 }

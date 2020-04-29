@@ -5,13 +5,15 @@ layout(
     alltags: alltags,
     bodyContents: contents {
         published_posts.take(20).each { post ->
-            a(href: post.uri) {
-                h1(post.title)
+            div(class: 'post') {
+              h1 {
+                a(href: post.uri, post.title)
+              }
+              div(class: 'post-date', post.date.format('dd MMMM yyyy'))
+              div(class: 'post-body') {
+                yieldUnescaped post.body
+              }
             }
-            p {
-                em(post.date.format('dd MMMM yyyy'))
-            }
-            p(post.body)
             hr(class: 'clear-fix', '')
         }
         p {
