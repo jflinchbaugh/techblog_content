@@ -13,7 +13,7 @@ pop up on Facebook a couple weeks ago,
 and it looked like a fun exercise
 for https://github.com/clojure/core.logic[core.logic],
 since the puzzle simply requires keeping track
-of some constrains and reconciling them
+of some constraints and reconciling them
 to one answer.
 
 I had previously tinkered with the
