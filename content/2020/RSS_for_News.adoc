@@ -1,0 +1,47 @@
+title=RSS for News
+date=2020-06-26
+type=post
+status=published
+tags=Web,Politics
+~~~~~~
+
+We can find ourselves thinking,
+"Where did we used to get our news
+before Twitter and Facebook?"
+I know where I got news:
+https://en.wikipedia.org/wiki/Google_Reader[Google Reader],
+but Google shut it down,
+and eventually gave us a taste
+of aggregated news
+in https://assistant.google.com/[Google Assistant]
+on our phones,
+but it never really allows us to consciously control it.
+
+Social media's a bit of a mess
+and mostly getting worse,
+so you might want an alternative.
+Google Reader was based on RSS and Atom news feeds
+from all your favorite websites,
+and those still exist.
+
+I still read my carefully curated news feeds
+using https://feedly.com[Feedly]
+as a successor to Google Reader.
+I have hundreds of different news feeds
+aggregated into this one place
+(kind of like Facebook and Twitter),
+but it's a much more controlled
+stream of news about which I care.
+Anyone can create an account
+at Feedly and get started
+by searching for a handful
+of sites you'd like to read regularly.
+Over time, you can extend
+and finely tune your feed of news.
+
+If Feedly isn't quite your style,
+you can find other news readers,
+and allow yourself to stay informed
+without necessarily needing
+to scroll through all the noise
+of Facebook and Twitter.
