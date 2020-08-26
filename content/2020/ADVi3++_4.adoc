@@ -1,0 +1,60 @@
+title=ADVi3++ 4
+date=2020-08-26
+type=post
+status=published
+tags=3D-Printing
+~~~~~~
+I had a bit of downtime
+with my
+https://www.monoprice.com/product?p_id=15711[Monoprice Maker Select Plus]
+3D printer,
+so I decided it was time
+to upgrade the custom firmware,
+https://www.patreon.com/andrivet/posts[ADVi3++] 3.0.x,
+to the newer 4.0.6.
+
+I've done the upgrade previously
+to get the 3.x firmware in the first place,
+so I knew I needed to upgrade in 2 steps:
+the LCD via a microSD card
+and the main board
+via https://ultimaker.com/software/ultimaker-cura[Cura]
+over USB.
+
+I dug through the manuals and directions a bit,
+and decided I could copy the contents
+of the raw zip
+onto a formatted SD card
+instead of writing the `img` file
+to the raw SD device with `dd`.
+That fit on a handy 2GiB card.
+I took the couple screws out of the front panel,
+inserted the micro SD card,
+powered it up,
+and watched the LCD display all the new images it was loading.
+When it's done, I turned it off,
+and replaced the screws.
+
+Then I could easily connect the printer
+to the Linux laptop via USB,
+and upload the custom firmware `hex` file
+from Cura's Manage Printers screen.
+I did need to take a moment
+to add my user to the `dialout` group
+to get access to the USB ports
+for serial communication
+to the printer.
+
+Upon reboot,
+the printer wiped out the old incompatible settings,
+and I rebooted it again to see the new startup screen
+and version numbers.
+I ran through some tunings: PID and extruder,
+and kicked off a test print that went fine.
+
+I currently have the thermal protection enabled,
+and I'm hoping it's not too sensitive,
+and I can keep it turned on.
+I expect this upgrade will hold for a long time
+until I see 5.0 available,
+and it's had some time to settle.
