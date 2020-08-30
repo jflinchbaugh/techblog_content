@@ -42,10 +42,12 @@ to looking in `~/.spacemacs.d/`
 if the configuration was in there,
 so I had to move my `~/.spacemacs` file
 over to `~/.spacemacs.d/init.el`.
-The templates layer required an extra bit of configuration
+To have the templates layer source templates
+from the `.spacemacs.d` directory,
+it required an extra bit of configuration
 when introducing it to the `dotspacemacs-configuration-layers`:
 ----
-     (templates :variables templates-private-directory "~/.spacemacs.d/templates")
+  (templates :variables templates-private-directory "~/.spacemacs.d/templates")
 ----
 
 At this point,
