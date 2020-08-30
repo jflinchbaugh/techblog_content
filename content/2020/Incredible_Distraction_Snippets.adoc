@@ -1,0 +1,75 @@
+title=Incredible Distraction: Snippets
+date=2020-08-30
+type=post
+status=published
+tags=Blog, Code, Linux, Emacs
+~~~~~~
+
+I was only trying to write that last article,
+but it took me _days_ to finally do it.
+I had so much work to do before I got there.
+
+I had come to appreciate https://www.gnu.org/software/emacs/[Emacs]
+automatically inserting the boilerplate
+namespace declarations in new Clojure files,
+and I really thought I needed such convenience
+for my blog posts written in https://asciidoc.org/[AsciiDoc]
+in https://jbake.org/[JBake].
+I dove down a 20-tab-deep,
+https://www.hanselman.com/blog/YakShavingDefinedIllGetThatDoneAsSoonAsIShaveThisYak.aspx[yak-shaving] hole to get it done.
+footnote:[I often measure task complexity in the number of tabs I end up having opened.]
+
+I had to figure out the right search terms
+and names for what Emacs was doing for me.
+I finally found https://melpa.org/\#/yatemplate[yatemplate]
+which seems similar to  https://melpa.org/\#/yasnippet[yasnippets].
+https://www.spacemacs.org/[Spacemacs]
+has the https://develop.spacemacs.org/layers/+completion/templates/README.html[templates layer]
+for integrating yatemplate support,
+so I added that layer and created a template
+for my `adoc` files in my `.emacs.d` directory.
+My simple case worked,
+but I recognized
+that I'll want that template
+on all my machines,
+so having a local copy of it
+wouldn't cut it.
+I needed a way to check-in and version more Emacs/Spacemacs files
+than just my `~/.spacemacs` files I was previously distributing.
+
+I learned yasnippets would default
+to looking in `~/.spacemacs.d/`
+if the configuration was in there,
+so I had to move my `~/.spacemacs` file
+over to `~/.spacemacs.d/init.el`.
+The templates layer required an extra bit of configuration
+when introducing it to the `dotspacemacs-configuration-layers`:
+----
+     (templates :variables templates-private-directory "~/.spacemacs.d/templates")
+----
+
+At this point,
+I could now commit
+my https://github.com/jflinchbaugh/rc/tree/master/spacemacs.d[`.spacemacs.d` directory]
+with the regular configuration file
+_and_ the supporting templates and snippets.
+All those files will be cloned
+to all my workstations.
+
+I was almost ready to write
+that article,
+but yasnippet and yatemplate
+have this fancy templating language.
+I'm sure that can make
+my article-creation even smarter!
+I read a bit more
+and found a couple cool `elisp` functions
+for automatically filling in the date
+and building a title
+from the file name.
+With the final enhancements
+to my https://github.com/jflinchbaugh/rc/blob/master/spacemacs.d/templates/00:.*.adoc[`adoc` template],
+I could write the article,
+If I could only remember
+what I was trying to do
+in the first place.
