@@ -1,0 +1,90 @@
+title=Listening to Music
+date=2020-08-30
+type=post
+status=published
+tags=Amazon, Android, Entertainment, Music, Podcasts
+~~~~~~
+
+=== My Music Library
+
+I have a good bit
+of music I had acquired and ripped
+in the late 90s
+and had purchased from Amazon later.
+That all lives in a directory
+on my big computer.
+I never play anything from there,
+and it just sits there for
+safe keeping.
+
+I continued to purchase
+DRM-free MP3 files
+from https://music.amazon.com/[Amazon Music],
+and I eventually embraced their "free" streaming
+with Amazon Prime.
+I could add available
+music to my collection for free,
+and then stream it
+along with the stuff I bought,
+so it's nice and blended.
+This allowed me to easily
+toss a new album or artist
+into rotation,
+and if I really wanted to keep it,
+I might purchase it to keep.
+
+The Prime streaming service
+had some limitations
+with some music I wanted
+to sample being unavailable,
+and sometimes, I'd notice
+some of the free music
+disappeared from my collection.
+I decided to pay the little bit
+for the Unlimited Music plan,
+and that made almost everything available.
+I notice very few cases
+of music becoming unavailable,
+so now I don't bother buying
+downloadable MP3s except in rare cases
+where I want to be able to use a song
+on another device outside the Amazon Music client.
+
+=== Music Discovery
+
+I don't really use the stations at all
+on Amazon Music.
+I don't feel the need to hear large numbers
+of new songs all the time,
+so I have a smaller curated list
+of podcasts and DJs
+where I discover new music
+to add to my collection at Amazon:
+
+* https://www.npr.org/sections/allsongs/[All Songs Considered] at NPR Podcasts
+* https://echoes.org/[Echoes] Interview Podcast for chill ambient electronic music
+* http://songexploder.net/[Song Exploder] Podcast for extended discussion on the anatomy of a song
+* https://www.twitch.tv/daveghoul[Shadowland] the monthly Goth/Industrial party
+* https://www.twitch.tv/djneidermeyer[DJ Neidermeyer] for 80s and 90s Music I may have never known or had forgotten
+
+
+=== Alternatives
+
+I had uploaded all my music
+to Google Play Music
+years ago,
+but there had always been
+news of the service's
+eventual demise.
+It's finally migrated recently
+over to https://music.youtube.com/[YouTube Music],
+and they seem to have reintroduced
+the ability to upload my own music.
+I've paid for https://www.youtube.com/premium[YouTube Premium],
+so I have YouTube Music as well,
+and this could be a nice alternative.
+I have a few albums uploaded
+there which I can't find on Amazon.
+I don't think I can buy music there, though,
+and I've already purchased a good bit
+of (DRM-free) music on Amazon.
