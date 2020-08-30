@@ -73,3 +73,6 @@ I could write the article,
 If I could only remember
 what I was trying to do
 in the first place.
+At least I hope to remember
+how to use these snippets and templates
+for future work.
