@@ -70,7 +70,7 @@ for automatically filling in the date
 and building a title
 from the file name.
 With the final enhancements
-to my https://github.com/jflinchbaugh/rc/blob/master/spacemacs.d/templates/00:.*.adoc[`adoc` template],
+to my https://raw.githubusercontent.com/jflinchbaugh/rc/master/spacemacs.d/templates/00%3A.*.adoc[`adoc` template],
 I could write the article,
 If I could only remember
 what I was trying to do
