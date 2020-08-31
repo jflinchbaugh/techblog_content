@@ -1,4 +1,4 @@
-title=Incredible Distraction: Snippets
+title=Incredible Distraction: Templates and  Snippets
 date=2020-08-30
 type=post
 status=published
