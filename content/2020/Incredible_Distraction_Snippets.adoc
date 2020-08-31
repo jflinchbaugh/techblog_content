@@ -72,9 +72,9 @@ from the file name.
 With the final enhancements
 to my https://raw.githubusercontent.com/jflinchbaugh/rc/master/spacemacs.d/templates/00%3A.*.adoc[`adoc` template],
 I could write the article,
-If I could only remember
+if I could only remember
 what I was trying to do
 in the first place.
-At least I hope to remember
+I hope to at least remember
 how to use these snippets and templates
 for future work.
