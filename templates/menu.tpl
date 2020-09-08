@@ -29,32 +29,6 @@ div(class: 'navbar navbar-default navbar-fixed-top', role: 'navigation') {
                         class: 'dropdown-toggle',
                         'data-toggle': 'dropdown'
                     ) {
-                        yieldUnescaped 'Resume '
-                        b(class: 'caret', '')
-                    }
-                    ul(class: 'dropdown-menu') {
-                        li {
-                            a(
-                                href: "${content.rootpath}resume.txt",
-                                target: '_blank',
-                                'TXT'
-                            )
-                        }
-                        li {
-                            a(
-                                href: "${content.rootpath}resume.pdf",
-                                target: '_blank',
-                                'PDF'
-                            )
-                        }
-                    }
-                }
-                li(class: 'dropdown') {
-                    a(
-                        href: '#',
-                        class: 'dropdown-toggle',
-                        'data-toggle': 'dropdown'
-                    ) {
                         yieldUnescaped 'Tags '
                         b(class: 'caret', '')
                     }
@@ -88,6 +62,32 @@ div(class: 'navbar navbar-default navbar-fixed-top', role: 'navigation') {
                                     }
                                 }
                             }
+                        }
+                    }
+                }
+                li(class: 'dropdown') {
+                    a(
+                        href: '#',
+                        class: 'dropdown-toggle',
+                        'data-toggle': 'dropdown'
+                    ) {
+                        yieldUnescaped 'Resume '
+                        b(class: 'caret', '')
+                    }
+                    ul(class: 'dropdown-menu') {
+                        li {
+                            a(
+                                href: "${content.rootpath}resume.txt",
+                                target: '_blank',
+                                'TXT'
+                            )
+                        }
+                        li {
+                            a(
+                                href: "${content.rootpath}resume.pdf",
+                                target: '_blank',
+                                'PDF'
+                            )
                         }
                     }
                 }
