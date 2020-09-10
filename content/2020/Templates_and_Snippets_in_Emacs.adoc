@@ -1,4 +1,4 @@
-title=Incredible Distraction: Templates and  Snippets
+title=Templates and  Snippets in Emacs
 date=2020-08-30
 type=post
 status=published
