@@ -2,7 +2,7 @@ title=2018-01-14 Polarity Game Rules
 date=2018-01-14
 type=post
 status=published
-tags=Games,Make365,3D-Printing,Polarity
+tags=Games,Make365,3D-Printing
 ~~~~~~
 
 https://en.wikipedia.org/wiki/Polarity\_(game)[Polarity]
