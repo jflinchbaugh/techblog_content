@@ -1,0 +1,35 @@
+title=Escape with Spacemacs in Tmux
+date=2020-10-21
+type=post
+status=published
+tags=Android, Clojure, Code, Computers, Emacs, Linux, Mobile
+~~~~~~
+  
+I've occasionally
+been using a SSH session
+from my Pixel phones
+for years to login
+to my servers
+and write Clojure code
+in Emacs. 
+I'd often run into an issue
+where I find myself
+having a weird time
+switching between NORMAL and INSERT modes
+when I'd hit ESCAPE quickly
+and try to move the cursor.
+
+Googling my random problems
+is a favorite pastime,
+and I've finally stumbled
+upon an article about 
+https://stackoverflow.com/questions/12312178/tmux-and-vim-escape-key-being-seen-as-and-having-long-delay/13843382#13843382[tmux and vim escape key].
+I learned
+that it's probably been `tmux`
+sporadically eating my ESCAPE key,
+so I've tried disabling the built-in delay
+by adding to my
+https://github.com/jflinchbaugh/rc/blob/master/tmux.conf[`.tmux.conf`]:
+----
+set -g -s escape-time 0
+----
