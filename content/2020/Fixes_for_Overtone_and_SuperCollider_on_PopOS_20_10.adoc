@@ -1,5 +1,5 @@
 title=Fixes for Overtone and SuperCollider on PopOS 20.10
-date=2020-11-01
+date=2020-11-02
 type=post
 status=published
 tags=Clojure, Code, Computers, Emacs, Linux, Music 
@@ -81,9 +81,6 @@ to that external server
 from my REPL manually
 with `(connect-external-server)`
 before doing anything else.
-I was able to add this call
-directly to my `core.clj`,
-and that's worked so far.
 
 Finally,
 Overtone was consistently
