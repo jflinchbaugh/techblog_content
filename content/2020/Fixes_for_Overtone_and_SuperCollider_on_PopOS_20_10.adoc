@@ -1,0 +1,107 @@
+title=Fixes for Overtone and SuperCollider on PopOS 20.10
+date=2020-11-01
+type=post
+status=published
+tags=Clojure, Code, Computers, Emacs, Linux, Music 
+~~~~~~
+
+I took the update to https://pop.system76.com/[PopOS 20.10],
+and my https://overtone.github.io/[Overtone] setup stopped working.
+When I'd try to boot up
+the internal https://supercollider.github.io/[SuperCollider] server
+from Emacs or from the https://leiningen.org/[leiningen] repl
+on my https://github.com/jflinchbaugh/music[music projects]
+which all `(:require [overtone.live :refer :all])`,
+get an error in native libraries.
+I could also try to start the server
+with `(boot-internal-server)` or `(boot-external-server)`,
+but it gives the same error.
+
+----
+--> Booting internal SuperCollider server...
+Cannot read socket fd = 107 err = Success
+CheckRes error
+Could not read result type = 22
+Client name = Overtone conflits with another running client
+Cannot connect to the server
+JackShmReadWritePtr1::~JackShmReadWritePtr1 - Init not done for -1, skipping unlock
+JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for -1, skipping unlock
+JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for -1, skipping unlock
+could not initialize audio.
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  SIGSEGV (0xb) at pc=0x00007f5eec0e9ba7, pid=30517, tid=30605
+#
+# JRE version: OpenJDK Runtime Environment AdoptOpenJDK (15.0.1+9) (build 15.0.1+9)
+# Java VM: OpenJDK 64-Bit Server VM AdoptOpenJDK (15.0.1+9, mixed mode, sharing, tiered, compressed oops, g1 gc, linux-amd64)
+# Problematic frame:
+# C  [libscsynth.so.1+0x63ba7]  World_WaitForQuit+0x7
+#
+# No core dump will be written. Core dumps have been disabled. To enable core dumping, try "ulimit -c unlimited" before starting Java again
+#
+# An error report file with more information is saved as:
+# /home/john/workspace/music/hs_err_pid30517.log
+--> Connecting to internal SuperCollider server...
+[thread 30576 also had an error]
+#
+# If you would like to submit a bug report, please visit:
+#   https://github.com/AdoptOpenJDK/openjdk-support/issues
+# The crash happened outside the Java Virtual Machine in native code.
+# See problematic frame for where to report the bug.
+#
+----
+
+Since it can no longer start the server internally
+from within Overtone, 
+I start the server manually.
+I wrapped a script around the start up,
+so I can set the environment variables
+for configuring `jack`
+and starting up the synth:
+
+----
+#!/bin/sh
+
+# automatically connect up jack ports
+export SC_JACK_DEFAULT_INPUTS="system:capture_1,system:capture_2"
+export SC_JACK_DEFAULT_OUTPUTS="system:playback_1,system:playback_2"
+
+scsynth -u 57110
+----
+
+To get Overtone going again,
+I disabled the automatic boot
+of the server within Overtone
+by switching all the requires
+in each file 
+from `overtone.live` to `overtone.core`,
+and I connect
+to that external server
+from my REPL manually
+with `(connect-external-server)`
+before doing anything else.
+I was able to add this call
+directly to my `core.clj`,
+and that's worked so far.
+
+Finally,
+Overtone was consistently
+failing to find my MIDI keyboard.
+When things were working
+well enough a couple months ago,
+it still had required
+a little dance of killing off `jackd`
+and restarting Overtone,
+since something had been
+tying up the MIDI interface.
+This workaround was no longer adequate,
+since `scsynth` and `jackd`
+needed to already be started.
+I disabled MIDI connection in `jackd`
+by removing the `-Xseq` option
+from my `~/.jackdrc`.
+
+I'm back in business,
+and it's probably more robust
+with these manual steps now.
