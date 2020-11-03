@@ -102,3 +102,11 @@ from my `~/.jackdrc`.
 I'm back in business,
 and it's probably more robust
 with these manual steps now.
+I think I'm also seeing
+some other odd little things working
+with the external server
+that didn't previously,
+like using `(mouse-x)`
+for reading mouse positions into the synth
+values and the built-in piano synth is working
+where it hadn't previously.
