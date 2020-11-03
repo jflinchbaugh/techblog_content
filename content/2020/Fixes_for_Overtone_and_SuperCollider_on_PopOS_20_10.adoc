@@ -107,6 +107,6 @@ some other odd little things working
 with the external server
 that didn't previously,
 like using `(mouse-x)`
-for reading mouse positions into the synth
-values and the built-in piano synth is working
-where it hadn't previously.
+for reading mouse positions into the synth values.
+The built-in piano synth is also
+working where it hadn't previously.
