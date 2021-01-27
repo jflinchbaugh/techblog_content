@@ -1,0 +1,33 @@
+title=Java Joyless
+date=2021-01-27
+type=post
+status=published
+tags=Clojure, Code, Computers, Java
+~~~~~~
+
+Mr Haki has a
+https://blog.mrhaki.com/2021/01/java-joy-transform-stream-of-strings-to.html[Java Joy article]
+about transforming a stream of strings
+into a map using functional Java.
+I'm having a bit of trouble
+embracing it enthusiastically,
+since each example is 81 lines
+of Java code
+and a pointy pile
+of type declarations!
+
+I dashed out the same functionality
+in 4 lines of Clojure,
+and I can understand it
+a whole lot easier.
+I'm not even sure this is the fewest forms,
+but it's still nicer.
+
+----
+  (->>
+    ["language" "clojure" "username" "john"]
+    (partition 2)
+    (reduce (fn [m [k v]] (assoc m k v)) {}))
+  ;; => {"language" "clojure", "username" "john"}
+----
+
