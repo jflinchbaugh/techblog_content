@@ -31,3 +31,4 @@ but it's still nicer.
   ;; => {"language" "clojure", "username" "john"}
 ----
 
+Written with Clojure 1.10.2.
