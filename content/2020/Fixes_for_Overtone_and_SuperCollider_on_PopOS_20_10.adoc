@@ -110,3 +110,15 @@ like using `(mouse-x)`
 for reading mouse positions into the synth values.
 The built-in piano synth is also
 working where it hadn't previously.
+
+Update 2021-02-13:
+I had lost the ability
+to send desktop audio (pulseaudio)
+through to the Jack Sink
+with this setup,
+so I figured out
+to start `qjackctl`
+before my `supercollider.sh`.
+That gets the Jack Sink
+available again to pulseaudio
+and the desktop sound menu.
