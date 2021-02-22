@@ -1,0 +1,110 @@
+title=It's the 12-Volt
+date=2021-02-22
+type=post
+status=published
+tags=BMW-i3
+~~~~~~
+
+=== The Symptoms
+
+image:{site_context}images/2021/its_the_12v.jpg[It's the 12 volt,role="right"]
+
+In the https://www.facebook.com/groups/BMWi3[BMW i3 Worldwide Group]
+on Facebook,
+there are a few recurring jokes,
+and one of the most popular
+is the 12-volt battery causing
+every little weird issue.
+One could wonder
+why it has a 12-volt battery at all,
+since the 400-some-volt battery
+should be able to power the accessories.
+Additionally,
+BMW cars have a complicated charging system
+that requires registration
+when the battery is replaced,
+so it's easy to understand why one might put off dealing with it.
+The dealers can charge crazy amounts of money
+for replacement.
+
+My 2014 i3 has an occasional
+annoyance I attribute possibly
+to that little 12-volt battery:
+sometimes forgetting its presets
+and bluetooth pairing.
+The more obvious warning
+is that the battery has discharged while sitting,
+and while it's not clear on the screen,
+it means the 12-volt battery.
+Mine did it for a couple cold days,
+so I figured I was due to replace the battery,
+but the warning stopped,
+so I thought I might have had some more time.
+
+Over the weekend,
+I got to see the spectacular (and expected) failure
+of the car due to the 12-volt battery going very low.
+I opened the back hatch,
+stowed all my worldly possessions
+in the back,
+closed it,
+and then the alarm started whistling,
+and I could not get anything unlocked
+or stopped
+by the key fob.
+The alarm stopped
+on its own,
+but I still couldn't get into the car,
+and I could see the taillights 
+lowly blinking,
+so it seemed to be the dreaded 12-volt battery.
+
+The alarm went again
+and later the horn while I worked.
+Nothing inside the car would respond either.
+This was the failure
+about which the group warned:
+it can't do anything, and you'll need it dragged
+onto a rollback!
+The car charges the 12-volt battery when running,
+but without the 12-volt battery,
+the car can't get any
+of its smarts going to even power up the car.
+They've managed to engineer a problem
+of old cars into the new.
+
+=== The Familiar Fix
+
+I learned to pry off the cover
+to use the mechanical key
+and to manually pop the hood.
+I figured I may as well try
+to get it power
+with one of those Lithium Ion
+jump-starter packs I had on hand.
+(I carry it in the car,
+so I can still be helpful when others need a start.)
+I pulled the velcro covers
+and removed the allen and star screws
+from the bin and removed the bin,
+so I could _mostly_ get to the battery.
+I could just barely fit the little
+battery clamps in place
+on the battery terminals.
+I turned on the battery pack,
+the car clicked,
+and everything came back to life.
+I knew I couldn't drive with that battery pack there,
+so I let it charge for 10-15 minutes,
+turned it off,
+and found the car still functioned,
+so I removed the battery pack,
+and hit the road
+to drop the car
+at my local independent shop
+to have the battery replaced.
+
+A jump-starter _did_ turn out to be useful
+with the i3,
+and it saved me a tow for a problem
+that shouldn't be so catastrophic.
