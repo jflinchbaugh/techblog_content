@@ -31,4 +31,11 @@ but it's still nicer.
   ;; => {"language" "clojure", "username" "john"}
 ----
 
+Update 2021-04-14: It _can_ be done in one line of Clojure.
+
+----
+  (apply hash-map ["language" "clojure" "username" "john"])
+  ;; => {"language" "clojure", "username" "john"}
+----
+
 Written with Clojure 1.10.2.
