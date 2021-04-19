@@ -1,0 +1,29 @@
+title=No Suspend On Desktop Server
+date=2021-04-19
+type=post
+status=published
+tags=Computers, Linux
+~~~~~~
+
+I have a desktop server
+running Debian Unstable
+in the house,
+and I occasionally reboot it
+without logging
+back into the local desktop session.
+If I don't login,
+I'd later find the machine mysteriously inaccessible -- asleep.
+It's set to never sleep,
+but that's when I'm logged in.
+
+To disable sleep in the GDM3 Greeter,
+I edited the `/etc/apt/greeter.dconf-defaults`,
+found the "Automatic suspend"/`[org/gnome/settings-daemon/plugins/power]`
+section and followed the comments to add:
+----
+sleep-inactive-ac-timeout=0
+----
+
+Now the machine
+will act a little more
+like it's a server.
