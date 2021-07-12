@@ -1,0 +1,42 @@
+title=Wireless Drops on Pop OS 20.10 and Later
+date=2021-07-12
+type=post
+status=published
+tags=Computers, Hardware, Linux
+~~~~~~
+
+Upon the release
+of Pop OS 20.10,
+my https://system76.com/[System76] laptop
+and my Arris router
+started having some disagreements.
+The laptop would drop connection
+every couple hours
+and not reconnect itself.
+I'd see the little question mark
+in the WIFI indicator,
+and I needed to manually turn WIFI
+off and back on
+to restore the connection.
+
+I found mentions of this behavior
+in Ubuntu and in Pop OS forums,
+and supposedly newer NetworkManager
+from Gnome would fix it,
+so I suffered and waited
+for the beta of Pop OS 21.04
+to be available.
+That didn't fix it,
+so I started digging around some more
+in System76's page for
+https://support.system76.com/articles/wireless[Troubleshooting Wireless].
+
+I picked my way through the tips
+and applied some of them.
+Disabling *band steering*
+in the router
+finally seems to have fixed the problem.
+I've kept my WIFI connection up and running
+for days now.
+I didn't need to name
+the 5GHz and 2.4GHz networks differently.
