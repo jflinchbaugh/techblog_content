@@ -1,7 +1,7 @@
 title=Google Can't Reach SmartThings
 date=2022-01-28
 type=post
-status=Published
+status=published
 tags=Android, Computers, Google, Home, Mobile
 ~~~~~~
 
