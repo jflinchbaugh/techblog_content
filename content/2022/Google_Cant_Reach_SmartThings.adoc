@@ -1,0 +1,26 @@
+title=Google Can't Reach SmartThings
+date=2022-01-28
+type=post
+status=Published
+tags=Android, Computers, Google, Home, Mobile
+~~~~~~
+
+My Google Assistant on my phone
+has been refusing to turn on and off
+the 2 devices I have on smart plugs:
+"Can't reach SmartThings."
+
+I found an article
+about the
+https://community.smartthings.com/t/google-home-error-sorry-i-couldnt-reach-smartthings/192814/10[Google Home doing the same thing].
+Fortunately,
+the advice there worked:
+go into Assistant's settings
+-> Devices
+-> Add Devices.
+Upon clicking on the SmartThings entry
+that was already there,
+it gave me the option to re-link.
+Once I authorized access,
+I could again ask Google
+to control those devices.
