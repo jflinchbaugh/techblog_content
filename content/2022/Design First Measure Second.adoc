@@ -1,0 +1,73 @@
+title=Design First, Measure Second
+date=2022-03-11
+type=post
+status=published
+tags=3D-Printing
+~~~~~~
+  
+https://github.com/jflinchbaugh/objects/[My objects repository]
+is full of
+https://openscad.org/[OpenSCAD]
+code.
+At the top
+of each file
+you'll find a collection
+of variables
+in the code:
+the measurements
+of the model.
+
+We don't need
+to get bogged down
+with those exact values
+to start modeling,
+but we know
+that we'll want
+to identify
+certain parameters
+to size our models.
+We can start banging
+together some shapes
+(with `union` and `difference`),
+and any time 
+we're tempted to guess
+at a measurement
+and plug it into the code,
+we want to first see
+if we can give it a name
+(a variable name, that is)
+and use that instead
+and define a rough value
+for that variable at the top of the file.
+Next we can think
+about that value
+and decide if it's related
+to any other values
+we already have.
+Often,
+one value should
+be calculated
+relative to other values:
+`overall_width = inside_width + 2 * side_thickness`.
+Once a measurement
+is defined
+in terms of other values
+it'll automatically update
+as we start providing
+more precise measurements.
+
+By starting
+with some guessed values
+and later
+plugging in real measurements,
+we prove
+that our
+_parametric model_
+is being correctly calculated
+from the measurements.
+We should be able
+to use this code
+time and time again
+to generate variations
+on the model
+based on new measurements.
