@@ -71,3 +71,14 @@ time and time again
 to generate variations
 on the model
 based on new measurements.
+Our SCAD model
+with all the parameters
+at the top
+is ready
+to upload
+to https://www.thingiverse.com/[Thingiverse]
+and the https://www.thingiverse.com/app:22[Customizer]
+can let users easily
+provide their own measurements
+to generate new models
+from our code.
