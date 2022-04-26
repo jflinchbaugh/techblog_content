@@ -1,0 +1,57 @@
+title=WiFi Drops Again
+date=2022-04-26
+type=post
+status=published
+tags=Computers, Linux
+~~~~~~
+
+I had previously
+link:{site_context}/2021/Wireless_Drops_on_Pop_OS_20.10_and_Later.html[flailed around]
+trying to fix occasional WiFi drops
+on my Pop_OS(Ubuntu) laptop.
+The intermittency made it hard
+to know if I really fixed it or not,
+and it turns out I hadn't.
+
+I installed Arch Linux
+on another computer
+here on my desk.
+While it sat around idle,
+I found it one day
+having lost its internet connection
+just like the Pop_OS machine does!
+
+Now I knew this problem
+with the network connection
+wasn't isolated to one machine.
+To recap:
+
+- the wired connection is fine
+- the Mac on the wireless network is fine
+- the mobile devices are fine
+- the 2 linux machines drop their connections every couple days
+
+I started the search again
+for a solution with more information.
+I found some hints
+about
+https://askubuntu.com/questions/695867/disable-wifi-power-management[
+power-saving options in NetworkManager].
+
+On the Pop_OS machine,
+there's a configuration file,
+`/etc/NetworkManager/conf.d/default-wifi-powersave-on.conf`,
+that I changed to _disable_ powersaving:
+----
+[connection]
+# 0: default, 1: leave untouched, 2: disable, 3: enable
+wifi.powersave = 2
+----
+
+I had to add a file
+to the Arch machine
+in the same location
+to hold this configuration.
+Now these machines have been maintaining
+their connections for days.
+
