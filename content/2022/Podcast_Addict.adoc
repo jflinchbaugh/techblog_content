@@ -1,0 +1,83 @@
+title=Podcast Addict
+date=2022-08-20
+type=post
+status=draft
+tags=Android, Entertainment, Mobile
+~~~~~~
+
+=== A header
+
+I've used BeyondPod for over 10 years,
+since my first Android phone,
+to download, organize, and play podcasts.
+For at least the past 4 years,
+maintenance and updates
+to the application
+have slowed to a crawl.
+I had paid a one-time fee
+for the application,
+so I guess I couldn't
+think they owed me updates forever.
+
+I would try to find a replacement
+every once in a while,
+but the other podcatchers
+always lacked some feature
+upon which I relied.
+
+=== BeyondPod: The Good Parts
+
+* SmartPlay allowed me to organize my 74 podcasts
+  into 3 or 4 tiers.
+  This allowed me
+  to ensure the quick, timely podcasts
+  were played first
+  before the longer podcasts that could wait
+  for days or weeks.
+  I even managed to create one tier
+  that played chronologically,
+  which is opposite of all my other podcasts.
+* I could set a volume boost
+  and adjust speed 
+- volume boost
+- custom speeds for each feed
+- keep latest X episodes
+- skip to end button
+
+https://example.com/[example link]
+
+image:{site_context}images/2020/inline.png[Inline Image,300,role="right"]
+image:{site_context}images/2020/block.png[Block Image,300,role="right"]
+
+----
+code block
+----
+
+
+* key features of beyondpod
+- smartplay:
+  - tiering podcast and prioritizing
+  - sort tiers differently (old->new for a relisten)
+- volume boost
+- custom speeds for each feed
+- keep latest X episodes
+- skip to end button
+* downsides of beyondpod
+- unmaintained
+- opml exports to FS that became protected in newer android, so no way to get it
+- crashes
+- custom notification controls instead of media controls
+- limited trust that it'll install again on android 13
+- bug in forward skip into next episode (race condition)
+* podcast addict
+- even faster speeds
+- per podcast
+  - volume boost
+  - speed
+  - auto cleanup by age or count (keep latest X episodes)
+- sort by priorities
+- "smart priorities" automatically increment priority when manually chosen to play
+  - turned it off, so i can just bump them around myself
+- episode artwork
+- episode chapters (under extra controls, bookmark button)
+- skip silence works well, but is super-weird for story podcasts.
