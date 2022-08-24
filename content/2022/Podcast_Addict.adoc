@@ -1,13 +1,13 @@
 title=Podcast Addict
 date=2022-08-20
 type=post
-status=draft
+status=published
 tags=Android, Entertainment, Mobile
 ~~~~~~
 
-=== A header
-
-I've used BeyondPod for over 10 years,
+I've used
+https://play.google.com/store/apps/details?id=mobi.beyondpod&hl=en_US&gl=US[BeyondPod]
+for over 10 years,
 since my first Android phone,
 to download, organize, and play podcasts.
 For at least the past 4 years,
@@ -24,10 +24,15 @@ every once in a while,
 but the other podcatchers
 always lacked some feature
 upon which I relied.
+Even
+https://podcastaddict.com/[Podcast Addict]
+fell short
+the last time I tried it
+about 4 years ago,
+but it's been getting lots of updates.
 
-=== BeyondPod: The Good Parts
-
-* SmartPlay allowed me to organize my 74 podcasts
+=== BeyondPod: The Good Parts That Kept Me Coming Back
+* SmartPlay allowed me to organize my 74 podcast feeds
   into 3 or 4 tiers.
   This allowed me
   to ensure the quick, timely podcasts
@@ -37,47 +42,85 @@ upon which I relied.
   I even managed to create one tier
   that played chronologically,
   which is opposite of all my other podcasts.
-* I could set a volume boost
-  and adjust speed 
-- volume boost
-- custom speeds for each feed
-- keep latest X episodes
-- skip to end button
+* For each podcast,
+  I could boost the volume,
+  adjust speed,
+  and have it only keep
+  the latest so many episodes.
+* It had a button to skip the rest
+  of a podcast to quickly get to the next one.
 
-https://example.com/[example link]
+=== Downsides of BeyondPod
+* It liked to just stop playing
+  and crash occasionally.
+* It was increasingly abandoned and unmaintained,
+  so I didn't trust it would continue
+  to work when Android 13 hit my phone. 
+* I could export my OPML file,
+  but it went to a private filesystem
+  that can no longer be accessed by file managers
+  in newer versions of Android.
+* BeyondPod never updated to use the standard media controls
+  and kept its old notification-based player.
+* There was a race-condition bug when skipping forward
+  through the end of an episode:
+  it would skip way into the next episode.
+* The catalog of podcasts
+  has stopped working,
+  so I could only add podcasts
+  by URL,
+  which is fine, but less convenient.
 
-image:{site_context}images/2020/inline.png[Inline Image,300,role="right"]
-image:{site_context}images/2020/block.png[Block Image,300,role="right"]
+=== Enter Podcast Addict
+* Podcast Addict can play at even faster speeds,
+  though I've not taken advantage
+  of these speeds:
+  I'm still listening at 2-3x speeds.
+* For each podcast feed,
+  I can set custom volume boost, speed,
+  and auto cleanup by age or count of episodes.
+* I can assign a numeric priority
+  to the podcasts and sort by it,
+  so I can easily ensure my favorite podcasts
+  play before others when they're available
+  just like BeyondPod's SmartPlay,
+  but even more conveniently.
+* "Smart Priorities" automatically increments
+  a podcasts priority
+  when I manually click an episode to play before others.
+  In practice, this moved things around more than I wanted,
+  so I disabled it and fine-tuned the priorities by hand
+  as I saw them slightly out of order.
+* I can see artwork for each epsidode.
+  I didn't even know there was per-episode artwork.
+* I also never knew chapters were a thing in podcasts.
+  Now I can see chapters for the couple podcasts that provide them.
+* Skip silence works well,
+  but it's super-weird
+  for story podcasts,
+  since it eliminates
+  all hints of _punctation_.
+* These latest features are working really well,
+  so I'm excited everytime I get to see the software in action.
+  I expect to see even more features
+  showing up in the frequent releases of Podcast Addict.
+* There's a
+  https://podcastaddict.com/getting_started[Getting Started]
+  guide which intuitively
+  walked me
+  through the likely things
+  I'd want to configure,
+  and I immediately recognized
+  all the features I wanted.
+  I was confident Podcast Addict
+  would work for me,
+  so I set it up completely,
+  and signed up to pay the annual subscription fee
+  to help make sure they keep updating it.
 
-----
-code block
-----
-
-
-* key features of beyondpod
-- smartplay:
-  - tiering podcast and prioritizing
-  - sort tiers differently (old->new for a relisten)
-- volume boost
-- custom speeds for each feed
-- keep latest X episodes
-- skip to end button
-* downsides of beyondpod
-- unmaintained
-- opml exports to FS that became protected in newer android, so no way to get it
-- crashes
-- custom notification controls instead of media controls
-- limited trust that it'll install again on android 13
-- bug in forward skip into next episode (race condition)
-* podcast addict
-- even faster speeds
-- per podcast
-  - volume boost
-  - speed
-  - auto cleanup by age or count (keep latest X episodes)
-- sort by priorities
-- "smart priorities" automatically increment priority when manually chosen to play
-  - turned it off, so i can just bump them around myself
-- episode artwork
-- episode chapters (under extra controls, bookmark button)
-- skip silence works well, but is super-weird for story podcasts.
+I made the transition,
+and I love Podcast Addict.
+Listening to podcasts
+is easily my #1 pastime,
+so it's important
+that I found the perfect software.
