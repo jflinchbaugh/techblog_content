@@ -5,7 +5,7 @@ status=published
 tags=BMW-i3
 ~~~~~~
 
-=== The Symptoms
+== The Symptoms
 
 image:{site_context}images/2021/its_the_12v.jpg[It's the 12 volt,role="right"]
 
@@ -73,7 +73,7 @@ of its smarts going to even power up the car.
 They've managed to engineer a problem
 of old cars into the new.
 
-=== The Familiar Fix
+== The Familiar Fix
 
 I learned to pry off the cover
 to use the mechanical key

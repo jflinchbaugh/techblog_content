@@ -5,7 +5,7 @@ status=published
 tags=Amazon, Android, Entertainment, Music, Podcasts
 ~~~~~~
 
-=== My Music Library
+== My Music Library
 
 I have a good bit
 of music I had acquired and ripped
@@ -50,7 +50,7 @@ downloadable MP3s except in rare cases
 where I want to be able to use a song
 on another device outside the Amazon Music client.
 
-=== Music Discovery
+== Music Discovery
 
 I don't really use the stations at all
 on Amazon Music.
@@ -68,7 +68,7 @@ to add to my collection at Amazon:
 * https://www.twitch.tv/djneidermeyer[DJ Neidermeyer] for 80s and 90s Music I may have never known or had forgotten
 
 
-=== Alternatives
+== Alternatives
 
 I had uploaded all my music
 to Google Play Music
