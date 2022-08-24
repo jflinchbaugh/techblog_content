@@ -15,7 +15,7 @@ can help us
 or sometimes hinder
 our efforts.
 
-=== Complete Isolation
+== Complete Isolation
 Building test data
 from scratch every time
 in isolated storage is best.
@@ -28,7 +28,7 @@ for every test run.
 Grails helps us by using
 an in-memory H2 database.
 
-=== Shared, But Immutable
+== Shared, But Immutable
 If you must share test data,
 confirm its expected state
 before testing with it
@@ -44,7 +44,7 @@ to have a project that can be built
 by only one person (or build server) at a time,
 and having any more would cause failures.
 
-=== Shared Randomized Data
+== Shared Randomized Data
 For the tests that must modify data that is shared,
 create that data in a random fashion,
 and only make changes to the data created by the test.

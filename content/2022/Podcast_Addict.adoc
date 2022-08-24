@@ -31,7 +31,7 @@ the last time I tried it
 about 4 years ago,
 but it's been getting lots of updates.
 
-=== BeyondPod: The Good Parts That Kept Me Coming Back
+== BeyondPod: The Good Parts That Kept Me Coming Back
 * SmartPlay allowed me to organize my 74 podcast feeds
   into 3 or 4 tiers.
   This allowed me
@@ -50,7 +50,7 @@ but it's been getting lots of updates.
 * It had a button to skip the rest
   of a podcast to quickly get to the next one.
 
-=== Downsides of BeyondPod
+== Downsides of BeyondPod
 * It liked to just stop playing
   and crash occasionally.
 * It was increasingly abandoned and unmaintained,
@@ -71,7 +71,7 @@ but it's been getting lots of updates.
   by URL,
   which is fine, but less convenient.
 
-=== Enter Podcast Addict
+== Enter Podcast Addict
 * Podcast Addict can play at even faster speeds,
   though I've not taken advantage
   of these speeds:
