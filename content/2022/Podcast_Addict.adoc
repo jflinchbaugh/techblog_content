@@ -79,6 +79,18 @@ but it's been getting lots of updates.
 * For each podcast feed,
   I can set custom volume boost, speed,
   and auto cleanup by age or count of episodes.
+* When an episode is finished,
+  it automatically
+  moves it to a Recycle Bin
+  or 24 hours,
+  so I can go find it again
+  if I want to refer to it again,
+  or completed it by accident.
+  In BeyondPod,
+  I had to "delete played"
+  occasionally for myself
+  to give myself time
+  to review and recover what's been played.
 * I can assign a numeric priority
   to the podcasts and sort by it,
   so I can easily ensure my favorite podcasts
