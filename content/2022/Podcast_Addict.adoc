@@ -91,7 +91,7 @@ but it's been getting lots of updates.
   In practice, this moved things around more than I wanted,
   so I disabled it and fine-tuned the priorities by hand
   as I saw them slightly out of order.
-* I can see artwork for each epsidode.
+* I can see artwork for each episode.
   I didn't even know there was per-episode artwork.
 * I also never knew chapters were a thing in podcasts.
   Now I can see chapters for the couple podcasts that provide them.
@@ -108,8 +108,8 @@ but it's been getting lots of updates.
   https://podcastaddict.com/getting_started[Getting Started]
   guide which intuitively
   walked me
-  through the likely things
-  I'd want to configure,
+  through the things
+  I'd likely want to configure,
   and I immediately recognized
   all the features I wanted.
   I was confident Podcast Addict
