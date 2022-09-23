@@ -136,3 +136,13 @@ Listening to podcasts
 is easily my #1 pastime,
 so it's important
 that I found the perfect software.
+
+== Updates
+* 2022-09-23: **Player->Settings->Controls->Skip Outro=95%**
+  let's me hit the forward skip button
+  in the last 5% of a podcast
+  and finishes the whole episode
+  instead of skipping only 20 seconds
+  as it usually would.
+  This saves a couple taps
+  to get past the last bit of credits or closing music.
