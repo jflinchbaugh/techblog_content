@@ -1,4 +1,4 @@
-title=COVID
+title=My COVID Timeline
 date=2022-09-24
 type=post
 status=published
