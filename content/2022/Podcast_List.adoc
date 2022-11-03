@@ -1,0 +1,83 @@
+ title=Podcast List
+date=2022-11-03
+type=post
+status=published
+tags=Android, Clojure, Code, Computers, Entertainment, Mobile, Music, Photography, Podcasts, Politics, Technology
+~~~~~~
+
+== Podcast List for November 2022
+
+Alphabetically:
+* 99% Invisible https://feeds.simplecast.com/BqbsxVfO
+* All About Android (Audio) https://feeds.twit.tv/aaa.xml
+* All Songs Considered https://feeds.npr.org/510019/podcast.xml?uid=n1qe4e85742c986fdb81d2d38ffa0d5d53
+* The Allusionist https://www.omnycontent.com/d/playlist/3aeeb75f-3358-42d4-8232-acad017ea3bd/dac5a742-0a1b-4f4b-b917-acb7015564f7/e7e10a67-651c-4ddf-9c47-acb70155651d/podcast.rss
+* Android Central Podcast https://androidcentral.libsyn.com/rss
+* Arrested DevOps https://www.arresteddevops.com/episode/index.xml
+* At Liberty https://feeds.soundcloud.com/users/soundcloud:users:40330678/sounds.rss
+* Back to Work https://feeds.fireside.fm/backtowork/rss
+* The Best of Car Talk https://feeds.npr.org/510208/podcast.xml
+* The Candid Frame: Conversations on Photography https://thecandidframe.libsyn.com/rss
+* CaSE: Conversations about Software Engineering https://www.case-podcast.org/feed/aac
+* The Changelog: Software Development, Open Source https://changelog.com/podcast/feed
+* ClojureStream Podcast https://feeds.soundcloud.com/users/soundcloud:users:627190089/sounds.rss
+* Cognicast https://feeds.feedburner.com/cognicast
+* The Daily https://feeds.simplecast.com/54nAGcIl
+* Darknet Diaries https://feeds.megaphone.fm/darknetdiaries
+* defn https://feeds.soundcloud.com/users/soundcloud:users:220484243/sounds.rss
+* Distractible https://feeds.megaphone.fm/QCD8163454930
+* Do By Friday https://feeds.simplecast.com/5nKJV82u
+* Do By Friday After Show (Private Link)
+* Don't Ask Tig https://feeds.publicradio.org/public_feeds/dont-ask-tig/itunes/rss.rss
+* Engineering Culture by InfoQ https://feeds.soundcloud.com/users/soundcloud:users:258266127/sounds.rss
+* Escape Pod https://escapepod.org/feed/podcast/
+* Everything is Alive http://feeds.everythingisalive.com/everythingisalive
+* FLOSS Weekly (Audio) https://feeds.twit.tv/floss.xml
+* The Fox News Rundown https://feeds.megaphone.fm/FOXM1880458659
+* Freakonomics Radio https://feeds.simplecast.com/Y8lFbOT4
+* Functional Geekery https://www.functionalgeekery.com/feed/mp3/
+* Global News Podcast https://podcasts.files.bbci.co.uk/p02nq0gn.rss
+* Grammar Girl Quick and Dirty Tips for Better Writing https://feeds.simplecast.com/XcH2p3Ah
+* Groovy Podcast http://groovypodcast.podbean.com/feed/
+* Hacker Public Radio http://hackerpublicradio.org/hpr_rss.php
+* Hanselminutes with Scott Hanselman https://feeds.simplecast.com/gvtxUiIf
+* Hidden Brain https://feeds.simplecast.com/kwWc0lhf
+* How I Built This with Guy Raz https://rss.art19.com/how-i-built-this
+* Interview Podcast – Echoes https://echoes.org/category/program-highlights/interviews/feed/
+* Jeffery Saddoris: Everything https://pcr.apple.com/id1438550795/
+* JS Party: JavaScript, CSS, Web Development https://changelog.com/jsparty/feed
+* JUXT Cast https://feeds.feedburner.com/JuxtCast
+* LensWork - Photography and the Creative Process https://www.lenswork.com/podcast.xml
+* Life Kit https://feeds.npr.org/510338/podcast.xml
+* Linux Inlaws https://linuxinlaws.eu/inlaws_rss.xml
+* Lost in Lambduhhs https://anchor.fm/s/581d4eb4/podcast/rss
+* Marketplace All-in-One https://www.marketplace.org/feed/podcast/marketplace-all-in-one
+* The Mortified Podcast https://feeds.feedburner.com/MortifiedPod
+* The Moth https://feeds.feedburner.com/themothpodcast
+* No Stupid Questions https://feeds.simplecast.com/dfh_verV
+* NPR News Now https://feeds.npr.org/500005/podcast.xml
+* Oh No, Ross and Carrie https://feeds.simplecast.com/ftB6Gihc
+* On the Media https://feeds.feedburner.com/onthemedia
+* People I (Mostly) Admire https://feeds.simplecast.com/rP60Wf24
+* Podcast – Cory Doctorow's craphound.com https://feeds.feedburner.com/doctorow_podcast
+* Radiolab https://feeds.feedburner.com/radiolab
+* The REPL https://feeds.therepl.net/therepl
+* Security Now (Audio) https://feeds.twit.tv/sn.xml
+* Smart Talk https://www.omnycontent.com/d/playlist/8ab739a0-6a10-4a67-91ee-ae28012e7b58/bd71d66d-21d6-4722-a411-ae28012ec33b/5e808417-5028-4a70-862f-ae28012ec34e/podcast.rss
+* Smashing Podcast https://feeds.transistor.fm/smashing
+* Software Defined Talk https://www.softwaredefinedtalk.com/rss
+* Software Engineering Radio - the podcast for professional software developers https://seradio.libsyn.com/rss
+* Song Exploder https://feed.songexploder.net/SongExploder
+* The Stack Overflow Podcast https://feeds.simplecast.com/XA_851k3
+* TED Radio Hour https://feeds.npr.org/510298/podcast.xml
+* This American Life https://www.thisamericanlife.org/podcast/rss.xml
+* This Week in Tech (Audio) https://feeds.twit.tv/twit.xml
+* Thoughtworks Technology Podcast https://thoughtworks.libsyn.com/rss
+* Up First https://feeds.npr.org/510318/podcast.xml
+* Wait Wait... Don't Tell Me! https://feeds.npr.org/344098539/podcast.xml
+* Welcome to Night Vale http://feeds.nightvalepresents.com/welcometonightvalepodcast
+* What's Your Problem? https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/32c25e85-1667-4acb-99fd-ae3c0021f33e/beacef48-19d2-4f52-b9e8-ae3c0021f347/podcast.rss
+* Wicked Good Development https://anchor.fm/s/81a22db8/podcast/rss
+* Wrong About Everything https://wrongabouteverything.libsyn.com/rss
+* WTF with Marc Maron Podcast https://feeds.acast.com/public/shows/62a222737c02140013aa4c03
+* You Are Not So Smart https://feeds.simplecast.com/N5eKDxJI
