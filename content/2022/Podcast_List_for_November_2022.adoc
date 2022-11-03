@@ -1,11 +1,9 @@
- title=Podcast List
+title=Podcast List for November 2022
 date=2022-11-03
 type=post
 status=published
 tags=Android, Clojure, Code, Computers, Entertainment, Mobile, Music, Photography, Podcasts, Politics, Technology
 ~~~~~~
-
-== Podcast List for November 2022
 
 Alphabetically:
 
