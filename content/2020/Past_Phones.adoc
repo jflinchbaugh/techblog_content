@@ -87,3 +87,15 @@ and eventually the quickest Android updates.
   but I've been enjoying having good wireless charging.
   I finally got started with some ClojureScript
   for mobile web apps on this device.
+
+Update 2022-11-03:
+
+* https://www.gsmarena.com/google_pixel_6_pro-10918.php[Google Pixel 6 Pro]
+  The Pixel 3 XL was pretty great for photos,
+  but stopped getting updates at the end of 2021.
+  I picked up a refurbished Pixel 6 Pro
+  in the Summer.
+  It has 3 cameras,
+  including a telephone lens up to 4x.
+  It's almost replaced my real camera
+  for a couple https://www.instagram.com/p/CfkdmiRtSt6/[concerts].
