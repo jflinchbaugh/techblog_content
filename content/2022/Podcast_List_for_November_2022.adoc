@@ -5,7 +5,10 @@ status=published
 tags=Android, Clojure, Code, Computers, Entertainment, Mobile, Music, Photography, Podcasts, Politics, Technology
 ~~~~~~
 
-Alphabetically:
+I have 73 feeds I currently follow.
+I have a whole system of prioritization,
+so I can listen to important things first.
+I've listed them alphabetically here:
 
 * 99% Invisible https://feeds.simplecast.com/BqbsxVfO
 * All About Android (Audio) https://feeds.twit.tv/aaa.xml
