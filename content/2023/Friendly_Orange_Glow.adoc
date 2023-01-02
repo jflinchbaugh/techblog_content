@@ -1,0 +1,144 @@
+title=Friendly Orange Glow
+date=2023-01-02
+type=post
+status=published
+tags=Books, Computers, History, Technology
+~~~~~~
+  
+== Obscurity
+
+https://www.goodreads.com/book/show/34373814-the-friendly-orange-glow[The Friendly Orange Glow]
+tells the history
+of a piece
+of educational software,
+https://en.wikipedia.org/wiki/PLATO_(computer_system)[PLATO],
+that grew
+into a whole microcosm
+of the internet
+and cyber culture
+years before the internet
+we've known for the past 25 years.
+
+Brian Dear attributes
+the obscurity
+of PLATO to it having been
+built and developed
+at University of Illinois
+in the Midwest and not
+at a school on the coast.
+The PLATO system also used
+dedicated client hardware
+with integrated slide projectors,
+and it ran on a single mainframe.
+Everything was coded
+in a programming language
+called TUTOR,
+which was primarily designed
+for authoring interactive lessons
+using the orange gas plasma display,
+a rudimentary touch input for the screen,
+the keyboard,
+an slide projector integrated into the display,
+and even occasional peripherals
+like some sort of synthetic woodwind sound device.
+It was all very specialized
+from the beginning.
+
+I loved the time the author dedicated
+to describing technical details,
+like how the orange
+gas plasma display was developed:
+the grids of wiring,
+pockets of noble gasses
+trapped between them,
+and the way accidental
+contamination allowed them
+to discover a memory effect
+they could use to keep
+each pixel lit.
+He presented a wonderful
+level of detail
+for my interest.
+
+Donald Bitzer
+showed off PLATO
+to anyone who'd take
+a moment to try it.
+He wanted people to learn
+and get creative,
+seldom shutting down experiments.
+He'd embrace the high school
+and university hackers
+who would wander into the labs,
+and he put some of them to work
+building hardware or testing.
+These people would go on
+to build all sorts of multiplayer games
+and other software to be used
+by other users on the system.
+Bitzer recognized the value
+in observing what people
+did with the spare cycles
+of the system
+at night.
+From that freedom
+sprung an entire hacker culture
+similar to what I found in my youth,
+so I felt great nostalgia for this work.
+Again though,
+I was discovering
+this culture in the 1990s
+with bulletin board systems
+and the internet
+in college,
+and Bitzer's revolution
+had already happened
+in the 1970s.
+
+Discovering new lessons
+or software on the PLATO system
+seemed akin
+to our exploration of BBSes
+via our modems in the 1990s.
+We'd stumble around trying
+to find some new phone number
+or new corner of an existing BBS,
+and these kids in the 1970s
+were exploring PLATO
+to find games
+or long threaded discussions
+in notes that others
+were developing.
+
+PLATO started
+as a way to display some slides
+and teach a self-paced lesson,
+but grew into games,
+forums, and email
+before such things existed.
+It could have grown into one
+of the great online services
+that followed,
+but they may have gotten
+too tied up in their centralization
+and specialized hardware.
+The management of their commercial
+partner may not have helped either,
+because they just wanted to sell mainframes,
+and didn't recognize the value of community
+that had been built around the system.
+
+The book was an exciting listen,
+and I blasted
+through the whole thing
+in about 2 days,
+because I just couldn't put it down.
+It reminded me of my childhood
+and the all the potential
+of the systems of the day
+and the creativity that came
+from the limitations
+of the day.
+PLATO evolved
+in an alternate universe
+in the middle of the country.
