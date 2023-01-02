@@ -7,6 +7,8 @@ tags=Books, Computers, History, Technology
   
 == Obscurity
 
+image:{site_context}images/2023/friendly_orange_glow.jpg[The Friendly Orange Glow,role="right"]
+
 https://www.goodreads.com/book/show/34373814-the-friendly-orange-glow[The Friendly Orange Glow]
 tells the history
 of a piece
@@ -60,10 +62,12 @@ He presented a wonderful
 level of detail
 for my interest.
 
+== Cyber Culture
+
 Donald Bitzer
 showed off PLATO
-to anyone who'd take
-a moment to try it.
+to anyone who would
+take a moment to try it.
 He wanted people to learn
 and get creative,
 seldom shutting down experiments.
@@ -94,6 +98,12 @@ in college,
 and Bitzer's revolution
 had already happened
 in the 1970s.
+We were always
+pushing the limits
+of what we were supposed
+to do with these systems.
+It looked like wasted time,
+but we learned the most.
 
 Discovering new lessons
 or software on the PLATO system
@@ -141,4 +151,5 @@ from the limitations
 of the day.
 PLATO evolved
 in an alternate universe
-in the middle of the country.
+in the middle of the country
+away from the technology hubs.
