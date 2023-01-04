@@ -58,6 +58,8 @@ contamination allowed them
 to discover a memory effect
 they could use to keep
 each pixel lit.
+Fixing the contamination
+lost the memory effect.
 He presented a wonderful
 level of detail
 for my interest.
@@ -106,7 +108,8 @@ It looked like wasted time,
 but we learned the most.
 
 Discovering new lessons
-or software on the PLATO system
+or software
+on the PLATO system
 seemed akin
 to our exploration of BBSes
 via our modems in the 1990s.
@@ -132,9 +135,11 @@ that followed,
 but they may have gotten
 too tied up in their centralization
 and specialized hardware.
-The management of their commercial
-partner may not have helped either,
-because they just wanted to sell mainframes,
+The management
+of their commercial partner
+may not have helped either,
+because they just wanted
+to sell mainframes,
 and didn't recognize the value of community
 that had been built around the system.
 
