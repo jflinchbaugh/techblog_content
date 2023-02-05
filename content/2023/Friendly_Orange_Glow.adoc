@@ -1,13 +1,13 @@
-title=Friendly Orange Glow
+title=The Friendly Orange Glow
 date=2023-01-02
 type=post
 status=published
 tags=Books, Computers, History, Technology
 ~~~~~~
   
-== Obscurity
-
 image:{site_context}images/2023/friendly_orange_glow.jpg[The Friendly Orange Glow,role="right"]
+
+== Obscurity
 
 https://www.goodreads.com/book/show/34373814-the-friendly-orange-glow[The Friendly Orange Glow]
 tells the history
