@@ -22,6 +22,8 @@ and went digging around
 to recover
 the source
 for some of those old projects.
+I uploaded the more notable projects
+to my https://github.com/jflinchbaugh[GitHub account].
 
 == Old Floppies
 
