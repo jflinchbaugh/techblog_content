@@ -1,0 +1,154 @@
+title=Digital Archeology
+date=2023-02-04
+type=post
+status=published
+tags=Android, Code, Computers, Games, Java, Mobile
+~~~~~~
+
+image:{site_context}images/2023/floppies.jpg[Floppies,role="right"]
+
+== Nostalgia for Old Code
+
+I've been coding for a very long time,
+so I've had lots of projects
+in various languages,
+on various platforms,
+and stored very differently.
+
+I got nostalgic
+on and off
+over the past couple years
+and went digging around
+to recover
+the source
+for some of those old projects.
+
+== Old Floppies
+
+I spent money to buy a 3.5-inch USB floppy drive
+and an old 386 PC
+with a 5.25-inch and 3.5-inch floppy drive,
+so I could ultimately copy files
+from really old 5.25-inch floppies
+that I used
+in the late 1980s
+and early 1990s
+to my live storage
+of today.
+Among those old files
+were binaries and source
+in GWBASIC and QuickBasic.
+
+== QuickBasic
+
+I found one of the first games I wrote
+and sort of distributed,
+https://github.com/jflinchbaugh/gravity-blocks[Gravity Blocks].
+I could play the compiled binary
+with https://www.dosbox.com/[DOSBox]
+and read the main source file,
+but some of the source code
+for my common libraries
+is still locked up in a compressed format
+from QuickBasic 4.5.
+
+== GWBASIC
+
+I also found source code
+for the first software
+I wrote for the local fire company
+to help track statistics on calls
+and print reports
+to submit
+to the local municipalities
+we served.
+
+It was written in https://en.wikipedia.org/wiki/GW-BASIC[GWBASIC],
+so I was able
+to https://github.com/danvk/gwbasic-decoder[decode]
+the compressed source
+where needed to read it.
+I published my
+https://github.com/jflinchbaugh/call-rep-1992[CALL-REP source],
+so I could go back
+and have a look
+at the simple,
+but useful,
+things I used to write
+as a kid.
+
+== Copies of Old Servers and Subversion
+
+I continued
+to build stuff
+through college
+(and obviously beyond).
+Some of it was in C, PERL, and Java.
+
+I recovered these bits of source code,
+I fortunately had it laying
+around in backups and copies
+of old Linux servers I've run
+over the years.
+This source was in old Subversion repositories,
+that used old versions of Berkeley DB.
+Initially,
+This BDB version mismatch
+kept `svn checkout` from working,
+but the current Subversion tools
+have an `svnadmin recover` command
+that could fix the repository
+for normal reading today.
+I'm sure some
+of those old SVN repositories
+had previously been migrated
+from CVS.
+
+== Java
+
+I found the source code
+from my final project
+in the Java class
+in my last year of college
+in 2000.
+
+https://github.com/jflinchbaugh/bust[Pop-a-Prof]
+is a clone of my favorite puzzle game,
+Bust-a-Move.
+It's a https://en.wikipedia.org/wiki/Java_applet[Java Applet]
+that ran in Netscape
+allowing any number of players
+coordinated by a shared public server,
+Each round lasted 5 minutes,
+and any time you topped-out,
+you'd lose some points,
+and start over,
+so no one needed to sit around watching
+the last people battle it out.
+
+After school,
+I started on 
+https://github.com/jflinchbaugh/pop-a-prof-2[Pop-a-Prof 2].
+This one ran as a plain Java application,
+and implemented rebounding balls
+in the game.
+It never got network play.
+
+== Java ME
+
+I liked running little bits of code,
+like applets did,
+so I continued
+into writing Java ME
+for my feature phone around 2005.
+
+I did a gas-logging app
+that stored fuel-ups
+and drew graphs to show fuel economy.
+
+I also wrote
+a quick little
+game called https://github.com/jflinchbaugh/BensBackhoe[Ben's Backhoe]
+to give the kids
+a little something
+to do on my phone.
