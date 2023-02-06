@@ -176,4 +176,7 @@ and trying to tweak them
 a bit to run
 in https://robhagemans.github.io/pcbasic/[PCBasic]
 or https://github.com/QB64Official/qb64[QB64].
+I used lots of weird graphics modes
+from the https://en.wikipedia.org/wiki/Tandy_1000[Tandy 1000]
+and didn't think much about portability.
 I may post more projects over time.
