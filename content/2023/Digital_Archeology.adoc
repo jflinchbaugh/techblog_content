@@ -53,6 +53,12 @@ but some of the source code
 for my common libraries
 is still locked up in a compressed format
 from QuickBasic 4.5.
+I may need to dig deeper into
+https://github.com/QB64Official/qb64[QB64],
+a clone of QuickBasic 4.5
+that seems to be able
+to read, run, and compile
+those old compressed files.
 
 == GWBASIC
 
@@ -92,7 +98,7 @@ of source code.
 laying around in backups and copies
 of old Linux servers I've run
 over the years.
-This source was in old Subversion repositories,
+This source was in old Subversion repositories
 that used old versions of Berkeley DB.
 Initially,
 This BDB version mismatch
@@ -116,11 +122,12 @@ in 2000.
 
 https://github.com/jflinchbaugh/bust[Pop-a-Prof]
 is a clone of my favorite puzzle game,
-Bust-a-Move.
+https://en.wikipedia.org/wiki/Puzzle_Bobble[Bust-a-Move].
 It's a https://en.wikipedia.org/wiki/Java_applet[Java Applet]
 that ran in Netscape
-allowing any number of players
-coordinated by a shared public server,
+allowing any number of players,
+and it coordinated everyone's play
+with a shared public server,
 Each round lasted 5 minutes,
 and any time you topped-out,
 you'd lose some points,
@@ -134,15 +141,20 @@ https://github.com/jflinchbaugh/pop-a-prof-2[Pop-a-Prof 2].
 This one ran as a plain Java application,
 and implemented rebounding balls
 in the game.
-It never got network play.
+It was more of a proof-of-concept
+for the new game mechanics,
+and it never got network play.
 
 == Java ME
 
 I liked running little bits of code,
 like applets did,
 so I continued
-into writing Java ME
-for my feature phone around 2005.
+into writing
+https://en.wikipedia.org/wiki/Java_Platform,_Micro_Edition[Java ME (J2ME)]
+for my
+https://www.hjsoft.com/blog/2020/Past_Phones.html[feature phones]
+around 2005.
 
 I did a gas-logging app
 that stored fuel-ups
@@ -154,3 +166,14 @@ game called https://github.com/jflinchbaugh/BensBackhoe[Ben's Backhoe]
 to give the kids
 a little something
 to do on my phone.
+
+== Still More
+
+I spent most the day
+poking around 
+at various old BASIC files
+and trying to tweak them
+a bit to run
+in https://robhagemans.github.io/pcbasic/[PCBasic]
+or https://github.com/QB64Official/qb64[QB64].
+I may post more projects over time.
