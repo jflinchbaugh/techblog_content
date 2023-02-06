@@ -166,6 +166,13 @@ game called https://github.com/jflinchbaugh/BensBackhoe[Ben's Backhoe]
 to give the kids
 a little something
 to do on my phone.
+By the time
+I was building this sort
+of thing,
+though,
+I'm a decent Java programmer,
+so it's not the fun mess
+that we see in the other old project.
 
 == Still More
 
