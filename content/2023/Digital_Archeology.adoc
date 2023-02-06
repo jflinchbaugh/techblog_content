@@ -87,9 +87,9 @@ through college
 (and obviously beyond).
 Some of it was in C, PERL, and Java.
 
-I recovered these bits of source code,
-I fortunately had it laying
-around in backups and copies
+I recovered these bits
+of source code.
+laying around in backups and copies
 of old Linux servers I've run
 over the years.
 This source was in old Subversion repositories,
