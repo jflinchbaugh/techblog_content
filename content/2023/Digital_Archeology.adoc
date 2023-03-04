@@ -94,7 +94,7 @@ through college
 Some of it was in C, PERL, and Java.
 
 I recovered these bits
-of source code.
+of source code
 laying around in backups and copies
 of old Linux servers I've run
 over the years.
@@ -136,7 +136,7 @@ so no one needed to sit around watching
 the last people battle it out.
 
 After school,
-I started on 
+I started on
 https://github.com/jflinchbaugh/pop-a-prof-2[Pop-a-Prof 2].
 This one ran as a plain Java application,
 and implemented rebounding balls
@@ -177,7 +177,7 @@ that we see in the other old project.
 == Still More
 
 I spent most the day
-poking around 
+poking around
 at various old BASIC files
 and trying to tweak them
 a bit to run
