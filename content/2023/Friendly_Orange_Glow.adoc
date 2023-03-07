@@ -51,7 +51,7 @@ to describing technical details,
 like how the orange
 gas plasma display was developed:
 the grids of wiring,
-pockets of noble gasses
+pockets of noble gases
 trapped between them,
 and the way accidental
 contamination allowed them
