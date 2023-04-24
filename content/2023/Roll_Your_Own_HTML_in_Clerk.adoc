@@ -1,0 +1,72 @@
+title=Roll Your Own HTML in Clerk
+date=2023-04-23
+type=post
+status=published
+tags=Clojure, Code
+~~~~~~
+
+The
+https://github.clerk.garden/nextjournal/book-of-clerk/commit/7097b690e91a3c5297db604546f8b538eef2f97f/#tables[`+clerk/table+`]
+component
+automatically limits
+itself to only showing 20 results.
+Other presentation components,
+especially text,
+have configurable
+https://github.clerk.garden/nextjournal/book-of-clerk/commit/7097b690e91a3c5297db604546f8b538eef2f97f/#elisions[_elision_]
+behaviors,
+but it doesn't apply
+to the `+table+`.
+
+After searching,
+guessing at ways to do it,
+and even asking in conference talks,
+I finally realized
+that we can render
+our own HTML
+with `+clerk/html+`
+and hiccup.
+That HTML
+is not limited
+to any size,
+and building a table
+is easy.
+We used to do it
+all the time.
+
+I wrote
+my own simple function
+to render a table,
+and I used that instead of the `+clerk/table+`.
+It takes the same parameters I was already using.
+
+----
+^{:nextjournal.clerk/visibility {:code :hide :result :hide}}
+(ns sample
+  {:nextjournal.clerk/visibility {:code :fold :result :show}}
+  (:require
+   [nextjournal.clerk :as clerk]))
+
+^{:nextjournal.clerk/visibility {:code :hide :result :hide}}
+(defn my-table
+  "display a simple table in html.
+  :head is the sequence of head labels.
+  :rows is a sequence of sequences.
+  :limit is the max to display of the rows. (default 100)"
+  [params]
+  (clerk/html [:table
+               [:thead
+                [:tr
+                 (for [h (:head params)] [:th h])]]
+               [:tbody
+                (for [r (take (or (:limit params) 100) (:rows params))]
+                  [:tr
+                   (for [c r]
+                     [:td c])])]]))
+
+(my-table
+  {:head ["x" "y"]
+   :limit 100
+   :rows [[1 2]
+          [3 4]]})
+----
