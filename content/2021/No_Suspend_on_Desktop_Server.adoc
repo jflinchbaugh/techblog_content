@@ -17,7 +17,7 @@ It's set to never sleep,
 but that's when I'm logged in.
 
 To disable sleep in the GDM3 Greeter,
-I edited the `/etc/apt/greeter.dconf-defaults`,
+I edited the `/etc/gdm3/greeter.dconf-defaults`,
 found the "Automatic suspend"/`[org/gnome/settings-daemon/plugins/power]`
 section and followed the comments to add:
 ----
