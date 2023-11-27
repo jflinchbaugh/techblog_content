@@ -1,0 +1,38 @@
+title=SmartThings Home & Away
+date=2023-11-27
+type=post
+status=published
+tags=Android, Home
+~~~~~~
+
+I have https://www.smartthings.com/[Samsung SmartThings]
+automatically setting the thermostat
+and turning things on and off
+for me
+based on the location
+of my phone (and me).
+
+Of course,
+it stopped working,
+so I needed to debug.
+All the other things connected
+to the hub were working fine.
+
+== Things That Didn't Fix It
+
+* Restart my phone
+* Wipe the SmartThings app data on my phone and login again
+* Restart the SmartThings Hub
+* Check app permissions on the phone:
+  no optimization, fine location access always on.
+
+== The Fix
+
+. Open SmartThings app on the phone
+. Menu
+. Settings Cog
+. Get your location from this phone
+. Turn it off, then back on
+. Visit my 2 location-based triggers
+  and re-add myself as a member.
+. Fixed!
