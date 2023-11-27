@@ -70,3 +70,11 @@ It takes the same parameters I was already using.
    :rows [[1 2]
           [3 4]]})
 ----
+
+== Update 2023-11-27
+
+As of the
+https://github.com/nextjournal/clerk/blob/main/CHANGELOG.md#015957-2023-09-28[0.15.957 release],
+clerk tables have a `::clerk/page-size` parameter,
+so I use that now
+instead of the code above.
