@@ -1,0 +1,18 @@
+title=KC3WWC Blog
+date=2024-04-11
+type=post
+status=published
+tags=Blog,Personal
+~~~~~~
+
+I've been playing with https://gohugo.io/[Hugo]
+for https://www.srccpaart.org/[other sites]
+and liking it a whole lot.
+
+I used it to host my next site, 
+the https://kc3wwc.johnflinchbaugh.com/[KC3WWC Amateur Radio Blog].
+I'll collect all my notes
+on amateur radio over there.
+I had been keeping a running document
+in org-roam,
+so it's now time to make it public.
