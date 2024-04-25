@@ -1,0 +1,30 @@
+title=ReloaderJS
+date=2024-04-25
+type=post
+status=published
+tags=Code, Web
+~~~~~~
+
+I created a little
+https://github.com/jflinchbaugh/reloaderjs[ReloaderJS]
+script that I use with a couple projects.
+Upon applying the script,
+the page is always reloaded
+and up-to-date
+any time I switch to the tab
+or wake the laptop.
+
+The script allows reloading
+at a period that matches
+the schedule
+at which the underlying site
+is updated.
+It also doesn't bother updating when the site
+is unavailable (down or the client is offline).
+
+It really stands out now
+when I see a site that's tried to reload
+but couldn't, so it's showing an error page
+from the browser
+when I open my laptop.
+
