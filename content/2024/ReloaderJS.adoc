@@ -27,4 +27,6 @@ when I see a site that's tried to reload
 but couldn't, so it's showing an error page
 from the browser
 when I open my laptop.
+It feels good to have solved
+that problem for myself.
 
