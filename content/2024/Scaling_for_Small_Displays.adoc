@@ -23,6 +23,7 @@ headerbar {
   font-size: 12pt;
   min-height: 0px;
 }
+
 headerbar * {
   margin: 0;
   padding: 0;
