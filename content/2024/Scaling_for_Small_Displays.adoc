@@ -5,8 +5,6 @@ status=published
 tags=Computers, Hardware, Linux
 ~~~~~~
 
-== A header
-
 I bought a very small laptop
 to use with radio work in the field,
 and the screen resolution is a bit small (1366x768).
