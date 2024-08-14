@@ -1,0 +1,52 @@
+title=Scaling for Small Displays
+date=2024-08-13
+type=post
+status=published
+tags=Computers, Hardware, Linux
+~~~~~~
+
+== A header
+
+I bought a very small laptop
+to use with radio work in the field,
+and the screen resolution is a bit small (1366x768).
+Pair the small display
+with current desktop environments'
+tendency toward chunky, touch-friendly interfaces,
+and it doesn't allow one to cram much on the screen.
+
+My desktop environment is Gnome,
+so I slimmed it down with some stylesheets:
+----
+headerbar {
+  margin: 0 1em 0 1em;
+  padding: 0;
+  border-width: 0px;
+  font-size: 12pt;
+  min-height: 0px;
+}
+headerbar * {
+  margin: 0;
+  padding: 0;
+  border-radius: 0;
+  border-width: 0px;
+  min-height: 0px;
+}
+
+headerbar box {
+  padding: 0.1em 0.5em 0.1em 0.5em;
+}
+----
+
+
+WSJT-X is a QT app,
+so I scaled the fonts
+there to make everything fit better by setting the DPI
+in a launch script:
+----
+#!/bin/sh
+
+export QT_FONT_DPI=75
+/usr/bin/wsjtx
+----
+
