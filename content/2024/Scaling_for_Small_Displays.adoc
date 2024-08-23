@@ -18,7 +18,8 @@ so I slimmed it down with some stylesheets:
 ----
 headerbar {
   margin: 0 1em 0 1em;
-  padding: 0;
+  padding-top: 0;
+  padding-bottom: 0;
   border-width: 0px;
   font-size: 12pt;
   min-height: 0px;
@@ -26,7 +27,8 @@ headerbar {
 
 headerbar * {
   margin: 0;
-  padding: 0;
+  padding-top: 0;
+  padding-bottom: 0;
   border-radius: 0;
   border-width: 0px;
   min-height: 0px;
