@@ -1,0 +1,133 @@
+title=Clojure Projects
+date=2025-03-24
+type=post
+status=published
+tags=3D-Printing, Clojure, Code, Computers, Emacs, Music, Web-Dev
+~~~~~~
+
+I have a
+https://github.com/jflinchbaugh?tab=repositories&language=clojure[long list of Clojure projects]
+I've created over the years to learn Clojure
+and accomplish various personal tasks.
+
+== Advent of Code
+As of the end of 2024,
+I've done at least some of https://adventofcode.com/[Advent of Code]
+for 7 years in a row.
+I've had the most fun and practice
+parsing and transforming
+the input data
+for each puzzle.
+
+I learned pretty quickly from the puzzles
+to store the common grids as sparse maps
+to save lots of memory and keep the problem in memory.
+I sometimes got stuck on the puzzle and the algorithm,
+but I still got lots of practice in general Clojure.
+I definitely see that the Clojure data structures
+lend themselves well to the puzzles.
+I've gotten to effectively apply
+lots of common Clojure libraries
+like `core.async` and `core.logic`.
+
+== Incidents
+My https://github.com/jflinchbaugh/incidents[incidents project]
+scrapes an RSS feed of emergency response incidents
+in Lancaster County
+and stores them into an `XTDB` database
+for history.
+It generates static site of current events with `hiccup`
+and historical charts with Clerk.
+
+
+https://www.hjsoft.com/~john/incidents/[Running this project]
+day-to-day,
+I learned that the Clojure/JVM start up
+is a bit too heavy to start frequently
+from `cron`,
+so I run it as a service in `systemd` with its own scheduling.
+Clerk and the amount of data I'm processing
+is also a bit heavy,
+so I have that scheduled to rebuild less frequently than the scraper.
+The site is still all static.
+
+== Event Logger
+With https://github.com/jflinchbaugh/event-logger[this CLJS project],
+I was trying to derive a standard `shadow-cljs` workflow
+to make sure I could start any new CLJS web project quickly.
+It started using Reagent,
+and I migrated to Helix
+to be less-insulated from newer React features.
+I also wrote code to migrate data
+in local browser storage from an old Transit format
+to EDN.
+I'm constantly learning the better flows
+for data in React and local storage.
+
+== COVID Warehouse and COVID Web
+
+The beginning of 2020
+provided some of us with lots of downtime,
+so I started loading and analyzing Johns Hopkins University's
+data on COVID
+with my own https://github.com/jflinchbaugh/covid-warehouse[data warehouse]
+and https://github.com/jflinchbaugh/covid-web[web app to display my data].
+
+The data was pretty messy early on,
+and it changed over time,
+so I needed to parse lots of different formats.
+I generated a static site with my historic graphs
+and focused on World, US, and counties in Pennsylvania.
+It was a classic ETL for a star schema data warehouse,
+since I wanted to refresh my experience on that.
+I initially stored in in a SQL database
+using `hugsql` and `next.jdbc`.
+
+After a bit of time,
+this became my first project to explore CRUX/XTDB
+and NoSQL data structures.
+I learned a bit about how changes applied in XTDB
+and how to limit history
+and otherwise save space
+on my small server environment.
+I could easily apply `core.async`
+when it was time to get things done faster.
+
+The https://github.com/jflinchbaugh/covid-web[web app project]
+that I added later
+provided a more dynamic Reagent app in CLJS
+that used the static data produced by warehouse project.
+
+== Planning Poker
+I wanted a https://github.com/jflinchbaugh/planning-poker[simple tool]
+for conducting planning poker in sprint planning,
+so I built one
+in JS to run on mobile phones.
+When I started learning CLJS,
+I converted it to Reagent and used Leiningen to build it.
+
+== Clojure All the Other Things!
+
+I've enjoyed finding there are ways to apply Clojure to everything!
+
+=== Structured Intepretation of Computer Programs
+I'm reading SICP and
+https://github.com/jflinchbaugh/sicp[implementing all the exercises in Clojure].
+
+=== Music in Overtone
+I have a https://github.com/jflinchbaugh/music[project]
+where I play with data structures for music
+and explore lots of examples in Overtone,
+including Rich Hickey's experiments in additive synthesis
+and sequencing some simple beats
+from drum-n-bass tutorials for other DAWs.
+
+It required lots of yak-shaving work over the years to keep
+the native wiring to Supercollider and Linux sound working.
+
+=== 3D Objects
+I've found a library to interface
+Clojure to OpenSCAD,
+so I have some 
+https://github.com/jflinchbaugh/objects-clj/[3D models defined in Clojure code]
+for printing.
