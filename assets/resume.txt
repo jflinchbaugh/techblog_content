@@ -1,16 +1,17 @@
 John M. Flinchbaugh
 
-john@hjsoft.com Lancaster, PA, USA
+john@hjsoft.com
+Lancaster, PA, USA
 
 EXPERIENCE
 
 -   Senior Data Engineer, April 2019–present. Sonatype. Remote.
 
-    -   Maintained, reviewed, tested, and evolved changes to our
-        existing pipelines and support tools for researchers for
-        cataloging and reporting on open source libraries across
-        multiple ecosystems using AWS, Databricks, Spark, Java, Python,
-        and Scala.
+    -   Maintained, reviewed, tested, and designed changes to our
+        existing data pipelines and support tools used by researchers
+        for cataloging on open source libraries across multiple
+        ecosystems using AWS, Databricks, Spark, Java, Python, Scala,
+        and Clojure.
 
     -   Upgraded, and maintained software dependencies to remediate
         security vulnerabilities.
@@ -18,11 +19,11 @@ EXPERIENCE
     -   Packaged applications for deployment by consumers with Docker,
         Podman, Helm, Kubernetes.
 
-    -   Reviewed, tested, and built integration features for different
-        languages and platforms: Java, Groovy, Javascript, Typescript,
-        Jenkins, Azure DevOps.
+    -   Reviewed, tested, and built integration features for many
+        development and deployment platforms: Java, Groovy, Javascript,
+        Typescript, Jenkins, Azure DevOps.
 
-    -   Certified Scrum Master for my team and other teams.
+    -   Certified Scrum Master for my team and others.
 
 -   Contract Software Engineer, November 2014–January 2019. e&e
     Consulting Services / PennState Hershey Medical Center. Hershey, PA.
@@ -113,6 +114,8 @@ EXPERIENCE
     -   Installed network hardware and built monitoring tools.
 
 EDUCATION
+
+-   Scrum Alliance. Certified Scrum Master. 2022–current.
 
 -   Millersville University. Bachelor of Science in Computer Science.
     May 2000.
