@@ -9,9 +9,8 @@ EXPERIENCE
 
     -   Maintained, reviewed, tested, and designed changes to our
         existing data pipelines and support tools used by researchers
-        for cataloging on open source libraries across multiple
-        ecosystems using AWS, Databricks, Spark, Java, Python, Scala,
-        and Clojure.
+        for cataloging open source libraries across multiple ecosystems
+        using AWS, Databricks, Spark, Java, Python, Scala, and Clojure.
 
     -   Upgraded, and maintained software dependencies to remediate
         security vulnerabilities.
