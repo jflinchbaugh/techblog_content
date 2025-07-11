@@ -17,7 +17,8 @@ for 7 years in a row.
 I've had the most fun and practice
 parsing and transforming
 the input data
-for each puzzle.
+for each puzzle
+into a suitable model.
 
 I learned pretty quickly from the puzzles
 to store the common grids as sparse maps
@@ -37,8 +38,7 @@ in Lancaster County
 and stores them into an `XTDB` database
 for history.
 It generates static site of current events with `hiccup`
-and historical charts with Clerk.
-
+and historical charts with https://clerk.vision/[Clerk].
 
 https://www.hjsoft.com/~john/incidents/[Running this project]
 day-to-day,
@@ -46,8 +46,8 @@ I learned that the Clojure/JVM start up
 is a bit too heavy to start frequently
 from `cron`,
 so I run it as a service in `systemd` with its own scheduling.
-Clerk and the amount of data I'm processing
-is also a bit heavy,
+Clerk is also a bit heavy
+with the amount of historical data,
 so I have that scheduled to rebuild less frequently than the scraper.
 The site is still all static.
 
