@@ -64,6 +64,11 @@ to EDN.
 I'm constantly learning the better flows
 for data in React and local storage.
 
+This project also now has a
+https://github.com/jflinchbaugh/event-logger[back-end API]
+running on `http-kit` as a server
+and storing its data in XTDB 2.
+
 == COVID Warehouse and COVID Web
 
 The beginning of 2020

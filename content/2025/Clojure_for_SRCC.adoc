@@ -1,0 +1,105 @@
+title=Clojure for SRCC
+date=2025-08-11
+type=post
+status=published
+tags=Clojure, Code, Computers, Entertainment, Hardware, Linux, Music
+~~~~~~
+
+For our local art collective,
+https://www.srccpaart.org/[Susquehanna River Creative Collective] (SRCC),
+I setup some Raspberry PIs connected to televisions
+to display our flyers advertising benefits of membership
+and upcoming events.
+
+== Initial Setup for Displays
+
+The machines are behind a firewall,
+so I had the machines periodically pull the event images
+from the https://www.srccpaart.org/[website],
+and I can change out the images on the website any time.
+
+This was all done with desktop autostart scripts
+and `cron` for quite some time,
+but eventually, we needed more control.
+
+== The New Setup for Displays
+
+We wanted to have different sets of images
+and to be able to choose them.
+For a show, we may want to only show the logo,
+while other times might call
+for all the normal advertisements.
+
+The machines have no keyboards or mice,
+so they needed to be controlled by a web browser.
+I also don't know if they'll start up
+on the same IP addresses,
+so I needed a bit of Javascript in a static place
+to have the browser search and find running slide servers.
+
+The https://github.com/jflinchbaugh/srcc-slide-server[service on each machine]
+now runs as a https://babashka.org/[babashka script] that starts upon automatic login.
+It pulls new images from the website
+and from a Google Drive,
+periodically refreshes them,
+and starts Eye of Mate (`eom`)
+to run the slide show.
+
+The babashka script
+also starts a small web server
+on `http-kit` to let us
+to choose image sets
+and to trigger a refresh of the images.
+`http-kit` is provided by default in babashka.
+
+== Updating the Website with More Clojure Code and AI
+
+The SRCC website is a static site built
+with Hugo,
+so I add all the events to it
+via an image or 2 and some YAML.
+It's hard to train another normal person
+to do this stuff,
+so the responsibility fell exclusively on me.
+I scripted it up with some bash,
+but that's still only accessible to me.
+
+Finally,
+I've been coding all Clojure code
+for the past couple weeks,
+and I've started playing
+with https://cloud.google.com/gemini/docs/codeassist/gemini-cli[Gemini CLI]
+to see what it can do
+with some Clojure code.
+
+I now have a web form available to
+https://github.com/jflinchbaugh/srcc-builder[allow others to create events]
+for the website,
+and it interacts with `git`
+for publishing to the Hugo site.
+
+The service is deployed on my normal Linux servers
+as a container run by `podman kube play`
+and `systemd quadlet`.
+
+I can direct Gemini to make changes
+or add features,
+and I review the code,
+ask for corrections
+or just make updates myself.
+It's kind of like pair programming
+with someone who's really good
+at Googling answers
+and jumping to some (mostly) useful conclusions.
+Having the AI agent has helped maintain some momentum
+and saved me jumping down some deep rabbit holes
+before I needed.
+
+Gemini's CLI interface
+makes it easy to switch to another project directory
+and let it try some stuff on lots of my projects recently.
+
+I had also played with Claude CLI
+for a day,
+but Gemini's free tier
+is proving capable enough for me so far.
