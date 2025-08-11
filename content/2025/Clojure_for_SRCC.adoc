@@ -96,6 +96,8 @@ and jumping to some (mostly) useful conclusions.
 Having the AI agent has helped maintain some momentum
 and saved me jumping down some deep rabbit holes
 before I needed.
+I'm asking it for small changes and iterating,
+not trying to get it to do everything in one shot.
 
 Gemini's CLI interface
 makes it easy to switch to another project directory
