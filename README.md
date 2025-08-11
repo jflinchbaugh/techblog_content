@@ -11,5 +11,7 @@ To build and watch:
 % jbake -b -s
 ```
 
+JBake requires Java 11 or earlier.
+
 Licensed CC BY-SA 2.0.
 
