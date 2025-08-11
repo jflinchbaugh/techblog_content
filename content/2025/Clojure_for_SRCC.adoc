@@ -13,7 +13,9 @@ and upcoming events.
 
 == Initial Setup for Displays
 
-The machines are behind a firewall,
+The machines are behind a firewall
+and running on a read-only overlay filesystem
+for resiliency,
 so I had the machines periodically pull the event images
 from the https://www.srccpaart.org/[website],
 and I can change out the images on the website any time.
