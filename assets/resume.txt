@@ -1,17 +1,19 @@
 John M. Flinchbaugh
 
 john@hjsoft.com
-github.com/jflinchbaugh
 Lancaster, PA, USA
+github.com/jflinchbaugh
 
 EXPERIENCE
 
--   Senior Data Engineer, April 2019–present. Sonatype. Remote.
+-   Senior Data Engineer, April 2019–August 2025. Sonatype. Remote.
 
-    -   Maintained, reviewed, tested, and designed changes to our
-        existing data pipelines and support tools used by researchers
+    -   Maintained data pipelines and support tools used by researchers
         for cataloging open source libraries across multiple ecosystems
         using AWS, Databricks, Spark, Java, Python, Scala, and Clojure.
+
+    -   Extensively reviewed others’ code for correctness, quality, and
+        future maintainability.
 
     -   Upgraded, and maintained software dependencies to remediate
         security vulnerabilities.
