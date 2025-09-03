@@ -1,10 +1,16 @@
 John M. Flinchbaugh
 
 john@hjsoft.com
-Lancaster, PA, USA
 github.com/jflinchbaugh
+Lancaster, PA, USA
 
 EXPERIENCE
+
+-   Many Clojure Projects on GitHub, 2018–current. Personal.
+
+    -   Back-end, front-end, mobile, CLI, static content.
+
+    -   https://github.com/jflinchbaugh?tab=repositories&language=clojure
 
 -   Senior Data Engineer, April 2019–August 2025. Sonatype. Remote.
 
