@@ -1,0 +1,53 @@
+title=Porting Scripts for GIMP 3.0
+date=2025-11-26
+type=post
+status=published
+tags=Code, Computers, Linux, Photography
+~~~~~~
+
+GIMP 3.0 hit my Linux machines a while ago,
+and all my personal and 3rd-party scripts broke.
+
+I finally took a moment to look at the errors
+and figure out what needed to be updated.
+
+My simplest script merely sets the current layer's blend mode
+to _Soft Light_, but even that broke.
+Why's that useful? Once there's an action in the menu,
+I can bind a keyboard shortcut (Ctrl-S)
+to it.
+I need to switch lots of new layers
+to Soft Light:
+High Pass for sharpening,
+or a layer for dodging and burning.
+
+Registering the menu is what often failed:
+----
+attempted to install procedure ""
+with a full menu path "<Image>/Shortcuts/_Change to Softlight" as menu label,
+this is not supported any longer.
+----
+
+To fix it,
+we move the menu path into a separate call, instead of all at once
+in `script-fu-register`.
+
+Here's the fixed script:
+----
+(define (softlight-layer img inLayer)
+  (gimp-layer-set-mode inLayer LAYER-MODE-SOFTLIGHT)
+    (gimp-displays-flush))
+
+(script-fu-register
+    "softlight-layer"                         ;function name
+    "Change to Softlight"                     ;menu label
+    "Change current layer to Softlight mode"  ;description
+    "John Flinchbaugh"                        ;author
+    "Copyright 2025, John Flinchbaugh"        ;copyright notice
+    "November 26, 2025"                       ;date created
+    "RGB* GRAY*"                              ;image type that the script works on
+    SF-IMAGE "image" 0
+    SF-DRAWABLE "drawable" 0)
+
+(script-fu-menu-register "softlight-layer" "<Image>/Shortcuts")
+----
