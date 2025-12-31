@@ -1,0 +1,78 @@
+title=Iterative Development with Gemini CLI
+date=2025-12-31
+type=post
+status=published
+tags=Clojure, Code, Computers, Emacs, Google, Technology
+~~~~~~
+
+## Models and Expectations
+
+I've had https://github.com/google-gemini/gemini-cli[Gemini CLI]
+installed on my workstation
+since August 2025.
+
+Originally,
+it would default
+to use the `gemini-2.5-pro` model
+and your "access" to that
+would run out for the day,
+and it would switch to using `gemini-2.5-flash`.
+I found the `flash` model to be adequate
+for the way I'd use it to do Clojure and ClojureScript,
+so most the time I'd override
+it to just use `flash` from the beginning.
+I thought I could kick over to `pro`
+if I found a problem for which I'd need more power.
+
+Eventually,
+`gemini-cli` started switching back and forth
+between models more intelligently,
+so it didn't burn through your limited access
+to `pro`,
+so I no longer override it with `3.0` models.
+
+## Pairing with a Junior Developer
+
+The AI agent by itself
+has read lots of documentation,
+and it's pretty good at Googling the answers to questions
+and picking something to try.
+(_I_ often get a bit of analysis paralysis
+when trying to choose a library.)
+It can be surprisingly good
+at translating sample usage
+of some JavaScript library
+it finds into a simple bit of ClojureScript.
+
+In my experience,
+it's sometimes bad at matching parentheses,
+so I just fix them myself.
+Recently,
+it may be getting better,
+and some https://github.com/bhauman/clojure-mcp[Clojure MCP] projects
+can cleanup parentheses automatically.
+
+I only ask it to do small tasks,
+and I closely review and test
+the code it generates.
+When it looks good,
+I commit and push the code,
+but I know I can always
+easily go back to a previous working version
+when the AI goes off the rails.
+I don't have to worry too much
+about it getting too confused
+or destroying something.
+I tell it to forget what we were doing,
+`/clear` the context,
+or just restart the agent completely,
+and recover my known good state from `git`.
+
+I find that even if it fails to complete a task,
+I at least learn a little from what it did,
+and often have an initial direction or two
+to explore.
+
+It's pretty good at keeping my momentum
+when working and keeping me from spinning my wheels,
+like pairing with another programmer.
