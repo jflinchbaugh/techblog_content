@@ -25,7 +25,7 @@ I thought I could kick over to `pro`
 if I found a problem for which I'd need more power.
 
 Eventually,
-`gemini-cli` started switching back and forth
+Gemini CLI started switching back and forth
 between models more intelligently,
 so it didn't burn through your limited access
 to `pro`,
