@@ -9,7 +9,7 @@ EXPERIENCE
 -   Many Clojure Projects on GitHub, 2018–current. Personal.
 
     -   Back-end, front-end (React, Reagent, Helix), mobile, CLI, static
-        content.
+        content, Docker containers, GitOps.
 
     -   https://github.com/jflinchbaugh?tab=repositories&language=clojure
 
