@@ -8,8 +8,17 @@ EXPERIENCE
 
 -   Many Clojure Projects on GitHub, 2018–current. Personal.
 
-    -   Back-end, front-end (React, Reagent, Helix), mobile, CLI, static
-        content, Docker containers, GitOps.
+    -   Server-side with http-kit, Ring, XTDB, PostgreSQL, EDN, JSON,
+        XML.
+
+    -   Front-end with ClojureScript, React, Reagent, Helix.
+
+    -   Testing with clojure.test, React Testing Library, Etaoin,
+        embedded databases.
+
+    -   Deployment to web, mobile web, static content, Linux CLI &
+        services with deps.edn, shadow-cljs, Leiningen, Git, Docker,
+        Make, Bash.
 
     -   https://github.com/jflinchbaugh?tab=repositories&language=clojure
 
@@ -28,9 +37,9 @@ EXPERIENCE
     -   Packaged applications for deployment by consumers with Docker,
         Podman, Helm, Kubernetes.
 
-    -   Reviewed, tested, and built integration features for many
-        development and deployment platforms: Java, Groovy, Javascript,
-        Typescript, Jenkins, Azure DevOps.
+    -   Reviewed, tested, and built integration features for development
+        and deployment platforms: Java, Groovy, Javascript, Typescript,
+        Jenkins, Azure DevOps, IDEA.
 
     -   Certified Scrum Master for my team and others.
 
