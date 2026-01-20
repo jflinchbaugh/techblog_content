@@ -28,8 +28,8 @@ that allow plugging a CW key or Iambic paddle
 into the computer
 for use with https://hamradio.solutions/vband/[vBand]
 or https://www.reddit.com/r/amateurradio/comments/1k379qp/what_else_can_i_use_my_vband_interface_on/[other games].
-The paddles are mapped to Left and Right Ctrl keys
-on the keyboard,
+The adapter presents as a keyboard,
+and the paddles show up as additional Left and Right Ctrl keys,
 so if you happen to be running `keyd`,
 its default behavior will interfere
 and cause both sides of the paddle to trigger the same dit or dah.
@@ -48,6 +48,8 @@ leftshift+leftmeta+f23 = rightcontrol
 # keep right ctrl as it is. keyd by default remaps it to left ctrl for some reason
 rightcontrol = rightcontrol
 ----
+
+Restart `keyd`: `systemctl restart keyd`
 
 == Testing
 
