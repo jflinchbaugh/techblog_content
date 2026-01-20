@@ -10,7 +10,8 @@ tags=Computers, Hardware, Linux, Lenovo
 The Lenovo IdeaPad 5 has a CoPilot where it should have
 a Control Key.
 The key simulates a combination of keys,
-so normal ways of mapping the key do not work.
+so normal ways of mapping the key
+(`udev/hwdb.d` on Debian) do not work.
 https://askubuntu.com/questions/526449/how-to-remap-the-windows-copilot-key-in-ubuntu[`keyd` can hook the key],
 though,
 and present another virtual keyboard device.
