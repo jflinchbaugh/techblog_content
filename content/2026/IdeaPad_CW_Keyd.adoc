@@ -1,4 +1,4 @@
-title=Remapping CoPilot Key on IdeaPad with Keyd and CW
+title=Remapping the CoPilot Key on IdeaPad with Keyd and CW
 date=2026-01-19
 type=post
 status=published
