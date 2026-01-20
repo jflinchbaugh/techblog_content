@@ -1,0 +1,59 @@
+title=Remapping CoPilot Key on IdeaPad with Keyd and CW
+date=2026-01-19
+type=post
+status=published
+tags=Computers, Hardware, Linux, Lenovo
+~~~~~~
+
+== The CoPilot Key
+
+The Lenovo IdeaPad 5 has a CoPilot where it should have
+a Control Key.
+The key simulates a combination of keys,
+so normal ways of mapping the key do not work.
+https://askubuntu.com/questions/526449/how-to-remap-the-windows-copilot-key-in-ubuntu[`keyd` can hook the key],
+though,
+and present another virtual keyboard device.
+
+== Left and Right Ctrl
+
+Apparently, people often want `keyd`
+for mapping the Right Ctrl to the Left Ctrl,
+so it does it by default.
+
+== USB Adapter for CW Keys
+
+There are inexpensive USB adapters
+that allow plugging a CW key or Iambic paddle
+into the computer
+for use with https://hamradio.solutions/vband/[vBand]
+or https://www.reddit.com/r/amateurradio/comments/1k379qp/what_else_can_i_use_my_vband_interface_on/[other games].
+The paddles are mapped to Left and Right Ctrl keys
+on the keyboard,
+so if you happen to be running `keyd`,
+its default behavior will interfere
+and cause both sides of the paddle to trigger the same dit or dah.
+Fortunately, we can undo this broken behavior to get the key working again.
+
+== The Complete Configuration
+
+Create `/etc/keyd/default.conf`:
+----
+[ids]
+*
+
+[main]
+# copilot key
+leftshift+leftmeta+f23 = rightcontrol
+# keep right ctrl as it is. keyd by default remaps it to left ctrl for some reason
+rightcontrol = rightcontrol
+----
+
+== Testing
+
+After the mappings have been applied,
+you can be observe it with `evtest`.
+You'll also see the key working in vBand.
+
+I wouldn't have needed `keyd` if it wasn't for
+needing to remap the useless CoPilot key.
