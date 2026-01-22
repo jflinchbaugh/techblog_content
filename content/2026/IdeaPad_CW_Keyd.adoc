@@ -16,12 +16,6 @@ https://askubuntu.com/questions/526449/how-to-remap-the-windows-copilot-key-in-u
 though,
 and present another virtual keyboard device.
 
-== Left and Right Ctrl
-
-Apparently, people often want `keyd`
-for mapping the Right Ctrl to the Left Ctrl,
-so it does it by default.
-
 == USB Adapter for CW Keys
 
 There are inexpensive USB adapters
@@ -30,9 +24,11 @@ into the computer
 for use with https://hamradio.solutions/vband/[vBand]
 or https://www.reddit.com/r/amateurradio/comments/1k379qp/what_else_can_i_use_my_vband_interface_on/[other games].
 The adapter presents as a keyboard,
-and the paddles show up as additional Left and Right Ctrl keys,
-so if you happen to be running `keyd`,
-its default behavior will interfere
+and the paddles show up as additional Left and Right Ctrl keys.
+If you are running `keyd` on the machine,
+its default behavior of mapping Right Ctrl to be Left Ctrl
+(which I guess lots of people find useful)
+will interfere
 and cause both sides of the paddle to trigger the same dit or dah.
 Fortunately, we can undo this broken behavior to get the key working again.
 
