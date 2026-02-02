@@ -9,7 +9,7 @@ EXPERIENCE
 -   Many Clojure Projects on GitHub, 2018–current. Personal.
 
     -   Server-side with http-kit, Ring, XTDB, PostgreSQL, EDN, JSON,
-        XML.
+        CSV, XML.
 
     -   Front-end with ClojureScript, React, Reagent, Helix.
 
@@ -57,7 +57,7 @@ EXPERIENCE
         programming in Groovy.
 
     -   Replaced legacy Java applications with a modern Grails, Groovy,
-        and Javascript.
+        Spring Boot, and Javascript.
 
 -   Software Engineer, May 2012–October 2014. Learning Sciences
     International, Mount Joy, PA.
