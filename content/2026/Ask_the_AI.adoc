@@ -19,7 +19,7 @@ optimizations and refactorings
 to improve the code
 when asked.
 
-But I'd like to remind you
+I'd still like to remind you
 to _ask the AI to explain itself_.
 It's still our responsibility
 to understand what it's doing
