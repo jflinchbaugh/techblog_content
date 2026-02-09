@@ -1,0 +1,34 @@
+title=Ask the AI
+date=2026-02-09
+type=post
+status=published
+tags=Clojure, Code, Computers, Technology
+~~~~~~
+
+https://github.com/google-gemini/gemini-cli[Gemini CLI]
+is getting even stronger
+for https://clojure.org/[Clojure] code.
+The https://github.com/bhauman/clojure-mcp[`clojure-mcp`]
+is part of that power:
+it's exploring the code and fixing up syntax
+quicker now.
+
+In addition to writing code,
+it's been good at listing and implementing
+optimizations and refactorings
+to improve the code
+when asked.
+
+But I'd like to remind you
+to _ask the AI to explain itself_.
+It's still our responsibility
+to understand what it's doing
+and to question its decisions,
+just like we would
+to get the best we can
+from any other teammate.
+It's our opportunity to learn
+and understand too
+from a very comprehensive
+summary of all the internet searches
+I used to need to do for myself.
