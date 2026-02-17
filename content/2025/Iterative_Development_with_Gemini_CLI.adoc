@@ -67,6 +67,9 @@ I tell it to forget what we were doing,
 `/clear` the context,
 or just restart the agent completely,
 and recover my known good state from `git`.
+(Update 2026-02-17:
+`/rewind` may be better these days
+for clearing some context.)
 
 I find that even if it fails to complete a task,
 I at least learn a little from what it did,
