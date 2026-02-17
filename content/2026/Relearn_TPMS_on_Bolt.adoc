@@ -31,10 +31,8 @@ done it by deflating the tires in turn
 to also trigger the sensor on demand.
 
 * Activate the _Service Mode_
-* Activate "TPMS Relearn" in the car
   by pressing the _Start_ button
   for 5 seconds with no foot on the brake.
-  The car is now in Service Mode
 * On the driver's display,
   select the _Tire Pressure_ display,
   and click it to activate _Relearn Mode_.
