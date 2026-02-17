@@ -1,0 +1,55 @@
+title=Relearn TPMS on Bolt
+date=2026-02-17
+type=post
+status=published
+tags=Home, Technology
+~~~~~~
+
+I saw a tire was low on the display
+of my https://www.kbb.com/chevrolet/bolt-ev/2017/[2017 Chevy Bolt EV],
+so I topped up the tire
+with my little tire inflator.
+The next day,
+I noticed it was still low,
+so I hit it again
+and brought it up a little higher.
+When I checked in the car again,
+I saw it's still low, but the back tire is high.
+_The TPMS sensors aren't in the right place._
+
+They apparently are the type of sensors
+that I can receive with my https://www.rtl-sdr.com/[RTL-SDR]
+as they drive by the house.
+
+To get the car to register each sensor in the right place,
+I needed to tell it to relearn the IDs.
+I bought a https://www.amazon.com/dp/B072BK693N[little tool for $10]
+to trigger the sensors,
+but I apparently could have also
+done it by deflating the tires in turn
+to also trigger the sensor on demand.
+
+* Activate the _Service Mode_
+* Activate "TPMS Relearn" in the car
+  by pressing the _Start_ button
+  for 5 seconds with no foot on the brake.
+  The car is now in Service Mode
+* On the driver's display,
+  select the _Tire Pressure_ display,
+  and click it to activate _Relearn Mode_.
+  The horn chirps twice at the start,
+  and the display says it's active.
+* Start at the front left tire.
+* Place the relearn tool
+  next to the sidewall near the valve stem
+  and pointing the antenna toward the center of the wheel.
+* Press the button once
+  and it'll transmit for 10 seconds or so,
+  to trigger the TPMS sensor.
+* The car chirps the horn
+  when it registers the actiated sensor.
+* Go around to the others tires clockwise
+  (front left, front right, back right, back left)
+  activating each in turn.
+  The car will chirp the horn as each sensor registers.
+* Done!
