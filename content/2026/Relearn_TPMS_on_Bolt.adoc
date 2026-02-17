@@ -2,7 +2,7 @@ title=Relearn TPMS on Bolt
 date=2026-02-17
 type=post
 status=published
-tags=Home, Technology
+tags=Home, Technology, Bolt-EV
 ~~~~~~
 
 I saw a tire was low on the display
