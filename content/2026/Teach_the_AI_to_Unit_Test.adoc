@@ -30,3 +30,18 @@ to observe errors,
 search for fixes,
 and applying those fixes
 around the codebase.
+
+The tests also give you,
+the human,
+an easier entry point to evaluate
+the code the AI generated.
+If the tests look gnarly,
+you know to suggest refactorings
+to improve the architecture
+and make it easier to test.
+When the AI has the tests passing,
+and the test code is easy enough to read,
+then you can have a closer look
+at the application code
+to refine
+and keep that maintainable too.
