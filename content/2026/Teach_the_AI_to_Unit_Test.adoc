@@ -1,0 +1,30 @@
+title=Teach the AI to Unit Test
+date=2026-02-19
+type=post
+status=published
+tags=Clojure, Code, Computers, Google, Technology, Testing
+~~~~~~
+
+The Gemini AI will make some pretty good guesses
+about how a 3rd-party API may work.
+It _is_ good at searching the internet.
+But when APIs have changed,
+old and new docs and examples it'll find
+can confuse it.
+In a dynamic language and environment
+you'll not spot these errors
+until runtime.
+
+To combat the ambiguity,
+ask it to add some tests
+around the code that uses the API.
+In my case, the API is the XTDB client API.
+Once it has a way to execute the code
+through tests,
+it'll quickly start figuring out
+where it's made mistakes
+and start running its own experiments
+to observe errors,
+search for fixes,
+and applying those fixes
+around the codebase.
