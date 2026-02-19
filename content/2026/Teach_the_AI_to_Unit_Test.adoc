@@ -30,6 +30,8 @@ to observe errors,
 search for fixes,
 and applying those fixes
 around the codebase.
+I exhibit the same pattern
+when I'm doing it by hand.
 
 The tests also give you,
 the human,
