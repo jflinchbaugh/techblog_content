@@ -1,4 +1,4 @@
-title=Relearn TPMS on Bolt
+title=Relearn TPMS on the Bolt
 date=2026-02-17
 type=post
 status=published
