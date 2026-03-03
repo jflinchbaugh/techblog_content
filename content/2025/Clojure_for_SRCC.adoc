@@ -2,7 +2,7 @@ title=Clojure for SRCC
 date=2025-08-11
 type=post
 status=published
-tags=Clojure, Code, Computers, Entertainment, Hardware, Linux, Music
+tags=Clojure, Code, Computers, Entertainment, Hardware, Linux, Music, AI, Gemini
 ~~~~~~
 
 For our local art collective,

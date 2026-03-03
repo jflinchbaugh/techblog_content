@@ -2,7 +2,7 @@ title=Ask the AI
 date=2026-02-09
 type=post
 status=published
-tags=Clojure, Code, Computers, Technology
+tags=Clojure, Code, Computers, Technology, AI, Gemini
 ~~~~~~
 
 https://github.com/google-gemini/gemini-cli[Gemini CLI]

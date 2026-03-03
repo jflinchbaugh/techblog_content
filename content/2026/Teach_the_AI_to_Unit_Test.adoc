@@ -2,7 +2,7 @@ title=Teach the AI to Unit Test
 date=2026-02-19
 type=post
 status=published
-tags=Clojure, Code, Computers, Google, Technology, Testing
+tags=Clojure, Code, Computers, Google, Technology, Testing, AI, Gemini
 ~~~~~~
 
 The Gemini AI will make some pretty good guesses

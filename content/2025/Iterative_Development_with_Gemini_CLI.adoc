@@ -2,7 +2,7 @@ title=Iterative Development with Gemini CLI
 date=2025-12-31
 type=post
 status=published
-tags=Clojure, Code, Computers, Emacs, Google, Technology
+tags=Clojure, Code, Computers, Emacs, Google, Technology, AI, Gemini
 ~~~~~~
 
 ## Models and Expectations
