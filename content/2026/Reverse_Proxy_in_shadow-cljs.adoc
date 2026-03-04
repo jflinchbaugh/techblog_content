@@ -2,7 +2,7 @@ title=Reverse Proxy in shadow-cljs
 date=2026-03-03
 type=post
 status=published
-tags=3D-Printing, Amazon, Android, Blog, Blog-Code, Bolt-EV, Books, Clojure, Code, Computers, Cooking, Emacs, Entertainment, Food, Friends, Games, Google, Hardware, Home, Humor, Java, Linux, Mac, Mobile, Music, Podcasts, Politics, Recipe, Technology, Testing, Toys, Video, Web, Work
+tags=Clojure, Code, Computers
 ~~~~~~
 
 I've broken my reverse proxy configuration
