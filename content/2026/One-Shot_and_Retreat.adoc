@@ -21,7 +21,8 @@ to see what https://geminicli.com/[Gemini CLI]
 can mostly do on its own
 in "one shot".
 
-I wrote an initial spec,
+I wrote an initial
+https://github.com/jflinchbaugh/timeline/blob/main/SPEC.md[spec],
 and I told the agent to read it
 and implement the whole thing.
 Of course,
