@@ -1,0 +1,72 @@
+title=One-Shot and Retreat
+date=2026-03-30
+type=post
+status=published
+tags=Clojure, Code, Games, Google, Technology
+~~~~~~
+Years ago,
+I played a Timeline game
+with some coworkers,
+and I immediately wanted
+to play this game
+to sequence other events
+in more specific
+(or even personal) domains.
+
+Years passed with only a TODO note,
+so this year,
+I figured
+this might be a good candidate
+to see what https://geminicli.com/[Gemini CLI]
+can mostly do on its own
+in "one shot".
+
+I wrote an initial spec,
+and I told the agent to read it
+and implement the whole thing.
+Of course,
+it ran off in the wrong direction for the first pass,
+so I deleted the resulting code,
+expanded the spec with some more detail,
+and kicked it off again.
+I did this about 7 more times,
+and the results kind of worked,
+but randomly included and ignored some of my directions.
+As usual,
+the guesses it took were mostly welcome,
+since I just needed to see something,
+but didn't know what yet.
+
+Spending tokens
+to generate the whole thing
+and throw it away
+spent lots of tokens
+and time.
+Is it really "one shot"
+if you need to do it multiple times?
+
+A handful of those candidate
+applications
+would have been a fine starting point,
+so I kept one,
+and went into _iterative mode_.
+From that point,
+I asked the agent for small focused changes
+like I had  for other apps.
+It's really good at gathering the context
+from the existing project
+and implementing those fixes and enhancements.
+I (we?) worked much faster and consistently
+in small bites.
+
+The agent was able to locate
+and build some datasets for me,
+but I also scraped and transformed
+a dataset from the Computer History Museum.
+That was one of my main motivations
+to get this project going.
+
+https://www.hjsoft.com/timeline[My implementation of Timeline]
+is fun to explore very specific domains
+and to learn.
+It's like flashcards.
