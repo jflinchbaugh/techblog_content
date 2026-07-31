@@ -66,3 +66,6 @@ to that subscription.
 The agent still needs
 to use the same tools
 I would use to do the work by hand.
+Without the agent,
+I may just need to focus my attention
+a bit stronger.
