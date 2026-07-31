@@ -1,5 +1,5 @@
 title=Free Hobby Coding and AI Tokens
-date=2026-07-20
+date=2026-07-31
 type=post
 status=published
 tags=Code, Computers, Google, Technology
