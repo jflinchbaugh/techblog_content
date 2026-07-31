@@ -1,0 +1,68 @@
+title=Free Hobby Coding and AI Tokens
+date=2026-07-20
+type=post
+status=published
+tags=Code, Computers, Google, Technology
+~~~~~~
+
+When I was a kid,
+I had access to a workshop full
+of scraps
+and could build all sorts
+of gadgets.
+
+When I got a computer,
+I had a `BASIC` interpreter
+and the manual.
+I'd occasionally
+buy or borrow a reference book
+from the school library,
+and I could study, experiment,
+and crank out all sorts of code
+using every page of those books.
+I always appreciated that I didn't need
+to consume raw resources
+to explore the computer and create things.
+The internet
+just brought more access.
+
+For nearly 40 years,
+I've tried to stick mostly
+to freely-available
+and open-source tools.
+I want to know that I can
+keep creating things without great expenses
+of raw materials or _subscriptions_.
+Free tools are likely
+to be the most accessible
+and have a community of users.
+
+I don't count electricity and internet access
+as _programming expenses_,
+since they're useful for other everyday tasks.
+(I _do_ sometimes worry
+about how I'd work on an airplane,
+though,
+with limited battery
+and maybe no internet access.)
+Will I consider subscription access
+to AI Models
+a utility?
+
+I'd be uncomfortable
+having the AI agent
+do all this work,
+but I take the time to review,
+understand,
+and decide to keep or toss the agent's work.
+If I don't completely understand
+the work it did,
+I ask it for explanations.
+
+I can still study and do work manually,
+and I often do,
+so I don't quite feel like I'm held hostage
+to that subscription.
+The agent still needs
+to use the same tools
+I would use to do the work by hand.
