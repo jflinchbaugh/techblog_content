@@ -6,149 +6,162 @@ Lancaster, PA, USA
 
 EXPERIENCE
 
--   Many Clojure Projects on GitHub, 2018–current. Personal.
+- Clojure/Java Developer, March 2026-present. Amplifi Loyalty Solutions.
+  Remote.
 
-    -   Server-side with http-kit, Ring, XTDB, PostgreSQL, EDN, JSON,
-        CSV, XML.
+  - Building new features for admin users in Clojurescript with Reagent.
 
-    -   Front-end with ClojureScript, React, Reagent, Helix.
+  - Building backend API services and pipelines in Java and Python on
+    AWS.
 
-    -   Testing with clojure.test, React Testing Library, Etaoin,
-        embedded databases.
+  - Rebuilding and maintaining automated testing for developers in
+    Clojure(script), Java, and Python.
 
-    -   Deployment to web, mobile web, static content, Linux CLI &
-        services with deps.edn, shadow-cljs, Leiningen, Git, Docker,
-        Make, Bash.
+  - Reviewing code of humans and AI agents to promote quality, clarity,
+    and future maintenance.
 
-    -   https://github.com/jflinchbaugh?tab=repositories&language=clojure
+- Many Clojure Projects on GitHub, 2018–current. Personal.
 
--   Senior Data Engineer, April 2019–August 2025. Sonatype. Remote.
+  - Server-side with http-kit, Ring, XTDB, PostgreSQL, EDN, JSON, CSV,
+    XML.
 
-    -   Maintained data pipelines and support tools used by researchers
-        for cataloging open source libraries across multiple ecosystems
-        using AWS, Databricks, Spark, Java, Python, Scala, and Clojure.
+  - Front-end with ClojureScript, React, Reagent, Helix.
 
-    -   Extensively reviewed others’ code for correctness, quality, and
-        future maintainability.
+  - Testing with clojure.test, React Testing Library, Etaoin, embedded
+    databases.
 
-    -   Upgraded, and maintained software dependencies to remediate
-        security vulnerabilities.
+  - Deployment to web, mobile web, static content, Linux CLI & services
+    with deps.edn, shadow-cljs, Leiningen, Git, Docker, Make, Bash.
 
-    -   Packaged applications for deployment by consumers with Docker,
-        Podman, Helm, Kubernetes.
+  - Using coding agents like Gemini and Claude.
 
-    -   Reviewed, tested, and built integration features for development
-        and deployment platforms: Java, Groovy, Javascript, Typescript,
-        Jenkins, Azure DevOps, IDEA.
+  - https://github.com/jflinchbaugh?tab=repositories&language=clojure
 
-    -   Certified Scrum Master for my team and others.
+- Senior Data Engineer, April 2019–August 2025. Sonatype. Remote.
 
--   Contract Software Engineer, November 2014–January 2019. e&e
-    Consulting Services / PennState Hershey Medical Center. Hershey, PA.
+  - Maintained data pipelines and support tools used by researchers for
+    cataloging open source libraries across multiple ecosystems using
+    AWS, Databricks, Spark, Java, Python, Scala, and Clojure.
 
-    -   Served as Scrum Master to transition teams to Agile/Scrum using
-        JIRA.
+  - Extensively reviewed others’ code for correctness, quality, and
+    future maintainability.
 
-    -   Introduced automated testing using Spock, Geb, Webdriver,
-        Gradle, and Jenkins for building and testing web applications
-        and command-line tools.
+  - Upgraded, and maintained software dependencies to remediate security
+    vulnerabilities.
 
-    -   Mentored on test-driven development (TDD) and functional
-        programming in Groovy.
+  - Packaged applications for deployment by consumers with Docker,
+    Podman, Helm, Kubernetes.
 
-    -   Replaced legacy Java applications with a modern Grails, Groovy,
-        Spring Boot, and Javascript.
+  - Reviewed, tested, and built integration features for development and
+    deployment platforms: Java, Groovy, Javascript, Typescript, Jenkins,
+    Azure DevOps, IDEA.
 
--   Software Engineer, May 2012–October 2014. Learning Sciences
-    International, Mount Joy, PA.
+  - Certified Scrum Master for my team and others.
 
-    -   Introduced automated testing and test-driven development (TDD)
-        for web application based on Grails, Spock, Geb, Webdriver,
-        Bamboo, and Jenkins.
+- Contract Software Engineer, November 2014–January 2019. e&e Consulting
+  Services / PennState Hershey Medical Center. Hershey, PA.
 
-    -   Built load tests for web applications with JMeter and custom
-        Geb/Webdriver scripts.
+  - Served as Scrum Master to transition teams to Agile/Scrum using
+    JIRA.
 
-    -   Built a data warehouse on PostgreSQL with ETL from MongoDB for
-        reporting with Pentaho and custom solutions.
+  - Introduced automated testing using Spock, Geb, Webdriver, Gradle,
+    and Jenkins for building and testing web applications and
+    command-line tools.
 
--   QA Automation Engineer, July 2010–May 2012. eBay Enterprise / GSI
-    Commerce, King of Prussia, PA.
+  - Mentored on test-driven development (TDD) and functional programming
+    in Groovy.
 
-    -   Built functional tests for browser automation in Java, TestNG,
-        Selenium WebDriver, Groovy, and Geb to test mobile e-commerce
-        web applications (for smart phone, feature phone, and keitai).
+  - Replaced legacy Java applications with a modern Grails, Groovy,
+    Spring Boot, and Javascript.
 
-    -   Refactored and enhanced existing functional test frameworks for
-        streamlining test development and to support testing desktop and
-        mobile web applications.
+- Software Engineer, May 2012–October 2014. Learning Sciences
+  International, Mount Joy, PA.
 
-    -   Supported an agile team doing mobile web development as a
-        full-time integrated team member.
+  - Introduced automated testing and test-driven development (TDD) for
+    web application based on Grails, Spock, Geb, Webdriver, Bamboo, and
+    Jenkins.
 
--   Senior Software Engineer, July 2007–May 2010. AOL MapQuest,
-    Lancaster, PA.
+  - Built load tests for web applications with JMeter and custom
+    Geb/Webdriver scripts.
 
-    -   Introduced and supported continuous integration, unit testing
-        (JUnit), test coverage (Cobertura), performance metrics
-        (JMeter), and code review for quicker, more reliable development
-        and deployment.
+  - Built a data warehouse on PostgreSQL with ETL from MongoDB for
+    reporting with Pentaho and custom solutions.
 
-    -   Worked closely with QA team members to build automated test
-        tools based on Fitnesse and Groovy.
+- QA Automation Engineer, July 2010–May 2012. eBay Enterprise / GSI
+  Commerce, King of Prussia, PA.
 
-    -   Developed an ETL system for merging and loading data into search
-        engines using Bash, Java, Ruby, Groovy, JPA, Hibernate, and
-        MySQL.
+  - Built functional tests for browser automation in Java, TestNG,
+    Selenium WebDriver, Groovy, and Geb to test mobile e-commerce web
+    applications (for smart phone, feature phone, and keitai).
 
--   Java Programmer, February 2003–July 2007. Administrative Offices of
-    Pennsylvania Courts, Mechanicsburg, PA.
+  - Refactored and enhanced existing functional test frameworks for
+    streamlining test development and to support testing desktop and
+    mobile web applications.
 
-    -   Redesigned and extended the Java EE middleware for the court
-        management system.
+  - Supported an agile team doing mobile web development as a full-time
+    integrated team member.
 
-    -   Increased long-term maintainability through refactoring into
-        frameworks and introducing a common build system.
+- Senior Software Engineer, July 2007–May 2010. AOL MapQuest, Lancaster,
+  PA.
 
-    -   Trained and mentored team members on new frameworks and unit
-        testing.
+  - Introduced and supported continuous integration, unit testing
+    (JUnit), test coverage (Cobertura), performance metrics (JMeter),
+    and code review for quicker, more reliable development and
+    deployment.
 
--   Senior Programmer/Analyst, May 2000–February 2003. Educators Mutual
-    Life & IBSi, Lancaster, PA.
+  - Worked closely with QA team members to build automated test tools
+    based on Fitnesse and Groovy.
 
-    -   Designed and built a CRM portal for insurance brokers based on
-        Java EE.
+  - Developed an ETL system for merging and loading data into search
+    engines using Bash, Java, Ruby, Groovy, JPA, Hibernate, and MySQL.
 
-    -   Built a desktop application using Java, Swing, and DB2.
+- Java Programmer, February 2003–July 2007. Administrative Offices of
+  Pennsylvania Courts, Mechanicsburg, PA.
 
-    -   Trained team members in Java EE, object-oriented design, and
-        source control.
+  - Redesigned and extended the Java EE middleware for the court
+    management system.
 
--   Student Unix Administrator and Network Analyst, March 1997–May 2000.
-    Millersville University, Millersville, PA.
+  - Increased long-term maintainability through refactoring into
+    frameworks and introducing a common build system.
 
-    -   Maintained Solaris, HP-UX, and Linux workstations and servers.
+  - Trained and mentored team members on new frameworks and unit
+    testing.
 
-    -   Installed network hardware and built monitoring tools.
+- Senior Programmer/Analyst, May 2000–February 2003. Educators Mutual
+  Life & IBSi, Lancaster, PA.
+
+  - Designed and built a CRM portal for insurance brokers based on Java
+    EE.
+
+  - Built a desktop application using Java, Swing, and DB2.
+
+  - Trained team members in Java EE, object-oriented design, and source
+    control.
+
+- Student Unix Administrator and Network Analyst, March 1997–May 2000.
+  Millersville University, Millersville, PA.
+
+  - Maintained Solaris, HP-UX, and Linux workstations and servers.
+
+  - Installed network hardware and built monitoring tools.
 
 EDUCATION
 
--   Scrum Alliance. Certified Scrum Master. 2022–current.
+- Scrum Alliance. Certified Scrum Master. 2022–current.
 
--   Millersville University. Bachelor of Science in Computer Science.
-    May 2000.
+- Millersville University. Bachelor of Science in Computer Science. May
+  2000.
 
--   Publications
+- Publications
 
-    -   Ross, Paul, R. Webster, T. Bailey, S. Conrad, M. Fiorill, J.
-        Flinchbaugh, E. Velkly, “Controlling a Pepsi Vending Machine
-        over the World Wide Web Using Java,” Proceedings of the
-        International AACE WebNet98 Conference, Orlando, Florida,
-        November 7–12, 1998.
+  - Ross, Paul, R. Webster, T. Bailey, S. Conrad, M. Fiorill, J.
+    Flinchbaugh, E. Velkly, “Controlling a Pepsi Vending Machine over
+    the World Wide Web Using Java,” Proceedings of the International
+    AACE WebNet98 Conference, Orlando, Florida, November 7–12, 1998.
 
-    -   Webster, Roger, P. Ross, T. Bailey, S. Conrad, M. Fiorill, J.
-        Flinchbaugh, E. Velkly, “Controlling a Java Enabled Pepsi
-        Vending Machine over the World Wide Web”, Proceedings of the
-        25th Annual Conference of the IEEE Industrial Electronics
-        Society IECON ’99 Conference, San Jose, California, November
-        30–Dec. 4, 1999, Vol. 1, pps. 86–90.
+  - Webster, Roger, P. Ross, T. Bailey, S. Conrad, M. Fiorill, J.
+    Flinchbaugh, E. Velkly, “Controlling a Java Enabled Pepsi Vending
+    Machine over the World Wide Web”, Proceedings of the 25th Annual
+    Conference of the IEEE Industrial Electronics Society IECON ’99
+    Conference, San Jose, California, November 30–Dec. 4, 1999, Vol. 1,
+    pps. 86–90.
