@@ -31,15 +31,16 @@ but maybe the slighly weak signal
 was https://www.reddit.com/r/USMobile/s/ONsNk7PDKU[killing my phone's battery]
 faster than I had expected.
 The phone was always a little warm.
-It was time to "teleported" my line to the next network in my test, Verizon.
+It was time to "teleport" my line to the next network in my test.
 Verizon seemed a bit stronger,
 and it's mostly fine for battery life.
 I could again see battery estimates
-over 24 hours again, instead of 12 hours.
+over 24 hours, instead of 12 hours.
 (I realize now when you read about people
-seeing terrible battery life on the "new Pixel or whatever" phone,
-while it seems fine to you,
-it may be a network thing.)
+seeing terrible battery life on the "new Pixel" or whatever,
+it may be fine for you,
+since it may be the network conditions
+causing battery drain.)
 
 US Mobile calls each network a different name:
 Warp (Verizon), Lightspeed (T-Mobile), and Dark Star (AT&T).
@@ -52,35 +53,41 @@ on the other networks simultaneously
 for $45 per line.
 I splurged and activated 2 more eSIMs
 for the other networks,
-so I could easily test
+so I could use
 all 3 networks in my travels.
 I can have 2 active at a time,
-so I have Warp and Lightspeed available
-all the time.
+so I have Warp and Lightspeed always on.
 If I see my primary network
 looks a little weak,
 I switch my data service over to the other SIM.
 If neither of the 2 look great,
 I activate the 3rd SIM to replace the backup SIM
 and run Warp and Dark Star at the same time.
+Theoretically,
+the phone will automatically switch
+to the second SIM,
+but service needs to be _completely_
+gone on the first,
+and that doesn't often happen.
 
 I like to run speed tests
 across all the networks when I have a chance.
 I most recently ran the test at the top of a mountain
 in the Michaux Forest.
-Dark Star was the winner there giving me 1200Mbps!
+Dark Star was the winner there giving me 1200Mbps downloads!
 I was excited to test all 3 networks
 to find any glimmer
 of service
 at my favorite campground
 on another weekend.
 
-So I've spent $290 for a year of service
+At this point,
+I've spent $290 for a year of service
 on all 3 networks to use as I see fit.
 I think the second year will be
 $270 + $90 + $90,
 so maybe I'll know enough
 to choose 1 or 2 network,
 but even if I keep all 3,
-I'll still be saving money
+I'll still be saving over half
 over my old post-paid AT&T account.
