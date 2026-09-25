@@ -8,7 +8,7 @@ tags=Android, Mobile, Technology
 image:{site_context}images/2026/two_networks.png[Two Networks + WIFI,role="center"]
 
 A couple months ago,
-My AT&T Wireless bill breached $90 per month
+my AT&T Wireless bill breached $90 per month
 for a single device,
 so it was time to do something about it.
 I looked around and https://www.usmobile.com/[US Mobile]
