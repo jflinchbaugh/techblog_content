@@ -1,0 +1,86 @@
+title=US Mobile
+date=2026-09-28
+type=post
+status=published
+tags=Android, Mobile, Technology
+~~~~~~
+
+image:{site_context}images/2026/two_networks.png[Two Networks + WIFI,role="center"]
+
+A couple months ago,
+My AT&T Wireless bill breached $90 per month
+for a single device,
+so it was time to do something about it.
+I looked around and https://www.usmobile.com/[US Mobile]
+looked interesting:
+I could prepay $199 for a year
+of adequate service,
+and I could choose which
+of the 3 major networks.
+The ability to _switch_ networks
+on the same plan was even more intriguing.
+
+I already knew AT&T was mostly fine,
+but a bit weak in my house,
+so I gave T-Mobile's network
+a try via my US Mobile account
+to start out.
+I found the T-Mobile network
+was really fast,
+but maybe the slighly weak signal
+was https://www.reddit.com/r/USMobile/s/ONsNk7PDKU[killing my phone's battery]
+faster than I had expected.
+The phone was always a little warm.
+It was time to "teleported" my line to the next network in my test, Verizon.
+Verizon seemed a bit stronger,
+and it's mostly fine for battery life.
+I could again see battery estimates
+over 24 hours again, instead of 12 hours.
+(I realize now when you read about people
+seeing terrible battery life on the "new Pixel or whatever" phone,
+while it seems fine to you,
+it may be a network thing.)
+
+US Mobile calls each network a different name:
+Warp (Verizon), Lightspeed (T-Mobile), and Dark Star (AT&T).
+I had eliminated any monthly payments for an entire year
+for just $199.
+Many phones allow you to have 2 active eSIMs,
+and US Mobile had an introductory deal
+to have a second (and 3rd) eSIM
+on the other networks simultaneously
+for $45 per line.
+I splurged and activated 2 more eSIMs
+for the other networks,
+so I could easily test
+all 3 networks in my travels.
+I can have 2 active at a time,
+so I have Warp and Lightspeed available
+all the time.
+If I see my primary network
+looks a little weak,
+I switch my data service over to the other SIM.
+If neither of the 2 look great,
+I activate the 3rd SIM to replace the backup SIM
+and run Warp and Dark Star at the same time.
+
+I like to run speed tests
+across all the networks when I have a chance.
+I most recently ran the test at the top of a mountain
+in the Michaux Forest.
+Dark Star was the winner there giving me 1200Mbps!
+I was excited to test all 3 networks
+to find any glimmer
+of service
+at my favorite campground
+on another weekend.
+
+So I've spent $290 for a year of service
+on all 3 networks to use as I see fit.
+I think the second year will be
+$270 + $90 + $90,
+so maybe I'll know enough
+to choose 1 or 2 network,
+but even if I keep all 3,
+I'll still be saving money
+over my old post-paid AT&T account.
